@@ -1,0 +1,1 @@
+../../../_source/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/code/experiment_config.py

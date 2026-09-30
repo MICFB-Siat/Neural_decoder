@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+torch
+h5py
+matplotlib
+threadpoolctl

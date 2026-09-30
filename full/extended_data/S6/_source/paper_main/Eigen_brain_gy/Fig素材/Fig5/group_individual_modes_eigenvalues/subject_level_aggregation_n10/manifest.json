@@ -1,0 +1,102 @@
+{
+  "backend": "Python/matplotlib",
+  "dataset": "Alice Datasets EEG-fMRI (ds002322)",
+  "group_reference": "HCP S1200 group-average template",
+  "hemisphere": "left",
+  "subjects": [
+    "sub-18",
+    "sub-22",
+    "sub-23",
+    "sub-24",
+    "sub-26",
+    "sub-30",
+    "sub-31",
+    "sub-35",
+    "sub-36",
+    "sub-37"
+  ],
+  "n_subjects": 10,
+  "bands": [
+    {
+      "label": "1–10",
+      "first_mode": 1,
+      "last_mode": 10,
+      "n_modes": 10
+    },
+    {
+      "label": "11–50",
+      "first_mode": 11,
+      "last_mode": 50,
+      "n_modes": 40
+    },
+    {
+      "label": "51–200",
+      "first_mode": 51,
+      "last_mode": 200,
+      "n_modes": 150
+    },
+    {
+      "label": "201–1000",
+      "first_mode": 201,
+      "last_mode": 1000,
+      "n_modes": 800
+    }
+  ],
+  "mode_zero": "excluded",
+  "area_normalization": "lambda_tilde_k = cortical_area * lambda_k",
+  "per_mode_metric": "200 * abs(group_scaled - individual_scaled) / (group_scaled + individual_scaled)",
+  "primary_subject_summary": "median across modes within each band",
+  "primary_boxplot_unit": "participant",
+  "sensitivity_subject_summary": "arithmetic mean across modes within each band",
+  "previous_two_subject_recovery": {
+    "status": "not_available"
+  },
+  "input_sha256": {
+    "date/generated/HCP_S1200/mode_1_5_20_40_100_200_500_1000/S1200_L_eigenvalues_mode0_to_mode1000.npy": "c374cacbfb03eb9d93015f3253e74b6d9d85c49cc63870de06bd31dc078fe2f2",
+    "date/generated/HCP_S1200/mode_1_5_20_40_100_200_500_1000/S1200_L_selected_eigenmodes_metadata.npz": "b3058b9d4f0289b7e388ca5f3997b6767231839ec6ce086b86f577c94dd2e325",
+    "date/raw_inputs/HCP_S1200/template/S1200.L.midthickness_MSMAll.32k_fs_LR.surf.gii": "2a42c69cd906397bc115749511a05d796867dd67dc2bc092147c1d93527c2da6",
+    "date/generated/mode_1_5_20_40_100_200_500_1000/sub-18/sub-18_L_eigenvalues_mode0_to_mode1000.npy": "5316e15ff17a9ed7e7185bc47419bb30ee5df98dc6141760c16728563af92df5",
+    "date/generated/mode_1_5_20_40_100_200_500_1000/sub-18/sub-18_L_selected_eigenmodes_metadata.npz": "7f7110388d67bae2ad0fcb1589062dcaebef5be3df3270a0fddf4c0fd9e62c34",
+    "date/raw_inputs/sub-18/fsaverage_LR32k/18.L.midthickness.32k_fs_LR.surf.gii": "030056198bfbc136cfb4066c83ba44f33bde656bcd6d804a5a6b4122ed3893c8",
+    "date/generated/mode_1_5_20_40_100_200_500_1000/sub-22/sub-22_L_eigenvalues_mode0_to_mode1000.npy": "b8f7ef6ec5138df456e948699b8f8559ab1beb50ad69909a4f74be5923befd57",
+    "date/generated/mode_1_5_20_40_100_200_500_1000/sub-22/sub-22_L_selected_eigenmodes_metadata.npz": "f3a78c4fc4716cb7a33174de207a0b0e478faefb0d5100c162cde8f00a5a7b3f",
+    "date/raw_inputs/sub-22/fsaverage_LR32k/22.L.midthickness.32k_fs_LR.surf.gii": "d3d5f6c620a94e71739c0a2ef5b8febca5ac22a0c23125d65e2c9979ba405b19",
+    "date/generated/mode_1_5_20_40_100_200_500_1000/sub-23/sub-23_L_eigenvalues_mode0_to_mode1000.npy": "28d708a4dce0c6ac53335b5e6ce0ab04ced9f38df5edc0a4d59c76a7c79e3967",
+    "date/generated/mode_1_5_20_40_100_200_500_1000/sub-23/sub-23_L_selected_eigenmodes_metadata.npz": "bada592ffcf2d4b5afa9c954838e21bc1b39cf47a6f3c54590e9dddfd4835573",
+    "date/raw_inputs/sub-23/fsaverage_LR32k/23.L.midthickness.32k_fs_LR.surf.gii": "e4f53bab5adbdadcf46ea2f413ac2c68c03539387f56ca0f19efa6e477446731",
+    "date/generated/mode_1_5_20_40_100_200_500_1000/sub-24/sub-24_L_eigenvalues_mode0_to_mode1000.npy": "3eda6a4dc4be11d114e5c9e7a3263be2865e2c1a0488a4a30e9b8a3f458be7bf",
+    "date/generated/mode_1_5_20_40_100_200_500_1000/sub-24/sub-24_L_selected_eigenmodes_metadata.npz": "fc47a33c089599c04d0f2a607ba8a0931d7356d2b3031a9d5c983eafb2ece252",
+    "date/raw_inputs/sub-24/fsaverage_LR32k/24.L.midthickness.32k_fs_LR.surf.gii": "f9235f05d2574df07647eef81507f922889ecbb5baffae29bc2ed9a931c34a3b",
+    "date/generated/mode_1_5_20_40_100_200_500_1000/sub-26/sub-26_L_eigenvalues_mode0_to_mode1000.npy": "96de67edd648812228e3ae573e4d1761c7bf961f2e910d77c3c67dfc9cd1dbff",
+    "date/generated/mode_1_5_20_40_100_200_500_1000/sub-26/sub-26_L_selected_eigenmodes_metadata.npz": "91be7352fc0466f3e09f5084b988abb0fc6d64178085bdfdfdd1e5e155bb052f",
+    "date/raw_inputs/sub-26/fsaverage_LR32k/26.L.midthickness.32k_fs_LR.surf.gii": "a03c766b5e586a0823ef1b7319c239bb663651963888aee23d86abfbf9fddf04",
+    "date/generated/mode_1_5_20_40_100_200_500_1000/sub-30/sub-30_L_eigenvalues_mode0_to_mode1000.npy": "78123ee6b879488114e571fc33abbfc5325f5e79049e1b77ae1a1b59d0ebd85c",
+    "date/generated/mode_1_5_20_40_100_200_500_1000/sub-30/sub-30_L_selected_eigenmodes_metadata.npz": "fe96124a84b1204a7463cf10e15f4c9b5a85d8a4e9e7867bf1a62f9719fe0aba",
+    "date/raw_inputs/sub-30/fsaverage_LR32k/30.L.midthickness.32k_fs_LR.surf.gii": "8d6438577df003e7a582242729ffc6f08c8112a7b98459279639b6547e940a24",
+    "date/generated/mode_1_5_20_40_100_200_500_1000/sub-31/sub-31_L_eigenvalues_mode0_to_mode1000.npy": "1ef49a3f3482eb154701d0a778db4e184984f61996358aa0ed9e4efedebaec97",
+    "date/generated/mode_1_5_20_40_100_200_500_1000/sub-31/sub-31_L_selected_eigenmodes_metadata.npz": "c504591ee469a28690d4df66b9f04ce2b5db57cfae2ead850c4510db6a3fff41",
+    "date/raw_inputs/sub-31/fsaverage_LR32k/31.L.midthickness.32k_fs_LR.surf.gii": "a1689f5b01d2125a4d995272f39781449b654ecb6874d6a430e97a9299b11b5c",
+    "date/generated/mode_1_5_20_40_100_200_500_1000/sub-35/sub-35_L_eigenvalues_mode0_to_mode1000.npy": "05a253426c175476606e15c2a5a4f92088cc89930038adfeade36cbfe43cab8e",
+    "date/generated/mode_1_5_20_40_100_200_500_1000/sub-35/sub-35_L_selected_eigenmodes_metadata.npz": "1d1e1e241564f07e5bca3c1f03de08d869946c6f4f21944f058b5b97addaedd6",
+    "date/raw_inputs/sub-35/fsaverage_LR32k/35.L.midthickness.32k_fs_LR.surf.gii": "2cedcb5f1e39e8442dbe7606b674686d733e0be528277fb8b337ebde49934173",
+    "date/generated/mode_1_5_20_40_100_200_500_1000/sub-36/sub-36_L_eigenvalues_mode0_to_mode1000.npy": "bcc1712efe202fd0c48f5f5913323e2d906d4e78e4c88d425aeb19ad8ff4f516",
+    "date/generated/mode_1_5_20_40_100_200_500_1000/sub-36/sub-36_L_selected_eigenmodes_metadata.npz": "b946d43b2166e6882104e4154349bae01f87bac3a845bbbb07740b2e6072e070",
+    "date/raw_inputs/sub-36/fsaverage_LR32k/36.L.midthickness.32k_fs_LR.surf.gii": "931747fe4672c04f54ea7037b7a5b0677d1248b502376c4799863d15396debe0",
+    "date/generated/mode_1_5_20_40_100_200_500_1000/sub-37/sub-37_L_eigenvalues_mode0_to_mode1000.npy": "162cd440269c3781010678f82bcd3cd24b269bd008b975c560e0bcf32326adc6",
+    "date/generated/mode_1_5_20_40_100_200_500_1000/sub-37/sub-37_L_selected_eigenmodes_metadata.npz": "a640510a3ec4818c4c376d164f6943865438e3d6dd5ff76ecc0f80d3b727e485",
+    "date/raw_inputs/sub-37/fsaverage_LR32k/37.L.midthickness.32k_fs_LR.surf.gii": "5c4b265f28112fd10a2b17399919998cbdc40a40ac8a430add408c77ddaee3c7"
+  },
+  "outputs": [
+    "Alice_group_individual_eigenvalue_band_subject_boxplot.svg",
+    "Alice_group_individual_eigenvalue_band_subject_boxplot.pdf",
+    "Alice_group_individual_eigenvalue_band_subject_boxplot.png",
+    "Alice_group_individual_eigenvalue_band_subject_boxplot.tiff",
+    "Alice_group_individual_eigenvalue_band_subject_boxplot_mean_sensitivity.svg",
+    "Alice_group_individual_eigenvalue_band_subject_boxplot_mean_sensitivity.pdf",
+    "Alice_group_individual_eigenvalue_band_subject_boxplot_mean_sensitivity.png",
+    "Alice_group_individual_eigenvalue_band_subject_boxplot_mean_sensitivity.tiff",
+    "source_data_mode_level_n10.csv",
+    "source_data_subject_level_n10.csv",
+    "source_data_cohort_summary_n10.csv"
+  ]
+}

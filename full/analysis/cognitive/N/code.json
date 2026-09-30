@@ -1,0 +1,22 @@
+[
+  {
+    "path": "N/code/export_circled_high_prepoe_rsa_qap.py",
+    "sha256": "6d0540e5636b847ead24302d886cbcf6f2f9e1f0677ae87c5ddbd9a66b37ca29",
+    "entry": true
+  },
+  {
+    "path": "N/code/compute_plot_alignvideo_epochwise_obs_expert_prepoe_l_rsa.py",
+    "sha256": "528b9255ec54d578c79afc08ee2675d08a00dc6ada3dd0c0934a3d6177f33a2b",
+    "entry": true
+  },
+  {
+    "path": "N/code/compute_plot_alignvideo_epochwise_lowlevel_l_rsa.py",
+    "sha256": "1bcc30b62293174bc0adbe38c4d90727b98db06a13d9f784d3aae527799b708f",
+    "entry": false
+  },
+  {
+    "path": "N/code/decode_narratives_shortvideo_poe.py",
+    "sha256": "7a5d4f845b3a45ba918aef3b947f5df51058059c1363b2aecaba8b7c20715fa1",
+    "entry": false
+  }
+]

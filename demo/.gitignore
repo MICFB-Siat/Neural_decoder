@@ -1,0 +1,12 @@
+__pycache__/
+.cache/
+outputs/
+pretraining_outputs/
+
+weights/
+
+assets/*.h5
+
+.venv/
+venv/
+*.egg-info/

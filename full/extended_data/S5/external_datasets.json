@@ -1,0 +1,26 @@
+{
+  "data_check_20260507/full_run_5fold/stage2_new": {
+    "kind": "dataset",
+    "path": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/full_run_5fold/stage2_new"
+  },
+  "data_check_20260507/uncertainty_seedv/tyf_20260521/somatomotor_patched": {
+    "kind": "dataset",
+    "path": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/uncertainty_seedv/tyf_20260521/somatomotor_patched"
+  },
+  "lizhuo_exp/lizhuo_exp_data/LPPCHK": {
+    "kind": "dataset",
+    "path": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/lizhuo_exp/lizhuo_exp_data/LPPCHK"
+  },
+  "lizhuo_exp/lizhuo_exp_data/Alice": {
+    "kind": "dataset",
+    "path": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/lizhuo_exp/lizhuo_exp_data/Alice"
+  },
+  "lizhuo_exp/lizhuo_exp_data/Narratives2": {
+    "kind": "dataset",
+    "path": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/lizhuo_exp/lizhuo_exp_data/Narratives2"
+  },
+  "guoyi_exp/Exp2/LPPC-fMRI/data_for_decode": {
+    "kind": "dataset",
+    "path": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/guoyi_exp/Exp2/LPPC-fMRI/data_for_decode"
+  }
+}

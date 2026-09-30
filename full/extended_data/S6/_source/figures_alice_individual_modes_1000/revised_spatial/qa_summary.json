@@ -1,0 +1,49 @@
+{
+  "backend": "Python",
+  "subjects": [
+    "sub-22",
+    "sub-24"
+  ],
+  "available_nontrivial_modes": [
+    1,
+    999
+  ],
+  "metric": "absolute Pearson correlation across 29696 matched cortical vertices",
+  "smoothing": "centered adaptive running mean: 5 points at low order, up to 61 points",
+  "right_panel": "same-rank versus best-local spatial correspondence by spectral band",
+  "local_search": "plus/minus max(3, ceil(0.08*rank)); candidate reuse allowed; descriptive ceiling",
+  "band_medians": {
+    "1-20": {
+      "mode_range": [
+        1,
+        20
+      ],
+      "same_rank_across_subject_median": 0.5444378554821014,
+      "best_local_across_subject_median": 0.7163736671209335
+    },
+    "21-100": {
+      "mode_range": [
+        21,
+        100
+      ],
+      "same_rank_across_subject_median": 0.11483308859169483,
+      "best_local_across_subject_median": 0.3038008436560631
+    },
+    "101-300": {
+      "mode_range": [
+        101,
+        300
+      ],
+      "same_rank_across_subject_median": 0.04694845341145992,
+      "best_local_across_subject_median": 0.16317623481154442
+    },
+    "301-999": {
+      "mode_range": [
+        301,
+        999
+      ],
+      "same_rank_across_subject_median": 0.022461771965026855,
+      "best_local_across_subject_median": 0.093683410435915
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "local": {
+    "/media/wsqlab/data/gy/code/Eigen_brain_decoding/checkpoints/unified_v3/prior_unified_v3_20260514_020311.pt": "_source/checkpoints/unified_v3/prior_unified_v3_20260514_020311.pt",
+    "/media/wsqlab/data/tyf/ugreen/eigenmode_test/SEED-V/sensor_geom_eigenmode_template_60x48.npy": "_source/guoyi_exp/data/eigenmode_test/SEED-V/sensor_geom_eigenmode_template_60x48.npy",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/guoyi_exp/data/eigenmode_test/MOTOR_eeg-fmri/D_eeg.npy": "_source/guoyi_exp/data/eigenmode_test/MOTOR_eeg-fmri/D_eeg.npy",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/guoyi_exp/data/eigenmode_test/FACED/d_template_eeg_25.npy": "_source/guoyi_exp/data/eigenmode_test/FACED/d_template_eeg_25.npy",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/guoyi_exp/data/eigenmode_test/BCIC/d_template_eeg_17_5e253942b967.npy": "_source/guoyi_exp/data/eigenmode_test/BCIC/d_template_eeg_17_5e253942b967.npy",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/checkpoints/unified_v3/prior_unified_v3_20260514_020311.pt": "_source/checkpoints/unified_v3/prior_unified_v3_20260514_020311.pt",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/full_run_5fold/stage2_new/SEED-V": "_source/data_check_20260507/full_run_5fold/stage2_new/SEED-V",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/guoyi_exp/data/eigenmode_test/SEED-V/sensor_geom_eigenmode_template_60x48.npy": "_source/guoyi_exp/data/eigenmode_test/SEED-V/sensor_geom_eigenmode_template_60x48.npy",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/full_run_5fold/stage2_new/MOTOR": "_source/data_check_20260507/full_run_5fold/stage2_new/MOTOR",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/full_run_5fold/stage2_new/FACED_new": "_source/data_check_20260507/full_run_5fold/stage2_new/FACED_new",
+    "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/full_run_5fold/stage2_new/BCIC": "_source/data_check_20260507/full_run_5fold/stage2_new/BCIC",
+    "/media/wsqlab/data/gy/code/Eigen_brain_decoding/guoyi_exp/data/eigenmode_test/BCIC/d_template_eeg_17_5e253942b967.npy": "_source/guoyi_exp/data/eigenmode_test/BCIC/d_template_eeg_17_5e253942b967.npy",
+    "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/full_run_5fold/stage2_new/SEED-V": "_source/data_check_20260507/full_run_5fold/stage2_new/SEED-V",
+    "/media/wsqlab/data/gy/code/Eigen_brain_decoding/guoyi_exp/data/eigenmode_test/SEED-V/sensor_geom_eigenmode_template_60x48.npy": "_source/guoyi_exp/data/eigenmode_test/SEED-V/sensor_geom_eigenmode_template_60x48.npy",
+    "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/full_run_5fold/stage2_new/FACED_new": "_source/data_check_20260507/full_run_5fold/stage2_new/FACED_new",
+    "/media/wsqlab/data/tyf/ugreen/eigenmode_test/FACED/d_template_eeg_25.npy": "_source/guoyi_exp/data/eigenmode_test/FACED/d_template_eeg_25.npy",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/full_run_5fold/stage2_new/BCIC": "_source/data_check_20260507/full_run_5fold/stage2_new/BCIC",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/guoyi_exp/Exp3/SEED-V/ckpts/prior_exp3_unified_perturb_20260514_235038.pt": "weights/encoders/prior_exp3_unified_perturb_20260514_235038/prior_exp3_unified_perturb_20260514_235038.pt"
+  },
+  "external": {
+    "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/uncertainty_seedv/tyf_20260522/data/drop_03": {
+      "kind": "dataset",
+      "path": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/uncertainty_seedv/tyf_20260522/data/drop_03"
+    },
+    "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/uncertainty_seedv/tyf_20260522/data/clean": {
+      "kind": "dataset",
+      "path": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/uncertainty_seedv/tyf_20260522/data/clean"
+    },
+    "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/uncertainty_seedv/tyf_20260522/data/drop_05": {
+      "kind": "dataset",
+      "path": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/uncertainty_seedv/tyf_20260522/data/drop_05"
+    },
+    "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/uncertainty_seedv/tyf_20260522/data/drop_01": {
+      "kind": "dataset",
+      "path": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/uncertainty_seedv/tyf_20260522/data/drop_01"
+    },
+    "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/uncertainty_seedv/tyf_20260522/data/red_10": {
+      "kind": "dataset",
+      "path": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/uncertainty_seedv/tyf_20260522/data/red_10"
+    },
+    "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/uncertainty_seedv/tyf_20260522/data/red_50": {
+      "kind": "dataset",
+      "path": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/uncertainty_seedv/tyf_20260522/data/red_50"
+    },
+    "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/uncertainty_seedv/tyf_20260522/data/red_25": {
+      "kind": "dataset",
+      "path": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/uncertainty_seedv/tyf_20260522/data/red_25"
+    },
+    "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/uncertainty_seedv/tyf_20260522/data/noise_05": {
+      "kind": "dataset",
+      "path": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/uncertainty_seedv/tyf_20260522/data/noise_05"
+    },
+    "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/uncertainty_seedv/tyf_20260522/data/noise_03": {
+      "kind": "dataset",
+      "path": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/uncertainty_seedv/tyf_20260522/data/noise_03"
+    },
+    "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/uncertainty_seedv/tyf_20260522/data/noise_10": {
+      "kind": "dataset",
+      "path": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/uncertainty_seedv/tyf_20260522/data/noise_10"
+    }
+  }
+}

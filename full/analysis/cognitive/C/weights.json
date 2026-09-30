@@ -1,0 +1,307 @@
+[
+  {
+    "path": "C/weights/sub-guoyi/fold_00/obs.pt",
+    "bytes": 2251441,
+    "sha256": "4b5b8489d829830ee12d09f4f6ad2aea6c6dd9e87b972e28b511709a09628664"
+  },
+  {
+    "path": "C/weights/sub-guoyi/fold_00/prior.pt",
+    "bytes": 1720253,
+    "sha256": "7154d7299f9cc9c3f5b1b0c292758dc473ae3ceac25e80cc3a4c1a77383ee00a"
+  },
+  {
+    "path": "C/weights/sub-guoyi/fold_01/obs.pt",
+    "bytes": 2251441,
+    "sha256": "e13a5d9730a3c0d0f7d634a6e60b3286bd5dcf11b593675763ef60084e6105b4"
+  },
+  {
+    "path": "C/weights/sub-guoyi/fold_01/prior.pt",
+    "bytes": 1720253,
+    "sha256": "e1c1683d2fc2f98a3e820f44b48a51f9e5940faae5fbb9b09f6df0b5b46d992e"
+  },
+  {
+    "path": "C/weights/sub-guoyi/fold_02/obs.pt",
+    "bytes": 2251441,
+    "sha256": "0ecd25de0e581229fe5710f4913a6dabdfc579770973eecd8d649145604979b0"
+  },
+  {
+    "path": "C/weights/sub-guoyi/fold_02/prior.pt",
+    "bytes": 1720253,
+    "sha256": "1f95028d4bc9169a5fd774cbc568819b0974f88d17973b03918fb1e71c79696a"
+  },
+  {
+    "path": "C/weights/sub-guoyi/fold_03/obs.pt",
+    "bytes": 2251441,
+    "sha256": "75a933df60fd3be3e05412eb2fa909b2fbbcead817cd79d20c788feb7de400ce"
+  },
+  {
+    "path": "C/weights/sub-guoyi/fold_03/prior.pt",
+    "bytes": 1720253,
+    "sha256": "fb9765bcf256e7595048ae1948b94f6e64957fd5fae8139ae1c4dbcdde373c97"
+  },
+  {
+    "path": "C/weights/sub-guoyi/fold_04/obs.pt",
+    "bytes": 2251441,
+    "sha256": "7e9103cf4e2f4b4f81125871825700688cc48812d78470e430140a05e28d8cb9"
+  },
+  {
+    "path": "C/weights/sub-guoyi/fold_04/prior.pt",
+    "bytes": 1720253,
+    "sha256": "693e672f348b22d5ba5bcb9aa9012225dff328f960de98021a719997cf5b5813"
+  },
+  {
+    "path": "C/weights/sub-linguiyu/fold_00/obs.pt",
+    "bytes": 2251441,
+    "sha256": "54ec593ff3bce95fbd90234ac1be2d864d99d724a8748e160889c5a9f122a29d"
+  },
+  {
+    "path": "C/weights/sub-linguiyu/fold_00/prior.pt",
+    "bytes": 1720253,
+    "sha256": "8ea3bb4c43634090dda1c904e78cdbf552463b21159491ebee62fd784594833e"
+  },
+  {
+    "path": "C/weights/sub-linguiyu/fold_01/obs.pt",
+    "bytes": 2251441,
+    "sha256": "5e6cfc52f3c15da132f4753ec5682e10af0a2f093ff89890f5fbbac668f0b819"
+  },
+  {
+    "path": "C/weights/sub-linguiyu/fold_01/prior.pt",
+    "bytes": 1720253,
+    "sha256": "9bccabf28c2a21df12d366ea1d81c918eb96745e4fc0e7f98932633f8f8490af"
+  },
+  {
+    "path": "C/weights/sub-linguiyu/fold_02/obs.pt",
+    "bytes": 2251441,
+    "sha256": "a859974ef757fbb5141593b5499faa7b387dedfe9eec2990bb1dd9910ec08109"
+  },
+  {
+    "path": "C/weights/sub-linguiyu/fold_02/prior.pt",
+    "bytes": 1720253,
+    "sha256": "21b7cba0c13e4b6ea0010df2912e85e47124d471cf3d1c0c52fc72f494ffb514"
+  },
+  {
+    "path": "C/weights/sub-linguiyu/fold_03/obs.pt",
+    "bytes": 2251441,
+    "sha256": "adb317c676723c7780e8d711815e42932ac98a38f90a0b4637b37c0e865c5daf"
+  },
+  {
+    "path": "C/weights/sub-linguiyu/fold_03/prior.pt",
+    "bytes": 1720253,
+    "sha256": "016079cf33871fd3f18404ceca60937e8ee03eccab7f7c0be374653936e6779f"
+  },
+  {
+    "path": "C/weights/sub-linguiyu/fold_04/obs.pt",
+    "bytes": 2251441,
+    "sha256": "1498ee204e5aa37dc34293e3690e8a257271d91a0c9e8a4aa22ee66006b81ad9"
+  },
+  {
+    "path": "C/weights/sub-linguiyu/fold_04/prior.pt",
+    "bytes": 1720253,
+    "sha256": "c6d9b7d3588e0e2a628b3fe98a64cc12008cd5c3e524c246bfcaf3a5411cafcb"
+  },
+  {
+    "path": "C/weights/sub-linjunhao/fold_00/obs.pt",
+    "bytes": 2251441,
+    "sha256": "4e269856e02c7b5a997019a1173bc630a25dff39cba5f209c8ff722cae54acda"
+  },
+  {
+    "path": "C/weights/sub-linjunhao/fold_00/prior.pt",
+    "bytes": 1720253,
+    "sha256": "2f54ba22711710a388ef98903a9454877e77b4bb16886e41bc5787d312941490"
+  },
+  {
+    "path": "C/weights/sub-linjunhao/fold_01/obs.pt",
+    "bytes": 2251441,
+    "sha256": "31040b02b59621722602f641c1b904298c5359bbfce3fb941dd9b0938a097a4f"
+  },
+  {
+    "path": "C/weights/sub-linjunhao/fold_01/prior.pt",
+    "bytes": 1720253,
+    "sha256": "58db9c47c4220ccad5aed10896ba469f19131a812a4840c6a03024a1c5ec9b81"
+  },
+  {
+    "path": "C/weights/sub-linjunhao/fold_02/obs.pt",
+    "bytes": 2251441,
+    "sha256": "0d5b7d3746d962e95ccbca7a8b44bc853e826dc4cfd3eadeac9ea7ec869d335b"
+  },
+  {
+    "path": "C/weights/sub-linjunhao/fold_02/prior.pt",
+    "bytes": 1720253,
+    "sha256": "e1cf5c030d5a7909083a6341e2419c49e04ff9b443736fcc6a0f0c931563d2c6"
+  },
+  {
+    "path": "C/weights/sub-linjunhao/fold_03/obs.pt",
+    "bytes": 2251441,
+    "sha256": "9f78e1620906bab15b0f7d04e93db49c8a02d0d2a96d49c6567cb19df574be9f"
+  },
+  {
+    "path": "C/weights/sub-linjunhao/fold_03/prior.pt",
+    "bytes": 1720253,
+    "sha256": "85818de23c5647aca2319f875731e29b026552aa1d00f2b72e8030f290646147"
+  },
+  {
+    "path": "C/weights/sub-linjunhao/fold_04/obs.pt",
+    "bytes": 2251441,
+    "sha256": "c1551335a39689e931ef97b52d2e93c8797344220a40d91c8144e10dfb6d950a"
+  },
+  {
+    "path": "C/weights/sub-linjunhao/fold_04/prior.pt",
+    "bytes": 1720253,
+    "sha256": "1c4688b3002df7c269c2768140e8b079ff1baf88bfc98a3eb5778f5e13495f86"
+  },
+  {
+    "path": "C/weights/sub-lizhuo/fold_00/obs.pt",
+    "bytes": 2251441,
+    "sha256": "161f2728384701630ddbca0e0288ce5677c8582b4b64ad04b457411f9117bb10"
+  },
+  {
+    "path": "C/weights/sub-lizhuo/fold_00/prior.pt",
+    "bytes": 1720253,
+    "sha256": "dd48f25f293635233dfa6a758d2b470116f3058d60bd7c19f3eca4259e31ca03"
+  },
+  {
+    "path": "C/weights/sub-lizhuo/fold_01/obs.pt",
+    "bytes": 2251441,
+    "sha256": "e539508e5ad7de08b82184115b12d4b3f7aa9a2477a60220766bbe1830484fbc"
+  },
+  {
+    "path": "C/weights/sub-lizhuo/fold_01/prior.pt",
+    "bytes": 1720253,
+    "sha256": "7fcd9a44566d43e98d964b23988f43ff9bff6472cf28b6b28d25861fb535b4f1"
+  },
+  {
+    "path": "C/weights/sub-lizhuo/fold_02/obs.pt",
+    "bytes": 2251441,
+    "sha256": "bf6722f14bf24dce4a79c55937e3d7e12e72a343007b939fdc48b0515a276484"
+  },
+  {
+    "path": "C/weights/sub-lizhuo/fold_02/prior.pt",
+    "bytes": 1720253,
+    "sha256": "f0f4584677dc011a0f6aedf64044f04d295e5e05a0541b829640ba3877fe4a7e"
+  },
+  {
+    "path": "C/weights/sub-lizhuo/fold_03/obs.pt",
+    "bytes": 2251441,
+    "sha256": "eebebc18a4ca034e93c54a96e55ba2d03b999796c498efc0e6b726ad69e29a2d"
+  },
+  {
+    "path": "C/weights/sub-lizhuo/fold_03/prior.pt",
+    "bytes": 1720253,
+    "sha256": "eb627a81b13b7834d3629e8e42b082db0bc3310034b991275e201c58a5083cb3"
+  },
+  {
+    "path": "C/weights/sub-lizhuo/fold_04/obs.pt",
+    "bytes": 2251441,
+    "sha256": "6c0ab11df3a19af3135a4878926c4297b26a4d778de3bb14f0c89e3cb1bdd58a"
+  },
+  {
+    "path": "C/weights/sub-lizhuo/fold_04/prior.pt",
+    "bytes": 1720253,
+    "sha256": "30fb48bc7afcc50bdf841803c8661404f954c72a50043c1fdb1ab504febdcef3"
+  },
+  {
+    "path": "C/weights/sub-zhangchi/fold_00/obs.pt",
+    "bytes": 2251441,
+    "sha256": "6e04bbfaaabb2e8628e2460727d950f5d6e04f814dedca14a065bec4870be61e"
+  },
+  {
+    "path": "C/weights/sub-zhangchi/fold_00/prior.pt",
+    "bytes": 1720253,
+    "sha256": "ecf496f7bdad12059032433de24590b6ee819a1b34bb50813e1cacb19e787267"
+  },
+  {
+    "path": "C/weights/sub-zhangchi/fold_01/obs.pt",
+    "bytes": 2251441,
+    "sha256": "25f3adc38d07006f870b6e338b4f5aa4e725a631f8c6a1345ecb658ff7ee5dcd"
+  },
+  {
+    "path": "C/weights/sub-zhangchi/fold_01/prior.pt",
+    "bytes": 1720253,
+    "sha256": "ec33efcd36db79841f611271f1bf2bfe7a6da98aeb671300699408344c79dd09"
+  },
+  {
+    "path": "C/weights/sub-zhangchi/fold_02/obs.pt",
+    "bytes": 2251441,
+    "sha256": "5cbb681f84c71184aa140954659ed9ad0d38631c9324a1333563ceefc9414e23"
+  },
+  {
+    "path": "C/weights/sub-zhangchi/fold_02/prior.pt",
+    "bytes": 1720253,
+    "sha256": "0b70903a77dea0300300c5366a34b278b4b70722a72da84794d18cc8f1b0366b"
+  },
+  {
+    "path": "C/weights/sub-zhangchi/fold_03/obs.pt",
+    "bytes": 2251441,
+    "sha256": "7b1a5354139c53e88733ce32bc917d0b8d039c25c4a8994dbdf94d0c7d9aaa35"
+  },
+  {
+    "path": "C/weights/sub-zhangchi/fold_03/prior.pt",
+    "bytes": 1720253,
+    "sha256": "5e3fdff82f2e44b54553d5f307bb376e2936f1850863d49200c335660e31b73f"
+  },
+  {
+    "path": "C/weights/sub-zhangchi/fold_04/obs.pt",
+    "bytes": 2251441,
+    "sha256": "4e65c440c31689d814b6e05c77c9a59f7fb239b439374f900ccb4d0c90cb004f"
+  },
+  {
+    "path": "C/weights/sub-zhangchi/fold_04/prior.pt",
+    "bytes": 1720253,
+    "sha256": "a1f112db2cdf053a5aeb2f41a40f26ead474108e36b28a7ad690c9e5b9f22a1b"
+  },
+  {
+    "path": "C/weights/sub-zhanghongfei/fold_00/obs.pt",
+    "bytes": 2251441,
+    "sha256": "bd540b4a00b86cd3ec4f9df1dbbcfa3a2ed12f3cd2ae94bf6d16fbae7e10ecb1"
+  },
+  {
+    "path": "C/weights/sub-zhanghongfei/fold_00/prior.pt",
+    "bytes": 1720253,
+    "sha256": "c31e185cca3453a31a1ba6f04e517e9ed8c678c9edc005d8c918716d456cedf9"
+  },
+  {
+    "path": "C/weights/sub-zhanghongfei/fold_01/obs.pt",
+    "bytes": 2251441,
+    "sha256": "02cd39b3f132f9720e8a6f5299d49587e3dca994cc3ba0d8321840aab33057b0"
+  },
+  {
+    "path": "C/weights/sub-zhanghongfei/fold_01/prior.pt",
+    "bytes": 1720253,
+    "sha256": "4f6aad2620204868fc7af55af347be88c2e621d7224776d230f1a7ef8912c905"
+  },
+  {
+    "path": "C/weights/sub-zhanghongfei/fold_02/obs.pt",
+    "bytes": 2251441,
+    "sha256": "3f09f2994b5341b6d7fd8654e0726b728389ad5fb98ad19825099c535d3d8233"
+  },
+  {
+    "path": "C/weights/sub-zhanghongfei/fold_02/prior.pt",
+    "bytes": 1720253,
+    "sha256": "8023cd1dd8f5efeb5cdd284c7f688fac0c49525c4cde2a83e2e151ac03ea0b9e"
+  },
+  {
+    "path": "C/weights/sub-zhanghongfei/fold_03/obs.pt",
+    "bytes": 2251441,
+    "sha256": "8ee20f593e6dfe6acc81feecfaa2781ee9c6f016ecd69029877e4c5d49250c52"
+  },
+  {
+    "path": "C/weights/sub-zhanghongfei/fold_03/prior.pt",
+    "bytes": 1720253,
+    "sha256": "f58cc0bfe056203d8ded19e1f2d218062841e3bdb2e2ac3d01c25033b118211f"
+  },
+  {
+    "path": "C/weights/sub-zhanghongfei/fold_04/obs.pt",
+    "bytes": 2251441,
+    "sha256": "cb13b4bae7db15a5d980fdcaa783bdbe9002032d443892f1ab53d6865ba0bc83"
+  },
+  {
+    "path": "C/weights/sub-zhanghongfei/fold_04/prior.pt",
+    "bytes": 1720253,
+    "sha256": "37167a30b40050d8386fe2abf98adb542f3d8b3db00860c69135982c2735ba2f"
+  },
+  {
+    "path": "C/weights/encoder.pt",
+    "bytes": 88455503,
+    "sha256": "d64908ecf552edfd47e509b3cc53229632bac00fecaff98994c4ee83c2fa0254"
+  }
+]

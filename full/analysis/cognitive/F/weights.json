@@ -1,0 +1,262 @@
+[
+  {
+    "path": "F/weights/ds002835/ours/sub-0217/model-29-re.pt",
+    "bytes": 1613166,
+    "sha256": "acc1cafe551c71be3beef771ab2d31c53e10a53c338d9f23763eb765e96eca74"
+  },
+  {
+    "path": "F/weights/ds002835/ours/sub-0484/model-29-re.pt",
+    "bytes": 1613166,
+    "sha256": "1f77df9562132b9b868594e85aa1c39ee2e16e1a9ae4df2dc89a010989e5ae48"
+  },
+  {
+    "path": "F/weights/ds002835/ours/sub-0914/model-29-re.pt",
+    "bytes": 1613168,
+    "sha256": "e5125d4f7a74cb2bee9b5fd2a59d4916a00bdafa873acd694801c05fa7e17317"
+  },
+  {
+    "path": "F/weights/ds002835/ours/sub-1052/model-29-re.pt",
+    "bytes": 1613166,
+    "sha256": "fee572fba747692d8be4b88fc5e74b83bbfddceddbd6a02bbf4d0c0d64776e3e"
+  },
+  {
+    "path": "F/weights/ds002835/ours/sub-1054/model-29-re.pt",
+    "bytes": 1613168,
+    "sha256": "f52575c5bb3f3ce543ec256023018d5a677a771da29b19c8cefb7bb566a5f0e0"
+  },
+  {
+    "path": "F/weights/ds002835/ours/sub-1059/model-29-re.pt",
+    "bytes": 1613166,
+    "sha256": "333fd26dfe4047bc8021d72db61e08300048725f2b7781a3e7b974faef9a33ca"
+  },
+  {
+    "path": "F/weights/ds002835/ours/sub-1060/model-29-re.pt",
+    "bytes": 1613166,
+    "sha256": "acb3f5949af56ca61b5117e5417a6a08a5c053f793610968c4fd6c3e290e438b"
+  },
+  {
+    "path": "F/weights/ds002835/ours/sub-1061/model-29-re.pt",
+    "bytes": 1613166,
+    "sha256": "38b872e80ff31760e08e8eaf155054c13825e0d32d510a553cbff7b687db952d"
+  },
+  {
+    "path": "F/weights/ds002835/ours/sub-1064/model-29-re.pt",
+    "bytes": 1613168,
+    "sha256": "3374fd9144b56424856116f714b40ece554f52db606a1d811d2d3876f665f386"
+  },
+  {
+    "path": "F/weights/ds002835/ours/sub-1065/model-29-re.pt",
+    "bytes": 1613166,
+    "sha256": "4b16bf3cf6a7b088a0a9ea600a0c37e973ec88a30cb937c2ccacc578b7e01727"
+  },
+  {
+    "path": "F/weights/ds002835/ours/sub-1066/model-29-re.pt",
+    "bytes": 1613166,
+    "sha256": "2eb7360c094d06bf361e76e50e103ee1cf80f8bc0cc569f421a192566c6b7755"
+  },
+  {
+    "path": "F/weights/ds002835/ours/sub-1067/model-29-re.pt",
+    "bytes": 1613166,
+    "sha256": "01c0212390f37ff51b18de543ccd52453db26820e8a39775453bae42c84d8dfe"
+  },
+  {
+    "path": "F/weights/ds002835/ours/sub-1068/model-29-re.pt",
+    "bytes": 1613166,
+    "sha256": "bd29746a4fc128f3ef2bc88d92a26ab1ce8ef985a9b028e7d1fe8ebe203890be"
+  },
+  {
+    "path": "F/weights/ds002835/ours/sub-1069/model-29-re.pt",
+    "bytes": 1613166,
+    "sha256": "d4eaebc5650265dc829a7c19685cdcb978967567c2f7e1f2d54da923fe824de6"
+  },
+  {
+    "path": "F/weights/ds002835/ours/sub-1093/model-29-re.pt",
+    "bytes": 1613168,
+    "sha256": "c02f8f7ce8e9ef5f749cddc72b09a6034b3f45e2b1b1f48536381970ea597e88"
+  },
+  {
+    "path": "F/weights/ds002835/ours/sub-1433/model-29-re.pt",
+    "bytes": 1613168,
+    "sha256": "4942c380efd6ca30410c3e6de16ad1be2cf280ac55273681a95721c7967d4979"
+  },
+  {
+    "path": "F/weights/ds002835/ours/sub-2026/model-29-re.pt",
+    "bytes": 1613166,
+    "sha256": "c90c6b3c1366fd71edba09f0bf1a4b29902da2e078688408d63307a975775d27"
+  },
+  {
+    "path": "F/weights/ds002835/ours/sub-2031/model-29-re.pt",
+    "bytes": 1613168,
+    "sha256": "c6e79264796350acc1c9e112738f507d07563e2d1a2b6725991ece12c1db2833"
+  },
+  {
+    "path": "F/weights/ds002835/ours/sub-2044/model-29-re.pt",
+    "bytes": 1613166,
+    "sha256": "54cbc4a8114f13f803462c594b96a7954f77b31315faa102019c527e272f5903"
+  },
+  {
+    "path": "F/weights/ds002835/ours/sub-2123/model-29-re.pt",
+    "bytes": 1613168,
+    "sha256": "aac9f61052b701e1f76a279b324226d6cd23d06faca0dabd724cf3bd18c3bbd6"
+  },
+  {
+    "path": "F/weights/ds002835/ours/sub-2124/model-29-re.pt",
+    "bytes": 1613168,
+    "sha256": "6c9bd3c3915c66404ba238ecab1dfe8456da344c2c5714d4b7e163dd40cd9cd7"
+  },
+  {
+    "path": "F/weights/ds002835/ours/sub-2503/model-29-re.pt",
+    "bytes": 1613166,
+    "sha256": "02c539737497ed8c6baea35777de1beb4b74e0de3a3a97fd08f0282fd4f1aa71"
+  },
+  {
+    "path": "F/weights/ds002835/ours/sub-2515/model-29-re.pt",
+    "bytes": 1613166,
+    "sha256": "07111f3237cc93e0d17d301952b901523b3a16ccd15ee030b04c9060035ed480"
+  },
+  {
+    "path": "F/weights/ds002835/ours/sub-3006/model-29-re.pt",
+    "bytes": 1613166,
+    "sha256": "835382b5cea35dd7df678f16abc35934c434c91401fcb65517e83093ff8972ef"
+  },
+  {
+    "path": "F/weights/ds002835/ours/sub-3557/model-29-re.pt",
+    "bytes": 1613168,
+    "sha256": "2bce7e135e91fe1bd82caaf1ca7bda1a9ff591409ccb35dd74cae08228880903"
+  },
+  {
+    "path": "F/weights/ds002835/ours/sub-3593/model-29-re.pt",
+    "bytes": 1613168,
+    "sha256": "6c807b2d95864806d3081ce47d482ab7897789feb4987a50dc36d607e5559701"
+  },
+  {
+    "path": "F/weights/ds002835/neurostorm/sub-0217/model-24-re.pt",
+    "bytes": 571598,
+    "sha256": "ac34bd95ebb8d6d48293b8d4c17091bf47f20de86bbf15b4a48cf4ebb3f63171"
+  },
+  {
+    "path": "F/weights/ds002835/neurostorm/sub-0484/model-24-re.pt",
+    "bytes": 571598,
+    "sha256": "03a6236bf04d56604a72b7c9585822db8a7aaa255c3c3e01b1011939e06b9769"
+  },
+  {
+    "path": "F/weights/ds002835/neurostorm/sub-0914/model-24-re.pt",
+    "bytes": 571598,
+    "sha256": "286a253a3756682c0e7e38f661051f93509d542f6f7d5491e5b99b4bb5232274"
+  },
+  {
+    "path": "F/weights/ds002835/neurostorm/sub-1052/model-24-re.pt",
+    "bytes": 571598,
+    "sha256": "fa69523d11510d1bb0793bbb66b30fc9b9c7a185c6d603e26740d33641f860d6"
+  },
+  {
+    "path": "F/weights/ds002835/neurostorm/sub-1054/model-24-re.pt",
+    "bytes": 571598,
+    "sha256": "06b5aa0ea15d51fd0271007d948572db0903fdeac5217a7dd3db9065753ce111"
+  },
+  {
+    "path": "F/weights/ds002835/neurostorm/sub-1059/model-24-re.pt",
+    "bytes": 571596,
+    "sha256": "ba57a6491df53e7102e1b0754a035734ad2ffda24c9a869e4550c02464f248d7"
+  },
+  {
+    "path": "F/weights/ds002835/neurostorm/sub-1060/model-24-re.pt",
+    "bytes": 571596,
+    "sha256": "45dbf68512392c3df75840a208f23a3c202d48cd1d8b17467365fabe37bc329c"
+  },
+  {
+    "path": "F/weights/ds002835/neurostorm/sub-1061/model-24-re.pt",
+    "bytes": 571596,
+    "sha256": "b8d527e113755ea80b526726c341771ee677fa5b3f7b321bf82897345b9dcfa6"
+  },
+  {
+    "path": "F/weights/ds002835/neurostorm/sub-1064/model-24-re.pt",
+    "bytes": 571596,
+    "sha256": "3b852fa4ded4e16c6a1eff0a81e96c23aa41a8ccb7ea1a99f676d6059f228484"
+  },
+  {
+    "path": "F/weights/ds002835/neurostorm/sub-1065/model-24-re.pt",
+    "bytes": 571598,
+    "sha256": "7b77a769c1e79fd84e29c5b04fb412475fa807ea4ae7816354afa7887d58f53d"
+  },
+  {
+    "path": "F/weights/ds002835/neurostorm/sub-1066/model-24-re.pt",
+    "bytes": 571596,
+    "sha256": "dcea700bb0466b7fe07ca793d2bb86996bb5a53fb99f10115bac700793461cf3"
+  },
+  {
+    "path": "F/weights/ds002835/neurostorm/sub-1067/model-24-re.pt",
+    "bytes": 571596,
+    "sha256": "ff89f8ab117cdbedbf47b1b3d63eebcbe15c85c349be92f1bb7f803fd8b164e2"
+  },
+  {
+    "path": "F/weights/ds002835/neurostorm/sub-1068/model-24-re.pt",
+    "bytes": 571598,
+    "sha256": "aac59329066c4a37ea7da77c9cb5ef87633eaed1f561c33d1caa4f0402b50345"
+  },
+  {
+    "path": "F/weights/ds002835/neurostorm/sub-1069/model-24-re.pt",
+    "bytes": 571596,
+    "sha256": "655e5a630f1e4113b79b8cb7f55959a961015b149430d7b803f930f0ba24d13a"
+  },
+  {
+    "path": "F/weights/ds002835/neurostorm/sub-1093/model-24-re.pt",
+    "bytes": 571596,
+    "sha256": "39960f08b67248fdee3aac684fcee5a9bd77b2ff0716d1e2f1d5a51329138e65"
+  },
+  {
+    "path": "F/weights/ds002835/neurostorm/sub-1433/model-24-re.pt",
+    "bytes": 571598,
+    "sha256": "dfae5028b9ca8c18eeff82d11894503dd490214b3874aa7e98fb95240c60c37a"
+  },
+  {
+    "path": "F/weights/ds002835/neurostorm/sub-2026/model-24-re.pt",
+    "bytes": 571598,
+    "sha256": "bb8fd9ea5929a72ad5fbe5246d8a012d47b8b109f07778204428bb341850ab93"
+  },
+  {
+    "path": "F/weights/ds002835/neurostorm/sub-2031/model-24-re.pt",
+    "bytes": 571598,
+    "sha256": "e493e369bb4d0e4f23368931c666779d3d0393a55bb84d97c3135ad6244e7bf3"
+  },
+  {
+    "path": "F/weights/ds002835/neurostorm/sub-2044/model-24-re.pt",
+    "bytes": 571598,
+    "sha256": "cee2f9249d92df4c71c0ac9e4b25cc59bfe11e4235ef9b2ee3c9dd0647002d29"
+  },
+  {
+    "path": "F/weights/ds002835/neurostorm/sub-2123/model-24-re.pt",
+    "bytes": 571598,
+    "sha256": "53ca09e25eb7e6c45c3794f00efd52a62a557e8f1d3df83d3005bac08062c03d"
+  },
+  {
+    "path": "F/weights/ds002835/neurostorm/sub-2124/model-24-re.pt",
+    "bytes": 571596,
+    "sha256": "0e348bcc799db98e2d57af26869dbcdd68f71d470a77d31e44a386eb5cbb4f9f"
+  },
+  {
+    "path": "F/weights/ds002835/neurostorm/sub-2503/model-24-re.pt",
+    "bytes": 571596,
+    "sha256": "1a475146a06b1160dcbf2ee5b79045626709a18573d72c525ab5f3435b4d5093"
+  },
+  {
+    "path": "F/weights/ds002835/neurostorm/sub-2515/model-24-re.pt",
+    "bytes": 571596,
+    "sha256": "cf3142ffbeb2fcf30f5ea978a27468f72ccdce76b15d626aca9431c04cd01584"
+  },
+  {
+    "path": "F/weights/ds002835/neurostorm/sub-3006/model-24-re.pt",
+    "bytes": 571598,
+    "sha256": "daa2f955454bc4fb7db30fdc7f05f3a16f111b459503d09b018a5deb54917c1e"
+  },
+  {
+    "path": "F/weights/ds002835/neurostorm/sub-3557/model-24-re.pt",
+    "bytes": 571596,
+    "sha256": "9bf41fb3cb8796b6cd9e2b3aeea2ed37dba1c5a8ddaf7aa72b92267ccd3b6388"
+  },
+  {
+    "path": "F/weights/ds002835/neurostorm/sub-3593/model-24-re.pt",
+    "bytes": 571596,
+    "sha256": "9cfa1e305944aa50b41f116861505e3759a1d6aedcbdb0a2d54fd7e65b901f4c"
+  }
+]

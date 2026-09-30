@@ -1,0 +1,130 @@
+{
+  "local": {
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/checkpoints/unified_v3/prior_unified_v3_20260514_020311.pt": "_source/checkpoints/unified_v3/prior_unified_v3_20260514_020311.pt",
+    "/media/wsqlab/data/gy/code/Eigen_brain_decoding/checkpoints/unified_v3/prior_unified_v3_20260514_020311.pt": "_source/checkpoints/unified_v3/prior_unified_v3_20260514_020311.pt",
+    "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/full_run_5fold/stage2_new/SEED-V": "_source/data_check_20260507/full_run_5fold/stage2_new/SEED-V",
+    "/media/wsqlab/data/gy/code/Eigen_brain_decoding/guoyi_exp/data/eigenmode_test/SEED-V/sensor_geom_eigenmode_template_60x48.npy": "_source/guoyi_exp/data/eigenmode_test/SEED-V/sensor_geom_eigenmode_template_60x48.npy",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/full_run_5fold/stage2_new/SEED-V": "_source/data_check_20260507/full_run_5fold/stage2_new/SEED-V",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/guoyi_exp/data/eigenmode_test/SEED-V/sensor_geom_eigenmode_template_60x48.npy": "_source/guoyi_exp/data/eigenmode_test/SEED-V/sensor_geom_eigenmode_template_60x48.npy",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/full_run_5fold/stage2_new/MOTOR": "_source/data_check_20260507/full_run_5fold/stage2_new/MOTOR",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/guoyi_exp/data/eigenmode_test/MOTOR_eeg-fmri/D_eeg.npy": "_source/guoyi_exp/data/eigenmode_test/MOTOR_eeg-fmri/D_eeg.npy",
+    "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/full_run_5fold/stage2_new/FACED_new": "_source/data_check_20260507/full_run_5fold/stage2_new/FACED_new",
+    "/media/wsqlab/data/tyf/ugreen/eigenmode_test/FACED/d_template_eeg_25.npy": "_source/guoyi_exp/data/eigenmode_test/FACED/d_template_eeg_25.npy",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/full_run_5fold/stage2_new/FACED_new": "_source/data_check_20260507/full_run_5fold/stage2_new/FACED_new",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/guoyi_exp/data/eigenmode_test/FACED/d_template_eeg_25.npy": "_source/guoyi_exp/data/eigenmode_test/FACED/d_template_eeg_25.npy",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/full_run_5fold/stage2_new/BCIC": "_source/data_check_20260507/full_run_5fold/stage2_new/BCIC",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/guoyi_exp/data/eigenmode_test/BCIC/d_template_eeg_17_5e253942b967.npy": "_source/guoyi_exp/data/eigenmode_test/BCIC/d_template_eeg_17_5e253942b967.npy",
+    "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/full_run_5fold/stage2_new/BCIC": "_source/data_check_20260507/full_run_5fold/stage2_new/BCIC",
+    "/media/wsqlab/data/gy/code/Eigen_brain_decoding/guoyi_exp/data/eigenmode_test/BCIC/d_template_eeg_17_5e253942b967.npy": "_source/guoyi_exp/data/eigenmode_test/BCIC/d_template_eeg_17_5e253942b967.npy",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type/spherical_harmonic_matched/pretrain/prior_spherical_harmonic_seedv_mae50.pt": "weights/encoders/prior_spherical_harmonic_seedv_mae50/prior_spherical_harmonic_seedv_mae50.pt",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type/laplacian_matched/pretrain/prior_laplacian_seedv_mae50.pt": "weights/encoders/prior_laplacian_seedv_mae50/prior_laplacian_seedv_mae50.pt",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type/fourier_matched/pretrain/prior_fourier_seedv_mae50.pt": "weights/encoders/prior_fourier_seedv_mae50/prior_fourier_seedv_mae50.pt",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/pretrain/MOTOR/laplacian/prior_MOTOR_laplacian_mae50.pt": "weights/encoders/prior_MOTOR_laplacian_mae50/prior_MOTOR_laplacian_mae50.pt",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/pretrain/MOTOR/fourier_dct/prior_MOTOR_fourier_dct_mae50.pt": "weights/encoders/prior_MOTOR_fourier_dct_mae50/prior_MOTOR_fourier_dct_mae50.pt",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/pretrain/MOTOR/spherical_harmonic/prior_MOTOR_spherical_harmonic_mae50.pt": "weights/encoders/prior_MOTOR_spherical_harmonic_mae50/prior_MOTOR_spherical_harmonic_mae50.pt",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/pretrain/FACED/laplacian/prior_FACED_laplacian_mae50.pt": "weights/encoders/prior_FACED_laplacian_mae50/prior_FACED_laplacian_mae50.pt",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/pretrain/FACED/fourier_dct/prior_FACED_fourier_dct_mae50.pt": "weights/encoders/prior_FACED_fourier_dct_mae50/prior_FACED_fourier_dct_mae50.pt",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/pretrain/FACED/spherical_harmonic/prior_FACED_spherical_harmonic_mae50.pt": "weights/encoders/prior_FACED_spherical_harmonic_mae50/prior_FACED_spherical_harmonic_mae50.pt",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/pretrain/BCIC/laplacian/prior_BCIC_laplacian_mae50.pt": "weights/encoders/prior_BCIC_laplacian_mae50/prior_BCIC_laplacian_mae50.pt",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/pretrain/BCIC/fourier_dct/prior_BCIC_fourier_dct_mae50.pt": "weights/encoders/prior_BCIC_fourier_dct_mae50/prior_BCIC_fourier_dct_mae50.pt",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/pretrain/BCIC/spherical_harmonic/prior_BCIC_spherical_harmonic_mae50.pt": "weights/encoders/prior_BCIC_spherical_harmonic_mae50/prior_BCIC_spherical_harmonic_mae50.pt"
+  },
+  "external": {
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type/spherical_harmonic_matched/data": {
+      "kind": "dataset",
+      "path": "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type/spherical_harmonic_matched/data"
+    },
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type/laplacian_matched/data": {
+      "kind": "dataset",
+      "path": "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type/laplacian_matched/data"
+    },
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type/fourier_matched/data": {
+      "kind": "dataset",
+      "path": "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type/fourier_matched/data"
+    },
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/data/MOTOR/laplacian": {
+      "kind": "dataset",
+      "path": "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/data/MOTOR/laplacian"
+    },
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/data/MOTOR/fourier_dct": {
+      "kind": "dataset",
+      "path": "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/data/MOTOR/fourier_dct"
+    },
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/data/MOTOR/spherical_harmonic": {
+      "kind": "dataset",
+      "path": "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/data/MOTOR/spherical_harmonic"
+    },
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/data/FACED/laplacian": {
+      "kind": "dataset",
+      "path": "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/data/FACED/laplacian"
+    },
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/data/FACED/fourier_dct": {
+      "kind": "dataset",
+      "path": "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/data/FACED/fourier_dct"
+    },
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/data/FACED/spherical_harmonic": {
+      "kind": "dataset",
+      "path": "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/data/FACED/spherical_harmonic"
+    },
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/data/BCIC/laplacian": {
+      "kind": "dataset",
+      "path": "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/data/BCIC/laplacian"
+    },
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/data/BCIC/fourier_dct": {
+      "kind": "dataset",
+      "path": "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/data/BCIC/fourier_dct"
+    },
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/data/BCIC/spherical_harmonic": {
+      "kind": "dataset",
+      "path": "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_mode_type_bcic_faced_motor/data/BCIC/spherical_harmonic"
+    },
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ablation_seedv/data/K10": {
+      "kind": "dataset",
+      "path": "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ablation_seedv/data/K10"
+    },
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ablation_seedv/data/K40": {
+      "kind": "dataset",
+      "path": "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ablation_seedv/data/K40"
+    },
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ablation_seedv/data/K20": {
+      "kind": "dataset",
+      "path": "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ablation_seedv/data/K20"
+    },
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ablation_seedv/data/K5": {
+      "kind": "dataset",
+      "path": "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ablation_seedv/data/K5"
+    },
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ablation_seedv/data/K48": {
+      "kind": "dataset",
+      "path": "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ablation_seedv/data/K48"
+    },
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ablation_seedv/data/K3": {
+      "kind": "dataset",
+      "path": "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ablation_seedv/data/K3"
+    },
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ablation_bcic_faced_motor/data/MOTOR/K10": {
+      "kind": "dataset",
+      "path": "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ablation_bcic_faced_motor/data/MOTOR/K10"
+    },
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ablation_bcic_faced_motor/data/MOTOR/K40": {
+      "kind": "dataset",
+      "path": "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ablation_bcic_faced_motor/data/MOTOR/K40"
+    },
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ablation_bcic_faced_motor/data/MOTOR/K20": {
+      "kind": "dataset",
+      "path": "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ablation_bcic_faced_motor/data/MOTOR/K20"
+    },
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ablation_bcic_faced_motor/data/MOTOR/K5": {
+      "kind": "dataset",
+      "path": "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ablation_bcic_faced_motor/data/MOTOR/K5"
+    },
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ablation_bcic_faced_motor/data/MOTOR/K48": {
+      "kind": "dataset",
+      "path": "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ablation_bcic_faced_motor/data/MOTOR/K48"
+    },
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ablation_bcic_faced_motor/data/MOTOR/K3": {
+      "kind": "dataset",
+      "path": "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ablation_bcic_faced_motor/data/MOTOR/K3"
+    }
+  }
+}

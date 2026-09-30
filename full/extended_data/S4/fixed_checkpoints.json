@@ -1,0 +1,21 @@
+{
+  "configurations": {
+    "[\"narratives\", \"random\", 19, 3]": "weights/experiments/narratives_shortvideo_mae_epochwise_rsa30_two_init_20260726/poe5models_rsa30/runs/narratives/random/epoch_019/gaussian_poe128/model_03/checkpoint.pt",
+    "[\"narratives\", \"crossdataset\", 0, 3]": "weights/experiments/narratives_shortvideo_mae_epochwise_rsa30_two_init_20260726/poe5models_rsa30/runs/narratives/crossdataset/epoch_000/gaussian_poe128/model_03/checkpoint.pt",
+    "[\"narratives\", \"crossdataset\", 0, 1]": "weights/experiments/narratives_shortvideo_mae_epochwise_rsa30_two_init_20260726/poe5models_rsa30/runs/narratives/crossdataset/epoch_000/gaussian_poe128/model_01/checkpoint.pt",
+    "[\"narratives\", \"crossdataset\", 0, 0]": "weights/experiments/narratives_shortvideo_mae_epochwise_rsa30_two_init_20260726/poe5models_rsa30/runs/narratives/crossdataset/epoch_000/gaussian_poe128/model_00/checkpoint.pt",
+    "[\"shortvideo\", \"crossdataset\", 17, 1]": "weights/experiments/narratives_shortvideo_mae_epochwise_rsa30_two_init_20260726/poe5models_rsa30/runs/shortvideo/crossdataset/epoch_017/gaussian_poe128/model_01/checkpoint.pt",
+    "[\"narratives\", \"crossdataset\", 0, 12]": "weights/experiments/narratives_shortvideo_mae_epochwise_rsa30_two_init_20260726/poe_extra20_model05_24_ratingonly_20260727/runs/narratives/crossdataset/epoch_000/gaussian_poe128/model_12/checkpoint.pt",
+    "[\"shortvideo\", \"crossdataset\", 5, 14]": "weights/experiments/narratives_shortvideo_mae_epochwise_rsa30_two_init_20260726/poe_extra20_model05_24_ratingonly_20260727/runs/shortvideo/crossdataset/epoch_005/gaussian_poe128/model_14/checkpoint.pt",
+    "[\"shortvideo\", \"crossdataset\", 5, 18]": "weights/experiments/narratives_shortvideo_mae_epochwise_rsa30_two_init_20260726/poe_extra20_model05_24_ratingonly_20260727/runs/shortvideo/crossdataset/epoch_005/gaussian_poe128/model_18/checkpoint.pt",
+    "[\"shortvideo\", \"crossdataset\", 5, 11]": "weights/experiments/narratives_shortvideo_mae_epochwise_rsa30_two_init_20260726/poe_extra20_model05_24_ratingonly_20260727/runs/shortvideo/crossdataset/epoch_005/gaussian_poe128/model_11/checkpoint.pt",
+    "[\"shortvideo\", \"crossdataset\", 9, 56]": "weights/experiments/narratives_shortvideo_mae_epochwise_rsa30_two_init_20260726/poe_extra50_model25_74_ratingonly_20260727/runs/shortvideo/crossdataset/epoch_009/gaussian_poe128/model_56/checkpoint.pt",
+    "[\"shortvideo\", \"crossdataset\", 9, 48]": "weights/experiments/narratives_shortvideo_mae_epochwise_rsa30_two_init_20260726/poe_extra50_model25_74_ratingonly_20260727/runs/shortvideo/crossdataset/epoch_009/gaussian_poe128/model_48/checkpoint.pt",
+    "[\"shortvideo\", \"crossdataset\", 9, 25]": "weights/experiments/narratives_shortvideo_mae_epochwise_rsa30_two_init_20260726/poe_extra50_model25_74_ratingonly_20260727/runs/shortvideo/crossdataset/epoch_009/gaussian_poe128/model_25/checkpoint.pt",
+    "[\"shortvideo\", \"crossdataset\", 5, 69]": "weights/experiments/narratives_shortvideo_mae_epochwise_rsa30_two_init_20260726/poe_extra50_model25_74_ratingonly_20260727/runs/shortvideo/crossdataset/epoch_005/gaussian_poe128/model_69/checkpoint.pt",
+    "[\"shortvideo\", \"crossdataset\", 5, 51]": "weights/experiments/narratives_shortvideo_mae_epochwise_rsa30_two_init_20260726/poe_extra50_model25_74_ratingonly_20260727/runs/shortvideo/crossdataset/epoch_005/gaussian_poe128/model_51/checkpoint.pt",
+    "[\"shortvideo\", \"crossdataset\", 5, 44]": "weights/experiments/narratives_shortvideo_mae_epochwise_rsa30_two_init_20260726/poe_extra50_model25_74_ratingonly_20260727/runs/shortvideo/crossdataset/epoch_005/gaussian_poe128/model_44/checkpoint.pt",
+    "[\"shortvideo\", \"crossdataset\", 5, 49]": "weights/experiments/narratives_shortvideo_mae_epochwise_rsa30_two_init_20260726/poe_extra50_model25_74_ratingonly_20260727/runs/shortvideo/crossdataset/epoch_005/gaussian_poe128/model_49/checkpoint.pt",
+    "[\"shortvideo\", \"crossdataset\", 5, 40]": "weights/experiments/narratives_shortvideo_mae_epochwise_rsa30_two_init_20260726/poe_extra50_model25_74_ratingonly_20260727/runs/shortvideo/crossdataset/epoch_005/gaussian_poe128/model_40/checkpoint.pt"
+  }
+}

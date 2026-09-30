@@ -1,0 +1,110 @@
+{
+  "schema_version": "spacetop-sub0018-fixed-replay-v1",
+  "created_date": "2026-08-17",
+  "fixed_test": {
+    "subject": "sub-0018",
+    "task": "alignvideo",
+    "fold": 4,
+    "seed": 46
+  },
+  "protocol": {
+    "mode": "inference-only",
+    "method": "poe",
+    "target_mode": "raw",
+    "seed_policy": "one fixed decoder checkpoint for all seven targets",
+    "training_available_from_entrypoint": false,
+    "target_names": [
+      "relevance",
+      "happy",
+      "sad",
+      "afraid",
+      "disgusted",
+      "warm",
+      "engaged"
+    ]
+  },
+  "data_contract": {
+    "n_trials": 49,
+    "feature_datasets": {
+      "bci_obs": [
+        49,
+        232,
+        512
+      ],
+      "bci_prior_indiv": [
+        49,
+        232,
+        512
+      ]
+    },
+    "decoder_inputs_after_token_mean": {
+      "bci_obs": [
+        49,
+        512
+      ],
+      "bci_prior_indiv": [
+        49,
+        512
+      ]
+    },
+    "rating_shape": [
+      49,
+      7
+    ],
+    "missing_rating_rule": "negative target values are converted to missing and excluded per target"
+  },
+  "checkpoint": {
+    "parameter_count": 398997,
+    "checkpoint_model_seed": 4046,
+    "best_epoch": 4,
+    "outer_test_subjects": [
+      "sub-0018"
+    ]
+  },
+  "files": {
+    "spacetop_subjective.py": {
+      "size_bytes": 14056,
+      "sha256": "5ccdf2dcd046987fbe36b76f9d7cad67ff029d8087b1fbace46e007fca3fdae1",
+      "role": "fixed inference-only entry point and Pearson evaluation"
+    },
+    "models.py": {
+      "size_bytes": 8341,
+      "sha256": "51b82c13453b000c5d233674d41f1d0dc9f8825dd94bca70c948aa83b65e9078",
+      "role": "frozen Gaussian expert and PoE decoder architecture"
+    },
+    "requirements.txt": {
+      "size_bytes": 384,
+      "sha256": "0f9276dcffb2520463b956a91bf5fb3f802b647785bd9b55512d6654ce324780",
+      "role": "Python runtime dependency specification"
+    },
+    "assets/spacetop_sub0018/sub-0018_features.h5": {
+      "size_bytes": 28153017,
+      "sha256": "97e2ca6e1dbfbb14829a190489de7d739b447158d662398d43c4e6304d942990",
+      "role": "frozen observation and individual-prior features"
+    },
+    "assets/spacetop_sub0018/sub-0018_manifest.npz": {
+      "size_bytes": 4131,
+      "sha256": "6dec8f5d826657c26496dc71177fce4d0cb8502688fc7e5aa488dca7f30ea7c1",
+      "role": "trial order, stimulus identity, and seven ground-truth ratings"
+    },
+    "assets/spacetop_sub0018/sub-0018_reference_prediction.npz": {
+      "size_bytes": 4493,
+      "sha256": "388d3fd34649972e3e1675eb42254cdde4b33a228e8900ee561754af630ca037",
+      "role": "original archived prediction for element-wise replay verification"
+    },
+    "weights/spacetop_sub0018/fold-04_checkpoint.pt": {
+      "size_bytes": 3238802,
+      "sha256": "2dfeb079da7a0edb1f18d8a494fab6fdedec3114b9d7316df1a3c855a210c33d",
+      "role": "fixed final outer decoder, scalers, split metadata, and provenance"
+    }
+  },
+  "source_paths": {
+    "features": "/home/guoyi/nas2/share/Dataset/ds005256-download/experiments/alignvideo_all37_continual_mae_20260722/decoding_snapshot_intermediate_20260722/features_all37/alignvideo/sub-0018.h5",
+    "labels": "/home/guoyi/nas2/share/Dataset/ds005256-download/experiments/alignvideo_all37_continual_mae_20260722/manifests_loso30/alignvideo/sub-0018.npz",
+    "checkpoint_run": "/home/guoyi/nas2/share/Dataset/ds005256-download/experiments/alignvideo_all37_continual_mae_20260722/decoding_snapshot_intermediate_20260722/result_loso30_direct_ours_80seed/alignvideo/fold-04/seed-46/poe"
+  },
+  "expected_result": {
+    "seven_target_arithmetic_mean_pearson_r": 0.421994691865,
+    "gpu_reference_max_abs_prediction_difference": 0.0
+  }
+}

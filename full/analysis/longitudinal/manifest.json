@@ -1,0 +1,63 @@
+{
+  "figure": 4,
+  "panels": {
+    "A": {
+      "title": "ECoG temporal profiles",
+      "mode": "signal_calibration",
+      "script": "plot_three_dataset_channel_low_high.py"
+    },
+    "B": {
+      "title": "ECoG similarity matrices",
+      "script": "run.py"
+    },
+    "C": {
+      "title": "AJILE12 temporal profiles",
+      "mode": "signal_calibration",
+      "script": "plot_three_dataset_channel_low_high.py"
+    },
+    "D": {
+      "title": "AJILE12 similarity matrices",
+      "mode": "feature_recompute",
+      "script": "plot_AJILE12_sub-06.py"
+    },
+    "E": {
+      "title": "SHU temporal profiles",
+      "mode": "signal_calibration",
+      "script": "plot_three_dataset_channel_low_high.py"
+    },
+    "F": {
+      "title": "SHU similarity matrices",
+      "mode": "feature_recompute",
+      "script": "plot_SHU_sub-006.py"
+    },
+    "G": {
+      "title": "D0/D42 trajectories",
+      "mode": "inference",
+      "script": "fig4_g.py"
+    },
+    "H": {
+      "title": "D0/D42 embeddings",
+      "mode": "features",
+      "script": "fig4_h.py"
+    },
+    "J": {
+      "title": "Cross-session drift",
+      "mode": "features",
+      "script": "fig4_jk_paper.py"
+    },
+    "K": {
+      "title": "Endpoint drift",
+      "mode": "features",
+      "script": "fig4_jk_paper.py"
+    },
+    "L": {
+      "title": "Cross-session accuracy",
+      "mode": "observation_weight_inference_cached_prior",
+      "script": "L/infer.py"
+    },
+    "M": {
+      "title": "Cross-dataset accuracy",
+      "script": "run.py"
+    }
+  }
+}

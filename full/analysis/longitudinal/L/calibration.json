@@ -1,0 +1,122 @@
+{
+  "10": {
+    "calib_frac": 0.2,
+    "a_obs": 1.6,
+    "a_prior": 1.4000000000000001,
+    "gamma": 0.5
+  },
+  "11": {
+    "calib_frac": 0.2,
+    "a_obs": 1.4000000000000001,
+    "a_prior": 0.4,
+    "gamma": 2.0
+  },
+  "18": {
+    "calib_frac": 0.2,
+    "a_obs": 1.6,
+    "a_prior": 0.6000000000000001,
+    "gamma": 1.0
+  },
+  "25": {
+    "calib_frac": 0.2,
+    "a_obs": 1.2000000000000002,
+    "a_prior": 0.6000000000000001,
+    "gamma": 2.0
+  },
+  "26": {
+    "calib_frac": 0.2,
+    "a_obs": 2.0,
+    "a_prior": 2.4000000000000004,
+    "gamma": 0.5
+  },
+  "28": {
+    "calib_frac": 0.2,
+    "a_obs": 2.0,
+    "a_prior": 0.4,
+    "gamma": 2.0
+  },
+  "29": {
+    "calib_frac": 0.2,
+    "a_obs": 1.2000000000000002,
+    "a_prior": 2.6,
+    "gamma": 0.5
+  },
+  "42": {
+    "calib_frac": 0.2,
+    "a_obs": 2.0,
+    "a_prior": 0.4,
+    "gamma": 2.0
+  },
+  "45": {
+    "calib_frac": 0.2,
+    "a_obs": 2.6,
+    "a_prior": 1.0,
+    "gamma": 0.5
+  },
+  "48": {
+    "calib_frac": 0.2,
+    "a_obs": 1.0,
+    "a_prior": 1.2000000000000002,
+    "gamma": 0.5
+  },
+  "54": {
+    "calib_frac": 0.2,
+    "a_obs": 3.2,
+    "a_prior": 0.8,
+    "gamma": 2.0
+  },
+  "55": {
+    "calib_frac": 0.2,
+    "a_obs": 5.0,
+    "a_prior": 0.4,
+    "gamma": 4.0
+  },
+  "61": {
+    "calib_frac": 0.2,
+    "a_obs": 1.2000000000000002,
+    "a_prior": 1.0,
+    "gamma": 0.5
+  },
+  "68": {
+    "calib_frac": 0.2,
+    "a_obs": 2.8000000000000003,
+    "a_prior": 1.2000000000000002,
+    "gamma": 0.5
+  },
+  "71": {
+    "calib_frac": 0.2,
+    "a_obs": 3.2,
+    "a_prior": 1.0,
+    "gamma": 1.0
+  },
+  "76": {
+    "calib_frac": 0.2,
+    "a_obs": 5.0,
+    "a_prior": 9.200000000000001,
+    "gamma": 0.5
+  },
+  "84": {
+    "calib_frac": 0.2,
+    "a_obs": 1.6,
+    "a_prior": 0.4,
+    "gamma": 2.0
+  },
+  "88": {
+    "calib_frac": 0.2,
+    "a_obs": 3.2,
+    "a_prior": 0.4,
+    "gamma": 4.0
+  },
+  "92": {
+    "calib_frac": 0.2,
+    "a_obs": 1.2000000000000002,
+    "a_prior": 0.8,
+    "gamma": 1.0
+  },
+  "96": {
+    "calib_frac": 0.2,
+    "a_obs": 1.2000000000000002,
+    "a_prior": 3.0,
+    "gamma": 0.5
+  }
+}

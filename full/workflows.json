@@ -1,0 +1,57 @@
+{
+  "cortical_maps": {
+    "directory": "analysis/cortical_maps",
+    "figure": "Fig2",
+    "entry": "run.py"
+  },
+  "cross_domain": {
+    "directory": "analysis/cross_domain",
+    "figure": "Fig3",
+    "entry": "run.py"
+  },
+  "longitudinal": {
+    "directory": "analysis/longitudinal",
+    "figure": "Fig4",
+    "entry": "run.py"
+  },
+  "semantic_decoding": {
+    "directory": "decoding",
+    "figure": "Fig5",
+    "entry": "run.py"
+  },
+  "cognitive": {
+    "directory": "analysis/cognitive",
+    "figure": "Fig6",
+    "entry": "run.py"
+  },
+  "extended_03": {
+    "directory": "extended_data/S3",
+    "figure": "S3",
+    "entry": "run.py"
+  },
+  "extended_04": {
+    "directory": "extended_data/S4",
+    "figure": "S4",
+    "entry": "run.py"
+  },
+  "extended_05": {
+    "directory": "extended_data/S5",
+    "figure": "S5",
+    "entry": "run.py"
+  },
+  "extended_06": {
+    "directory": "extended_data/S6",
+    "figure": "S6",
+    "entry": "run.py"
+  },
+  "extended_07": {
+    "directory": "extended_data/S7",
+    "figure": "S7",
+    "entry": "run.py"
+  },
+  "extended_08": {
+    "directory": "extended_data/S8",
+    "figure": "S8",
+    "entry": "run.py"
+  }
+}

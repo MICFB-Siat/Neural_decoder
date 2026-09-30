@@ -1,0 +1,20 @@
+{
+  "inputs": {
+    "ecog": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/ECoG_speech/zhf_work/code_my/data_ecog_eigen_bp/run_20260529_215039/prior_expert",
+    "ajile": "/media/wsqlab/data/tyf/ugreen/Language/AJILE12/preprocess/stage2_bp200_sleep_v2/sub-06.h5",
+    "shu": "/media/wsqlab/data/tyf/ugreen/NolanguageData/SHU Multi-session Dataset/preprocess/stage2/sub-006.h5",
+    "shu_representation": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/uncertainty_seedv/tyf_20260601/repr_cache/sub006_repr.npz"
+  },
+  "metric": "L2 displacement of concatenated class centroids divided by reference mean class-to-population-centroid distance",
+  "standardization": "Global per-feature StandardScaler fitted to all retained trials, including follow-up sessions; descriptive analysis",
+  "trials": "All retained trials per session; no trial selection by output",
+  "ecog": "F_multiband versus retained feat_z; feat_z already session-aligned",
+  "ajile": "Welch log bandpower: raw versus per-session-standardized eigenmodes",
+  "shu": "Welch log raw bandpower versus saved ours model features; no additional session alignment",
+  "K_sessions": {
+    "ECoG Speech": 208,
+    "AJILE12": 7,
+    "SHU EEG": 4
+  },
+  "training_performed": false
+}

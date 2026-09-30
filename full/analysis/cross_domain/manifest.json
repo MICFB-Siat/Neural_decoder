@@ -1,0 +1,30 @@
+{
+  "figure": 3,
+  "panels": {
+    "A": {
+      "title": "Three-domain representations",
+      "mode": "feature_statistics",
+      "script": "run.py"
+    },
+    "B": {
+      "title": "PS and CCGP",
+      "mode": "feature_statistics",
+      "script": "run.py"
+    },
+    "C": {
+      "title": "Within-participant classification",
+      "mode": "checkpoint_inference",
+      "script": "fig3_classification.py"
+    },
+    "D": {
+      "title": "Confusion matrices",
+      "mode": "checkpoint_inference",
+      "script": "run.py"
+    },
+    "E": {
+      "title": "Leave-one-participant-out classification",
+      "mode": "checkpoint_inference",
+      "script": "fig3_classification.py"
+    }
+  }
+}

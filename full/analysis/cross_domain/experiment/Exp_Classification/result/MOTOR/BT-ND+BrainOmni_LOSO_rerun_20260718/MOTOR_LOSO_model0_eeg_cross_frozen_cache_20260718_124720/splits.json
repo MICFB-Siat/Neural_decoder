@@ -1,0 +1,202 @@
+[
+  {
+    "fold": 0,
+    "train_subjects": [
+      "sub-101",
+      "sub-102",
+      "sub-104",
+      "sub-105",
+      "sub-106",
+      "sub-107",
+      "sub-108",
+      "sub-109",
+      "sub-110"
+    ],
+    "val_subjects": [
+      "sub-103"
+    ],
+    "n_train": 1486,
+    "n_val": 188,
+    "test_subjects": null
+  },
+  {
+    "fold": 1,
+    "train_subjects": [
+      "sub-101",
+      "sub-102",
+      "sub-103",
+      "sub-104",
+      "sub-105",
+      "sub-106",
+      "sub-107",
+      "sub-108",
+      "sub-110"
+    ],
+    "val_subjects": [
+      "sub-109"
+    ],
+    "n_train": 1529,
+    "n_val": 145,
+    "test_subjects": null
+  },
+  {
+    "fold": 2,
+    "train_subjects": [
+      "sub-101",
+      "sub-102",
+      "sub-103",
+      "sub-104",
+      "sub-106",
+      "sub-107",
+      "sub-108",
+      "sub-109",
+      "sub-110"
+    ],
+    "val_subjects": [
+      "sub-105"
+    ],
+    "n_train": 1486,
+    "n_val": 188,
+    "test_subjects": null
+  },
+  {
+    "fold": 3,
+    "train_subjects": [
+      "sub-101",
+      "sub-102",
+      "sub-103",
+      "sub-104",
+      "sub-105",
+      "sub-106",
+      "sub-107",
+      "sub-108",
+      "sub-109"
+    ],
+    "val_subjects": [
+      "sub-110"
+    ],
+    "n_train": 1483,
+    "n_val": 191,
+    "test_subjects": null
+  },
+  {
+    "fold": 4,
+    "train_subjects": [
+      "sub-101",
+      "sub-103",
+      "sub-104",
+      "sub-105",
+      "sub-106",
+      "sub-107",
+      "sub-108",
+      "sub-109",
+      "sub-110"
+    ],
+    "val_subjects": [
+      "sub-102"
+    ],
+    "n_train": 1557,
+    "n_val": 117,
+    "test_subjects": null
+  },
+  {
+    "fold": 5,
+    "train_subjects": [
+      "sub-101",
+      "sub-102",
+      "sub-103",
+      "sub-104",
+      "sub-105",
+      "sub-106",
+      "sub-108",
+      "sub-109",
+      "sub-110"
+    ],
+    "val_subjects": [
+      "sub-107"
+    ],
+    "n_train": 1488,
+    "n_val": 186,
+    "test_subjects": null
+  },
+  {
+    "fold": 6,
+    "train_subjects": [
+      "sub-101",
+      "sub-102",
+      "sub-103",
+      "sub-104",
+      "sub-105",
+      "sub-106",
+      "sub-107",
+      "sub-109",
+      "sub-110"
+    ],
+    "val_subjects": [
+      "sub-108"
+    ],
+    "n_train": 1485,
+    "n_val": 189,
+    "test_subjects": null
+  },
+  {
+    "fold": 7,
+    "train_subjects": [
+      "sub-101",
+      "sub-102",
+      "sub-103",
+      "sub-105",
+      "sub-106",
+      "sub-107",
+      "sub-108",
+      "sub-109",
+      "sub-110"
+    ],
+    "val_subjects": [
+      "sub-104"
+    ],
+    "n_train": 1529,
+    "n_val": 145,
+    "test_subjects": null
+  },
+  {
+    "fold": 8,
+    "train_subjects": [
+      "sub-102",
+      "sub-103",
+      "sub-104",
+      "sub-105",
+      "sub-106",
+      "sub-107",
+      "sub-108",
+      "sub-109",
+      "sub-110"
+    ],
+    "val_subjects": [
+      "sub-101"
+    ],
+    "n_train": 1528,
+    "n_val": 146,
+    "test_subjects": null
+  },
+  {
+    "fold": 9,
+    "train_subjects": [
+      "sub-101",
+      "sub-102",
+      "sub-103",
+      "sub-104",
+      "sub-105",
+      "sub-107",
+      "sub-108",
+      "sub-109",
+      "sub-110"
+    ],
+    "val_subjects": [
+      "sub-106"
+    ],
+    "n_train": 1495,
+    "n_val": 179,
+    "test_subjects": null
+  }
+]

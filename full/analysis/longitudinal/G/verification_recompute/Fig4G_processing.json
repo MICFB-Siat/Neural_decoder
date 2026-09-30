@@ -1,0 +1,31 @@
+{
+  "configuration": {
+    "source_directory": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/guoyi_exp/geometric_add_exp/R3_final_trajectory/REAL_D0_D42_20260913_gy_codex",
+    "environment": {
+      "R3_SEED": "1",
+      "R3_CLASSES": "Enter,Right,Up"
+    },
+    "classes": [
+      "Enter",
+      "Right",
+      "Up"
+    ],
+    "projection_dimensions": 8,
+    "projection_initialization": 140,
+    "provenance": "Historical representative visualization. The class subset and checkpoint were selected using D42; the observation projection initialization was selected after inspecting 500 candidates using D42. The prior branch has no added random projection. The present replay fixes these choices without searching again. PCA is fitted on all six D0 classes and applied unchanged to D42."
+  },
+  "correlations": {
+    "obs": [
+      0.4894227490990438,
+      0.4433722311488695,
+      0.16581702002497362
+    ],
+    "prior": [
+      0.9760222649364414,
+      0.7134259387484262,
+      0.9284821461321002
+    ]
+  },
+  "input": "retained token features and trained Gaussian heads",
+  "training_performed": false
+}

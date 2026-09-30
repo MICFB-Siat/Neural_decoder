@@ -1,0 +1,19 @@
+{
+  "fold": 5,
+  "train_subjects": [
+    "sub-001",
+    "sub-002",
+    "sub-003",
+    "sub-004",
+    "sub-005",
+    "sub-006",
+    "sub-008",
+    "sub-009"
+  ],
+  "val_subjects": [
+    "sub-007"
+  ],
+  "n_train": 4608,
+  "n_val": 576,
+  "test_subjects": null
+}

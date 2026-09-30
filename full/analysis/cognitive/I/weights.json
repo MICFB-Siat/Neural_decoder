@@ -1,0 +1,2222 @@
+[
+  {
+    "path": "I/weights/ours/alignvideo/fold-00/model-52/poe/checkpoint.pt",
+    "bytes": 3239122,
+    "sha256": "bae481b6266b868b7470b05767adb5bc9707cc16d0f068305026f0c0897c881f"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-00/model-57/poe/checkpoint.pt",
+    "bytes": 3238610,
+    "sha256": "858e0570addf878e6965dae4f5ea777740600a17d12e9fb6449a6613e0d0088f"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-00/model-66/poe/checkpoint.pt",
+    "bytes": 3238802,
+    "sha256": "2c351183d2117ce02da26b1ad9db5f2fff7366fd4e66cd5d209123944d0de0e6"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-00/model-70/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "b27d3d69f0fbf076eae74a4371ff7c057175733172b71ff493e20f09adaa9185"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-00/model-76/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "f35f302382653bbb4c37858769602c6af9ee5dc527ecfb83d02598de02060da3"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-01/model-06/poe/checkpoint.pt",
+    "bytes": 3239058,
+    "sha256": "a312d2fe44128dda85e47c20ed1b417de77796953725271352cea358fdf66e1c"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-01/model-08/poe/checkpoint.pt",
+    "bytes": 3239058,
+    "sha256": "4c4394e33207adfb542b82b95b403bc5bfb1a0997e4c4cebea2be8afb1aacb20"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-01/model-52/poe/checkpoint.pt",
+    "bytes": 3238866,
+    "sha256": "ee59d6f2a73c8338727fccc2cebfdde182fb9da67c8c19ac5f941ea7be7cdc5c"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-01/model-54/poe/checkpoint.pt",
+    "bytes": 3238610,
+    "sha256": "90a275568f02befbe49b0a9d126d1b572a83844e62a9c8745601afc9f332db87"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-02/model-03/poe/checkpoint.pt",
+    "bytes": 3239314,
+    "sha256": "c93f7b01f339c04aa08194f4187f5ef92a38561e5e30aa699e803080e38fab41"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-02/model-42/poe/checkpoint.pt",
+    "bytes": 3238866,
+    "sha256": "868b0f6540dd9170c9449117539898cf1729693fa79b75e94b39608709a2d595"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-02/model-52/poe/checkpoint.pt",
+    "bytes": 3238866,
+    "sha256": "5ea100847c14938d6f547c2daab0489bd3c8b498069f019341af24710c2cf0df"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-02/model-68/poe/checkpoint.pt",
+    "bytes": 3239122,
+    "sha256": "75275466fabfecb92ae65f93e7175fe567d647f559d21151efcf17b1ef5f96ac"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-02/model-69/poe/checkpoint.pt",
+    "bytes": 3238674,
+    "sha256": "51e1059837a623890297d4b53437704ff7b216005626920e2d7b98ad58bf0c76"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-03/model-45/poe/checkpoint.pt",
+    "bytes": 3238610,
+    "sha256": "0f8d4a37b4f945cc6293d5337dbb1ca5a9dd62c0dc98e170afe06e6142dd16a3"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-03/model-53/poe/checkpoint.pt",
+    "bytes": 3238674,
+    "sha256": "34fe37ff2a76a0a7104ad2c681b421e413717e6b84b194489ba8ff2bc67af29a"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-03/model-54/poe/checkpoint.pt",
+    "bytes": 3238610,
+    "sha256": "a4cafc7a40fd0da2be23d929533671280c2d0ac053cf39523e5f6946d20b438d"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-03/model-66/poe/checkpoint.pt",
+    "bytes": 3238610,
+    "sha256": "2e4ecce44eb5926e2fbe845923d4b84135ccba50888d3a8296299c578330d391"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-04/model-26/poe/checkpoint.pt",
+    "bytes": 3238866,
+    "sha256": "116ab28496c5bfdadbe89e5bbed2194abae5516a7e0d1321554131df64f4cd16"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-04/model-42/poe/checkpoint.pt",
+    "bytes": 3238802,
+    "sha256": "e522a0f729fbe9a227d05011a5249950c18563220ff26dacaae86f8823e35deb"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-04/model-45/poe/checkpoint.pt",
+    "bytes": 3238866,
+    "sha256": "426e86458695093472270a84e0ee8e7e8a7bfd706f1ce50c2744a7001519d004"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-04/model-77/poe/checkpoint.pt",
+    "bytes": 3238802,
+    "sha256": "a5c4c73588b23b9edea3a74b2bd572bf89c42d652e5b18d684423adb055daaa2"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-05/model-02/poe/checkpoint.pt",
+    "bytes": 3239058,
+    "sha256": "2ff1db3e9230c097c0fc8cbecf9b2a31996dceca29e0c0422b0519b735e820c5"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-05/model-42/poe/checkpoint.pt",
+    "bytes": 3239314,
+    "sha256": "67a8fea0bfa355693b3689ae441ed926482c3b55bd459530fc2fe3fda180bea7"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-05/model-49/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "0f6403f9c1cf96692aa27137b8599d0e3695ce0a3cd7c3f6f834edf9faf1f08f"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-05/model-58/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "eda7e7e2308a3cf2157990dfe03f9e4ae5a0be34fc6341044d3a53858a5cf235"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-05/model-65/poe/checkpoint.pt",
+    "bytes": 3239058,
+    "sha256": "1dc81f13bccd31e418602eff1772627517aad3cc53f5f663c6f229285c88ada7"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-06/model-06/poe/checkpoint.pt",
+    "bytes": 3239122,
+    "sha256": "77c5e787004ea043128447f4628ad03e24aa6bd9cdfe188b976c5e1e9e827394"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-06/model-59/poe/checkpoint.pt",
+    "bytes": 3239122,
+    "sha256": "17f2f4c9c41cc60b1ff5a466cb8ec92e0742827f1b8456f9a04d6e863818ad87"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-06/model-67/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "1ddc27e1814aade1f5eef975d7742eec57204800b6fc602b66a3eb30c2218b75"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-06/model-68/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "86ae0d6963e3f3e3ff6280da191835a05a67b78e9186b3eb861aa18d63626b09"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-06/model-78/poe/checkpoint.pt",
+    "bytes": 3238802,
+    "sha256": "2d9fa8f6dedefe2df04acaa205cbb0704448aa8bf92f022fa1e508bb68bb8e21"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-07/model-05/poe/checkpoint.pt",
+    "bytes": 3238930,
+    "sha256": "ba1180513c4499cb78ba8fc446db2def3af14a57e3087911e6b07d64e4b42904"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-07/model-19/poe/checkpoint.pt",
+    "bytes": 3238866,
+    "sha256": "06536f8363773c574a80aa4c1b4a8f2eede6739d19a008d0400bd7b3223720cc"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-07/model-35/poe/checkpoint.pt",
+    "bytes": 3238738,
+    "sha256": "ebba293468a0763ea68cd652f4ec6f46121bb92a057d9da2525006bd390b740d"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-07/model-67/poe/checkpoint.pt",
+    "bytes": 3239314,
+    "sha256": "7e9968138211dccdf4ed24cd03f0fcb08a895e1165a783d6f74844578b749dfe"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-07/model-71/poe/checkpoint.pt",
+    "bytes": 3238866,
+    "sha256": "4d4302a84a349f8a9b9598da0a92a6bf42ea8b3b44a4fad8552900e1ae6658b4"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-08/model-10/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "e79ac4b7667a7b8a302464517ec0cf00b616fae54c3af6168b2e2f0013647afc"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-08/model-14/poe/checkpoint.pt",
+    "bytes": 3239506,
+    "sha256": "2af7f8bfb456458ec3ba63508ecba5ec007b4b06a2011e367a2096ea47cae5c5"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-08/model-30/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "e2263f8d74aac1aeea21a22f5329f7c9c4176b7544b4b522fbf801d55d6c5cb6"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-08/model-65/poe/checkpoint.pt",
+    "bytes": 3238866,
+    "sha256": "f1bee81222ac9a0ac7f8448f102298fd7123dd3ec7da381024ac705672c08866"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-09/model-00/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "0fad4a4d8155b223c400652fc09cabfa12ba7e8ab312b8b74969a3f00b928ac3"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-09/model-01/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "a8e6fc3db3780ee6e15961fa2b9b8c35523c73a913b5689d26301263f4dc2864"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-09/model-26/poe/checkpoint.pt",
+    "bytes": 3239442,
+    "sha256": "e550e62e4074e47ddcc1f8d194ee263e34f38e5215b03f206930cf0133d2934f"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-09/model-63/poe/checkpoint.pt",
+    "bytes": 3238610,
+    "sha256": "0fce254388fd1cbefa5bc39c63cdd001304a1bf2c2eb207d97770b2df0b30c94"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-09/model-70/poe/checkpoint.pt",
+    "bytes": 3238610,
+    "sha256": "0ad65a2b9b77f814404f92ff5dddb9c2b09665f63cc26e03245e78733ea8adaf"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-10/model-16/poe/checkpoint.pt",
+    "bytes": 3238866,
+    "sha256": "5d1ba924323217365921c76af536444b93795182ac995f5dfec19e38c0fc9256"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-10/model-25/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "633b13489a8d6de73652ff99372584dcd78acda167dfb223ea24101ccc4eeffc"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-10/model-29/poe/checkpoint.pt",
+    "bytes": 3239250,
+    "sha256": "b8c40bd280a3594c6b3537d13368790c5e7edad056511f881a38694c0a5418b7"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-10/model-57/poe/checkpoint.pt",
+    "bytes": 3238866,
+    "sha256": "7e6d187ce591e04633749cde8d4fdb0a82dfbebec900572c0ef1fd6ea44c1198"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-10/model-72/poe/checkpoint.pt",
+    "bytes": 3238866,
+    "sha256": "d463a52dc574760197003f1b0459cf930001cc464100621d80cd171fc03728a6"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-11/model-13/poe/checkpoint.pt",
+    "bytes": 3238610,
+    "sha256": "e18378d731138fb3b41153858041d140615d634e58d013f28c808aecc4abf15e"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-11/model-23/poe/checkpoint.pt",
+    "bytes": 3239122,
+    "sha256": "3a6015354edb7d23ee3e9de27df11bf1bf6a3d8a9fb9154a2744b75da4d0cc53"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-11/model-40/poe/checkpoint.pt",
+    "bytes": 3239058,
+    "sha256": "0e9f9941f6e2d5202473bb22854555ef7f47aa640ae85255dbbb1e4863527184"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-11/model-59/poe/checkpoint.pt",
+    "bytes": 3238866,
+    "sha256": "93f3387b1612f143602aa751be879a250f64314fe13a8975cc38024ee2d126cc"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-11/model-67/poe/checkpoint.pt",
+    "bytes": 3238930,
+    "sha256": "3277d621f5ec92685663193b35179ec227ceba56ee38cf238a495c140cf85b8a"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-12/model-04/poe/checkpoint.pt",
+    "bytes": 3239314,
+    "sha256": "214a6244dd9859949bad5341e0f748f8d9722604fd1558c6373a176b972ef913"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-12/model-28/poe/checkpoint.pt",
+    "bytes": 3239250,
+    "sha256": "830a04fcf9c155f3d6838456eff575592732948b4a15fa582ef4d5d3986d4b70"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-12/model-29/poe/checkpoint.pt",
+    "bytes": 3239122,
+    "sha256": "693e7df16b0fbf3d8f355f67528bfa5c9f2cf35128f3d74e82e201cc38649efb"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-12/model-39/poe/checkpoint.pt",
+    "bytes": 3239186,
+    "sha256": "8a2062ba6fe2034941dd66ad549b0d749fa55db91e070dd3d9b4813cf599575b"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-12/model-52/poe/checkpoint.pt",
+    "bytes": 3239122,
+    "sha256": "c5dd63b16d0f58706230dc5c18084abbfe151b25424c51ce11459360605447ae"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-13/model-08/poe/checkpoint.pt",
+    "bytes": 3238738,
+    "sha256": "dc1dc3793fbc19f81f0640f83381139d13628477584cdabdfbaea9de6fba130d"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-13/model-38/poe/checkpoint.pt",
+    "bytes": 3238930,
+    "sha256": "53d78486df1b0dd63c0ca006b326844060190427bcd5e1a3826c82d004345e11"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-13/model-48/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "95b32cbaf35925a468d0d498ea59020a22ac7fc460d512b9ee4ccb42550c2462"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-13/model-53/poe/checkpoint.pt",
+    "bytes": 3239186,
+    "sha256": "490f8d78f4ffb57b7f02ac6344918408ffea22db4c1bebe748ad6cb414992dac"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-13/model-55/poe/checkpoint.pt",
+    "bytes": 3239186,
+    "sha256": "8c43c1609e6746229f5dcba97acf4162c1c1c67d4303a563dd431331cb2872b1"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-14/model-15/poe/checkpoint.pt",
+    "bytes": 3238610,
+    "sha256": "4d315332b6c784bb31fc8ffb18602bff675f84f09743855b350c6a2ff60e0410"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-14/model-24/poe/checkpoint.pt",
+    "bytes": 3238738,
+    "sha256": "4c7ff643bc08d512e1fc349e254edc7e935c0d197c4ac8f90ecab56b659ddab5"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-14/model-60/poe/checkpoint.pt",
+    "bytes": 3238930,
+    "sha256": "4ca01de9f2c934e0069344d28864acedcd361521af2656cfb9fd58145d81baae"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-14/model-73/poe/checkpoint.pt",
+    "bytes": 3238610,
+    "sha256": "5d64581ad944520d28a1ab5cef5980b5302924de63580edb31ca4e74086d48ae"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-15/model-04/poe/checkpoint.pt",
+    "bytes": 3238674,
+    "sha256": "cdd396362dced393c8b6f185d207efc76af0733192a7a8228e8fb44cdcd00161"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-15/model-33/poe/checkpoint.pt",
+    "bytes": 3238674,
+    "sha256": "7524d8aa342551ed2a9ff01c8779f767d247c2144035788c520c5ea56d4b82e4"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-15/model-41/poe/checkpoint.pt",
+    "bytes": 3238674,
+    "sha256": "b0c7862d296c55d32c8c0d1c52db19c5fb82520b16399f0039bd187d45542001"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-15/model-66/poe/checkpoint.pt",
+    "bytes": 3239122,
+    "sha256": "617c354333c81551ff540b5a4d16f8d21f01f053fbc6afbd642c077235dfeefe"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-15/model-78/poe/checkpoint.pt",
+    "bytes": 3239378,
+    "sha256": "00222bc10902713d705f4e9daa926cff8e1e3241ae7c1bf04feae91e19e05451"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-16/model-08/poe/checkpoint.pt",
+    "bytes": 3238610,
+    "sha256": "aec6959ca0f3755cbee4dd53e8474080c858b359bf3abc9643240dde4e99132f"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-16/model-27/poe/checkpoint.pt",
+    "bytes": 3238610,
+    "sha256": "d354a6beca552d8c8d5ba2efeaa8629a56b42f757a9313be0378cdfabbfb6fa6"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-16/model-31/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "5e543d09e8f7a850ea46101ee252139ad624643288424efcf9362bef5dc0a281"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-16/model-40/poe/checkpoint.pt",
+    "bytes": 3238866,
+    "sha256": "380dd24a481f2ef96673929e59eb4097ad1aa346b5ce8602da88a75547b4a384"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-16/model-76/poe/checkpoint.pt",
+    "bytes": 3239058,
+    "sha256": "2993a65c5f6a25d99aec3be186e6624ecd9d13405bfa211a096d1f3f660933bc"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-17/model-05/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "47013b6e426861fb458637c7e7fcab82e59ac2a0f8193bd33729360378efdca8"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-17/model-06/poe/checkpoint.pt",
+    "bytes": 3238930,
+    "sha256": "45f65a1346ad83f6f0a075840fe8a6b521cdceb0eea8a9b5580b7b75ebe75f66"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-17/model-16/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "b8e9e11f87804d73dd835f64e819afe7f8df6331b1317e3ad355ca483b37d181"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-17/model-18/poe/checkpoint.pt",
+    "bytes": 3239122,
+    "sha256": "0277320f0fc0aeef823d5ff903da3bf82db058a815c78790ba3683f7954963d4"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-17/model-78/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "067d5a30715e818a73dff55c9c0b3bf2b94d5ca719f0b95f0b2751557525d5d3"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-18/model-07/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "ac9cb5134b2147a65192ac5ffd5a62ca40edd2368019ae2c6795596a04777da0"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-18/model-18/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "b3acb93c5c4fac038dd395c2d5f1fc4e7cbd98c1027df8635a8fcb08e8fe750c"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-18/model-28/poe/checkpoint.pt",
+    "bytes": 3239186,
+    "sha256": "ad15e3d4697d7df1ac61f52d5a28c0eec1bac0a5cb933f0b0d98f698eb371ad6"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-18/model-40/poe/checkpoint.pt",
+    "bytes": 3238674,
+    "sha256": "7b7e14521b5137fec6a7112ebd69609d66f4faa27a594f301194a37614b89cdc"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-18/model-52/poe/checkpoint.pt",
+    "bytes": 3238610,
+    "sha256": "d6057806d2d72f8b6253a9546f95c36b5eee65af4b79bd3aa02569b15d9d8e25"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-19/model-25/poe/checkpoint.pt",
+    "bytes": 3238610,
+    "sha256": "9c5b5b0be1dce408f34a22a4cd90378d0f4d84c8a07aee2ae7e037a6585c57e8"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-19/model-37/poe/checkpoint.pt",
+    "bytes": 3238930,
+    "sha256": "ddd445cc5df805455f479c32685595f348079b54d2d16848513f14dfd36e0817"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-19/model-50/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "52bc00a3bb05dc6b64f77048fd36ae1674311fdd83d55b4b8ba327be16f8bb63"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-19/model-59/poe/checkpoint.pt",
+    "bytes": 3238802,
+    "sha256": "a5fa997f1aa3a7550f131e8414025699f7a6c4038292245fcf7888712c3f1320"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-19/model-79/poe/checkpoint.pt",
+    "bytes": 3239122,
+    "sha256": "77bfd9b9df9ae92b8e9e79d7428bd0d30a20592991727a33f1e474b084ad55bb"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-20/model-17/poe/checkpoint.pt",
+    "bytes": 3239058,
+    "sha256": "0876d16e8e1ec5cfda430aea1e2fab98d56d06f46406ca254168e63133fdf67d"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-20/model-25/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "2c60b81d992322966c4d70ab86996c25ed1b9789efa215d3c4f6983137fbe8ce"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-20/model-53/poe/checkpoint.pt",
+    "bytes": 3238674,
+    "sha256": "67c5489fe2b2604bcd9a73b8b0638955d522a296522ea6fe17226514b1b5a3ab"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-20/model-62/poe/checkpoint.pt",
+    "bytes": 3238674,
+    "sha256": "dde09f9f59f62c20780f970b68910ef53a4a7c996a71d59a67bd9ddc0d8b8300"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-20/model-75/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "cd4fb7318f25ec3e1ee40ad5477b2e3a1b3ecc4952e03dbb17b725476e92bee2"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-21/model-16/poe/checkpoint.pt",
+    "bytes": 3239122,
+    "sha256": "bc463df9e5839fbb200f3011916ca8d39ad8175b74f9b01750fe97f1fc81c150"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-21/model-20/poe/checkpoint.pt",
+    "bytes": 3238802,
+    "sha256": "dc225ad345b9960b2dd8b8cb2b019dc1dc9598dd98e2a08ba0681c3329c87dab"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-21/model-41/poe/checkpoint.pt",
+    "bytes": 3238802,
+    "sha256": "8484a670318cc07c77936dd35a24136240ab896e2e1b811c2d214bb52809c3ea"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-21/model-42/poe/checkpoint.pt",
+    "bytes": 3238930,
+    "sha256": "c3656375d59ac3cba9b42aac562926f93930a0a12051d78800ca0d8e5bb101b5"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-21/model-51/poe/checkpoint.pt",
+    "bytes": 3238610,
+    "sha256": "1c9317fea447d1faf5ff47903670484c989c3caa0fa6f0f0fc746a1aa29f77e2"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-22/model-18/poe/checkpoint.pt",
+    "bytes": 3238802,
+    "sha256": "417b1dc72079104ceea26f871704e5dc0114d6bbb44febe023ceb0e3c3f909ec"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-22/model-34/poe/checkpoint.pt",
+    "bytes": 3238802,
+    "sha256": "d048041876de211c4d1d549732421f50aa5c910dd453cc8bf2d29414a859c5cf"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-22/model-66/poe/checkpoint.pt",
+    "bytes": 3239058,
+    "sha256": "d719fef47604ad7f2e9b50971ff19ba0112ff2e5dc4aef2f42ab6e260bf6b3ad"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-22/model-68/poe/checkpoint.pt",
+    "bytes": 3238610,
+    "sha256": "752f19cdbb2263c0ddf903e8179b89c7e6e8e6012f550d9487b61bac4aa0a57f"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-22/model-75/poe/checkpoint.pt",
+    "bytes": 3239058,
+    "sha256": "7f1a0c69b3fd1ff0fe9bc7ac3954bb5941da0d9f093efc8c2de318ed368e0114"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-23/model-03/poe/checkpoint.pt",
+    "bytes": 3238866,
+    "sha256": "64d75c21c7a22b2a20ad3c0c48f033a744cf99e91e641404797cbd139cd2d8e2"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-23/model-23/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "8dbe2fc28648e72bc9fbf369a73dd244d6b7f84cd7722831a2438a4f0c4fc175"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-23/model-29/poe/checkpoint.pt",
+    "bytes": 3238930,
+    "sha256": "33397f77ec943850ad78e1f73acc947da1f7e4160494fd8f15c5f15c29166ed1"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-23/model-53/poe/checkpoint.pt",
+    "bytes": 3238674,
+    "sha256": "9ebd8ab8e8bfaee44cdf4e09bdde1ccf7424baf230fafc29e3214c5cd3581e21"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-23/model-56/poe/checkpoint.pt",
+    "bytes": 3238930,
+    "sha256": "adbeafb5007f45218511951a3be6b80d4bb82503272a339cb1fb1a109e3edb3b"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-24/model-00/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "65673c471fa7154bd701517130c5479d8b04c81d92c5d2dcfd7dc3c5c6a082dc"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-24/model-05/poe/checkpoint.pt",
+    "bytes": 3238674,
+    "sha256": "06496923276edd601eb08d47e93e0672e17d053e3ea9cc898bdf076075869705"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-24/model-36/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "b33e66e306d72bbadc558855358bc62e6abc9291ad81ca38ff6c9e862f2460a3"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-24/model-40/poe/checkpoint.pt",
+    "bytes": 3239250,
+    "sha256": "1040745169fc152d94e762256d0b370bda79583d16311106281277ef24d3c67a"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-24/model-46/poe/checkpoint.pt",
+    "bytes": 3238674,
+    "sha256": "5549f6eb004f7759956bc7415b23d2f520fb8607e03d550425f150b38cf94123"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-25/model-03/poe/checkpoint.pt",
+    "bytes": 3238610,
+    "sha256": "6fe12a85c6f16e819ecc05ef9d3182ca23166e3282022376f95b1aee7d35f4b8"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-25/model-16/poe/checkpoint.pt",
+    "bytes": 3239250,
+    "sha256": "ddfd1ee7279a6c37da7d79222bfa20f0fd3edd427e33b732bcfd3d8c215d7d5c"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-25/model-39/poe/checkpoint.pt",
+    "bytes": 3238930,
+    "sha256": "d32c005cf82cae5be62405a567812517b09efef63542853e55b2536fe4c48496"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-25/model-41/poe/checkpoint.pt",
+    "bytes": 3238930,
+    "sha256": "097b0602093fc2c773e401c5bfcb13885d633b8293e9618903e5343ecabb0905"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-26/model-04/poe/checkpoint.pt",
+    "bytes": 3238930,
+    "sha256": "c0c2467b9e192313946d7dc940c1836992d99e81af554c37a19986d2ca26ab61"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-26/model-16/poe/checkpoint.pt",
+    "bytes": 3238866,
+    "sha256": "5da45a5b80d6474328389334314def47d90b37f2131bb171060bf0c42fe87381"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-26/model-31/poe/checkpoint.pt",
+    "bytes": 3238802,
+    "sha256": "6bba09370c77ad3f13ac9234aafb65ec42553c717b6e6dfc43f5b878ca5aa188"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-26/model-66/poe/checkpoint.pt",
+    "bytes": 3239122,
+    "sha256": "562b719335a341ae5c64cf924a3c12105cdfe45a8deff496cf9ccda4ea54d1b9"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-26/model-69/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "7041ced8369905d04bd5a8980368a703ead965910ae34c82862bb31f4a9c3e73"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-27/model-16/poe/checkpoint.pt",
+    "bytes": 3238674,
+    "sha256": "d605ffcb9569f6ec79dcf97117c0b1330ba8d77dfd5d9d4cf9a165f1e1bf78ae"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-27/model-20/poe/checkpoint.pt",
+    "bytes": 3238674,
+    "sha256": "5c39d33ce0a581c06232198e6f37be9a44353061023859034855b1a98d8bf34f"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-27/model-32/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "4f5034dcd947636573463da5989a1d291137388b751b1a8eafb01e5f64bebe27"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-27/model-35/poe/checkpoint.pt",
+    "bytes": 3238930,
+    "sha256": "63f1de9c7b6ddfda974baa0155691f308865414c2565510bb37b226792e1bcfb"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-27/model-42/poe/checkpoint.pt",
+    "bytes": 3239442,
+    "sha256": "14ddb31a2978e3fbac625e7baa6a6c02ecae31c7d887114e68f24816e7989e6e"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-28/model-10/poe/checkpoint.pt",
+    "bytes": 3238802,
+    "sha256": "99e8ea621588b9269a0fb4b520f7d8381ea07098765a7ea8903c2488b766f2ef"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-28/model-19/poe/checkpoint.pt",
+    "bytes": 3238930,
+    "sha256": "85c0b9eefdb46e9d39be158154c30c10ea21a31095e1dbd3fa4ee3640f44c858"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-28/model-22/poe/checkpoint.pt",
+    "bytes": 3238674,
+    "sha256": "77688c477d0a9e028a9d80f0897331b10772fb31fa8bb09374f407af570c3bcf"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-28/model-36/poe/checkpoint.pt",
+    "bytes": 3239314,
+    "sha256": "da8187b396c0cdf68ec5b3e54549fff422eaca876ab9c1790a2cbfd7fce98373"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-28/model-69/poe/checkpoint.pt",
+    "bytes": 3238994,
+    "sha256": "66e29952c83912f51efc27781976de1bdfa332b84801219cd5f9eeefe550c0d2"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-29/model-24/poe/checkpoint.pt",
+    "bytes": 3239250,
+    "sha256": "f2e891165666413eacee122f4c9a0564bf4b1759069b2661c6dd948127506ec9"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-29/model-43/poe/checkpoint.pt",
+    "bytes": 3238674,
+    "sha256": "09a459772cd5016d85b3cc4dfac2193ec44ca11a24239f4dc08137719643eb70"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-29/model-55/poe/checkpoint.pt",
+    "bytes": 3238866,
+    "sha256": "12aba1d6c692093248d7e138e2908ef834dc9fce0e42210e6db105395c3619aa"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-29/model-73/poe/checkpoint.pt",
+    "bytes": 3238610,
+    "sha256": "44f423f3e6cd13ee7432f4e766c6eba2c74f4d847a679d4ba1e058e5ed17f333"
+  },
+  {
+    "path": "I/weights/ours/alignvideo/fold-29/model-79/poe/checkpoint.pt",
+    "bytes": 3238674,
+    "sha256": "2f3d5d1ad6a59d5c2af62bdd6cde1b8932d3cff01e19c6522e16054fd9849437"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-00/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1161850,
+    "sha256": "15fad11d461610700952f91692b253e7f71d10ec75127767a1eaeaa2f6561041"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-00/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "51664edfa490556ddf0c1d030b189e15f5c5cfe74232d312167df99d6f176887"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-00/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "7e2ef2d6440ff78888b0b7e2fb5a54241f74799272fe5ce9efab70a97b54d17c"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-00/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "0414f6fe7db458a6c1b67b9c9c23e97dd042ad876b66b5b9242ea6fe28c2afbf"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-00/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "8c1147065569bd23ad7b845b2d4361d274bb26178ac4ce0ffd1f671a0704d48e"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-00/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "6cb313170f8a369ebf185d5179f84b3896e6b06232bc55751305ac7c89e1b834"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-00/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "16572c93e027e8b0bed4dd46fc93b101184c56680b171a366349f54e1123a808"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-00/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "e036c46ca13b1749abd1d9f8f8541cbe934d2ba736ce0658493fce62d0a571f5"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-00/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "e7104d38a4b29fd2a03517228d8140cc6c668d96de84c15a426afaf92a93809e"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-00/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "d7c20789c4a5c39271f496d5825bf7481c0c396a6fd18a9e41d7e959fabd8007"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-01/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "7ba023fe3b9d0be5663ab624812bba673a35083767378cbf617a54b20074b604"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-01/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "271c916d3895aab354a9ef001b8d56a81635946cbefb9c916dd78c6c7f7bd242"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-01/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "d424b41444e36be61302b15e817641906de8514bba6aee71b802f9ddb95dc43b"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-01/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "77ed18720a9442a8587d00eda4d092616c01a5966a93b0661268554662dd07bd"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-01/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "3254b911981042bf2bc1605b1cd5e0379a525644bf5cbe0155ac97251996b649"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-01/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1160954,
+    "sha256": "b1c6463c3846b68c3b00a83450d7c4193372d3dc9e20adca85a2ac0767248dcd"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-01/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1161082,
+    "sha256": "fefe78e5bff681da14a44c4054237e38ce355bbb3c006664c5fedbacf35b5642"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-01/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "cb2ddd1755fecf272f6b3ba55986e301b48b17027b40f9ceb12592afedc14c2a"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-01/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "fe0991398c3874a1f89a51a75d17cdc3877f7d54adcdd5b3bcf5a728609166c4"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-01/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1161402,
+    "sha256": "e5e5beed484a1d81426d9793a9a44793b33440c2a7227c09471febed3cfb6b9e"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-02/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "1d10814ca9e8ace207a2e86973618f8c21f7540fb803879c5f4f017f589a74a0"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-02/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "320ca190f9e943d318044e6210e03c55cded7e71958ca12d37666de54f0c99a9"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-02/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "1a69623030f9454e382d2210a7efe43e5b5fc1a0e8c0eaa6f7b335c4f2f09fab"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-02/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1161082,
+    "sha256": "3fc87c5c30faede5410f23a609589e03f4a52c9d73bec9ea6f3d6cb7d9f5896c"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-02/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "525843428c607f29e16283b24db4541913a221b10bc12836ec0683fe575a559e"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-02/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1160954,
+    "sha256": "73d663d41f20efd3b1694ad8ad055599d91cd95446f3758b874d4c7ef28366a7"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-02/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "2b6ba3cd3e5ee5cbc745823145b02d4eaae478a514ffbf3670e057cd0be9e507"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-02/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "b73f0ff330fda93a882c4065fb14dab75b10a2558a8fd0877494d1acdc22cf60"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-02/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1161274,
+    "sha256": "30571a9237ced385b5f6c9fe6fe2c5dc3651527b756b23b148e10d06371fc2eb"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-02/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1160954,
+    "sha256": "6108d6e2e67f2596ac07f4a13d9d570dd7d0b120300fa5cd94800338c8bc6281"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-03/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "f1015dc0c0ee4f06997547ed6cbfa125364b9b8cfb69b04b24fb00192079769f"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-03/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "5c77df486f0cac0e4f1b275f7887ce0156dc94abfe2c324a514a95cbb7f154c5"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-03/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "b30ede67dcd99be893c0b472105b2a0606c6826ca8b6b2e0b5ffbb68bfea36f6"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-03/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "cb11a603a1b9b6bf22275c7c166b8f82eef56ed9eb84616716b5096bbc858e67"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-03/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "f490ede16393fb0790a2eda3fd66c294274b361b726eb155bc6db289ae11ae37"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-03/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "47c170ebb03af001386ccade72791d1df9ba0067c1588610787ce7dccf8e5955"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-03/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "f5e2a9614f682c350e26e56cd545c17ad0003729bf32731379da40b5943fcc32"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-03/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1161338,
+    "sha256": "d07b4ef9b52b4922c79d8abc53f8183f1e81eed24a00b961fb1a77524cfe4f36"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-03/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1161274,
+    "sha256": "d151232ef11ba657c96bfc9c9607c11f1a444b655eafda610eb2f8bd62e47c9a"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-03/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "a592605d21e03ddfe19d40edc84c04fc5215781d75bff5fb8d29ef13a0eaefa6"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-04/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "410972120551c15fe51bf20815c1737122212a587dd680acbffc8c4888c21f36"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-04/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1161338,
+    "sha256": "4f5608d41f1fd2e0340eb80ba5f4f1b3a9be5ce8874028ece2047e76f7174fd5"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-04/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "9a0ebcaef89ca86ab12538c0ea5cac6be39d45257804227506f09bfd08e40d77"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-04/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1161146,
+    "sha256": "300d74a2a92657d248d55b6e3921cb3d81d82bb11446b9cefdd947d8ecf04f7b"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-04/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "9374ca5a5d6cba24caada05249338a18b6aa87b7435bfd79fa3f1c73ea405deb"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-04/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "1113afc33eea19b42ce5b70d208f23bc0dc5bdd4ed2d64723adb4b966f6124f4"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-04/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "2b9bd7bbeb9ac4766c3bf94e6fa64c5de6d4005c300d758591be015b1fe186a9"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-04/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "f8712053915e14ab4591495c92f738a983fa40c236ab7dc913f4c497a2864f24"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-04/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "abb0ef389441dea0f8c4a4a1f3bf44eaeed422f12e086393d8b547affc91cd1a"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-04/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1160954,
+    "sha256": "889341d32d61e66de87ebab4a7e8051748cfb0aeffba01b0364080784df108f8"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-05/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "946708c5d41ae909a6a8cfe258554382ddf91a035dfbe5ef25dfc1d5c09fbbc7"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-05/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "88d33c41b9bde9009694a521d66e49ff969fb582fc973b8045f50c9c76c86fa7"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-05/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "6f89f55e6f4e0b5a84ec9bc63ad669df18fffec0f8ba1337bebdb1f31238b56e"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-05/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "141b20aa10b39a4d2ce716c44c92aeaa1d06f22f52ecb5382f3f2436f8d8d20f"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-05/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "69cbe6bc7d986affbc17bd1c6185c434d8b06474b1b50535326dea6d31836011"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-05/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1161082,
+    "sha256": "e33d7d312a47d0406c4e211c7b8695b93c299d50ec01bc9e4111d7ea4b37fb77"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-05/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "f35c2c9b7b0511f19f45308b89ddbdbfdce9ad75543606ac168bdb10a755d4d9"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-05/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "06b9488f5152485b69676d5c55aa94b2d7c7cc4e17f45c9a159c97d43772c8b0"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-05/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "a94effab3e94efbf6d679f88bcafde870a9281d4bed8ccd7fda61553c9fd996d"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-05/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "c8687e7cc0206d2f2274d611c970ea579992b4d1cf995de1d479c6e740cfeba4"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-06/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "fb442024567c86554541bd497eda1803fc239d21a78147e10a17d2709bb16d70"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-06/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "0fbff765fa78c00944758eb1f4cbed26028ca1582002a7c9a45c63449c594727"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-06/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "7d6718407f2a922dd4667f174fafe5604ab7082cf0bc968b24eb8191c4675f14"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-06/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "f08f91a741b66a7730d7b69e68e3ef41ad0790f20cd88c52f355fddae889f4c7"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-06/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "cd05201c58f07c80e769a2582629f89ddb4d0fbbc35b4a49d461b89ba5334983"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-06/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "4b3d848310ddaf4d1e7668cefe62582e331291ad5032a2f7a75cd0439df226f9"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-06/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "ce0229efd63bc2b418134e52a4b72542fa7a31bf98af21f32dc8d96eed742aa2"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-06/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1161082,
+    "sha256": "4fa06836c6b51f48c732e33bab693001926561806c6e42020c0a58713d9a8e9b"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-06/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "0693988722cf95de100bc842156898a83b53db5b5d76553c3e02fd2672c2dfbf"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-06/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "cf99113773330a30064af68dec62409d03d2656dbe09cbaebb23f7d867cb988d"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-07/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1160954,
+    "sha256": "4139116d1ed1c05651c10529ab9a58ead6f45e5cadc0152318bd8d5301903090"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-07/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "d82330161636b5829c128cbee9e20e55f89595a502b08e27d5b771629d3b173f"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-07/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "da38ba58643ed2c16ca3dbe354fcaf5e59d5b437ec504741d28953d814059770"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-07/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1161338,
+    "sha256": "d08b4b583b3b6cb14b8bd2a2104865794aa8baae6a3b22295d24405999c2c47a"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-07/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "fc39b4676049e53690ad409f024c4f2efd76abce2c0a37064a547eea463dd58c"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-07/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "709f991050c622412eec96848437130576de13d8e4615d2d99ec918cb1923d7f"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-07/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "0528456c248b4be58662a58467d36145ee1b4010ad1d9fc850f8ad5dadbce8e6"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-07/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "338ce72ca0cd04f2208df55f5da0e66f25ae918b6d8b3c63c987120df4913fa5"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-07/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "1b845e423970697237dcaf5fe5e1378499871a3872a96dc3ced1f2c45c9c38c7"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-07/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "b76d18d43354ee5d80c0fdf4327ab708f138ba3b401f064a074696a10d20b94b"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-08/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "fa0d5c7755a8839928d35036976e1ac074965913fc14a64260e1afa6fbf18e93"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-08/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "369ff9884f234c436da98caaf6e825ff39201bbd8601ff679d603103221c6ec8"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-08/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1161146,
+    "sha256": "8c3fbd1342a9616ab4712a646c5c1a0dbbde08d53dc5309db06b7e1ea17f2c2d"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-08/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "d4e76125a1f987206540b7d8fd0d0e3d6a9475bb82f32afd2285f6474d1e24ce"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-08/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "d2d67fb885d52fae87e4b4e5c60e395b90a23fd980684029641a6c8791653f24"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-08/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "66a425e9627be2be729cad30620f071dbf6b0006d1b2a480301ed3bdf1719162"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-08/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "6f838a2ed5ed3a85f1d721e2774ae04e77ddb193760de43132195448e27ee2b4"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-08/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "cd52144c3d15d44a4cab5ee324ed3169e32d59787e16f9101e29a5c0b49b562d"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-08/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "60c8e7016b4d20c4964c71a03e48ef6ced3cb7dfaef11ef2d8a2ced931653178"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-08/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "88ee419f63fb7f6bd49b28f9acc15c4df57a19f582c7fb2a920264dacf518c82"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-09/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "6ec58e2ede6b29b425703becf93c33eb238146411ae23e32b2a7064474cb0951"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-09/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "0582a19d274adcf9efea15bf5e8d98aa189082ff7fc8695a818f03ba4a89f627"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-09/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1160954,
+    "sha256": "cd28681218c63df62eb7d07464521627fa47d2835e6dc5ea733e2034cb1527fd"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-09/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "937e42b49e3b1f8b47f40d292008381e317e83bbe4d3080164ef00608cee2a23"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-09/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "1929e4361545c5cdf33a95b8c886d5a349c21b330b0c16f10d8856685fc1ba99"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-09/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "39642e4e3af38207779d844d69ac9a457c84f8ded7892c9adb01f9eb719c4921"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-09/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "fbc756a46612d310606c4deca106511c46a03861c407d01fc8a53dcc246e836d"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-09/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1160954,
+    "sha256": "dfb787c89e223780eb67a6532f272c6bae18b7641a8ee3db39bfe5e5ce5fe590"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-09/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "02b4fb9238fa55cbe8aff180732e2251440d46ac63b4fdcd72361509ebae87bf"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-09/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "e6a485b05c76f760a740a62453d0cabff73822b8d559b2122e517a85a4135b46"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-10/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "42ac0b3cc094f8bd91797af5bf71dacf4b6f876bf6c6e39bd51419bacd3d2cf8"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-10/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1161274,
+    "sha256": "a2e3721d13c717aee8eeefc9228c4e8fe4de3c26471ec911773184d24eb72bab"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-10/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "c744de66a8b26ed9143624970f2f783a5f455b0a38d6a9487018fa7d740e373f"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-10/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "6f45b2e917d5319d8f1831ddff88d8349147efb8cae119f895010df8476e89de"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-10/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "4839be5bc482535907d6201d31476b3ffc331a59a0fb6651d4e6a00caa7f745d"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-10/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "93ca5707aa2701da5688936550f284ca1f52c8c5f8c997cb0244af45730a2bac"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-10/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1161466,
+    "sha256": "9a391eb15b691f9ecdc602d4ee92d0601ebd91c6edae03e0dcf3c94afd43b8d3"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-10/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "1babae95ac0bd93b7c402dff9430d7102286279736057acce8947b0d205196f0"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-10/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "2ddf7e3b2fdd60a6c7926938ab8e5eec9dac2674b550309fd52f044620b3865d"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-10/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "9e81781270e2cf8fb1c66696ae2f9b27384e31a75a2b28330515a254f5d12b3c"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-11/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1160954,
+    "sha256": "4f86b7ba7810a56957589c484b4543553d4fa33a0b35f90eda596355f112ebbd"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-11/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "891c366dc3c3f46997b81427a2defe2f638b19c8c8acb80c3f4d505a3423a14f"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-11/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "f594c3019fab63a6340d72110154dc3d3ffcce8af08c83c04e0bdb90cd104ca7"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-11/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "1c7c696bcd75f935229e1cc19b950ccc701928beb18e9fa79eac44ecb90e3bf9"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-11/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "1cd272cc66d823376fc36b5f609bfbcb213d6d0a92f8316d0b3c62922d92117c"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-11/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1161146,
+    "sha256": "b9182e7de41416673a219bf73a7115918573b6470af0a2b223c50eae6ce74b21"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-11/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "58d0fdc1aaf4d38276256126eda98786d314928a53a658fee2eb0457970edf76"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-11/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "e1a9580d0cbdf30ffdddce1d2707b5fcff605a71a1cec2cf92d425179c62afeb"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-11/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "e9b5db687e1346e1f7170ed8c61561ce5698daabe69468e8b5053a48f6dbf7e7"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-11/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "12a9c9091406ea57cac7ffc1e0de621deba7ce3dd90ea3ce9d2b5ac1bc0e95e4"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-12/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "a967835869675d30b42347f33f176c46d53a9c2f3cd61f049390eda69336f60d"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-12/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "050f49065f95bdc8cfd9802abb8114cc6ca9c8407f5e75634cd9a4a469374843"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-12/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "1146255f5ce798321fc38fd4345c80317fd746f726f776e3c658988b4cacbd22"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-12/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "8f065b14a9c8a827741a1c8074d5f2e234d8c54582eda0b9216b78b01ae6e6ab"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-12/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "9f2c815002f0f352a6e6868900939cc5a00c0bd670c6cde967194ac9c36b53c4"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-12/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "610536216aa0655c9410d1ad5a47c48efa53b73c980550b07202b7bdbe65da27"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-12/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "13273a5b8f3a298a57c88db90f761dc00d3640b8e66d641e7c6148aad3327bc7"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-12/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "f5c58dd26121883dcb68bc580469be70734c8a1bacf869517485545211518e00"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-12/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "fecaf391a80c8aafba475cb919aed21b2bfc66adf23d10e1e238930250bc12a6"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-12/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "e5a8a883f1b4ddd650ffe93113cc1d5728236ecd93584ca5d5e95350048c1ca4"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-13/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1160954,
+    "sha256": "6dc062c0ab1ddb52aab5e3683c6e4e9f17c743a8b8fd736030280db1c4825d5e"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-13/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "76c0f3b4e7ed78dfdc96a5861f18a113989cd4d97cafb0971abd0b422ab707d0"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-13/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "cbc4ce1960f7e959018e683727fd84f3b6c6a874db290513235fb55adfaa77b1"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-13/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "b29d75119b6d36d97a9b30115cb831c2d090df3c2b785fae6341610d7d7c7145"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-13/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "fa4296fb3b1eb3734b22021d9220f0c58762e4bee2e3f5b21a2c24840a9b0164"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-13/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1160954,
+    "sha256": "991a617b1e4e319302d38b366f32dbf1229cc56bfe1bc83e4790477af65b7509"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-13/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "785186dbf1ad99e9730c4841db0961887d77674a0b434c092a4f601d9d62a41b"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-13/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "47752e4559ae79c3ed066d338bc8fe6cb037e3ccda60e33e4cc0f79d725a31c2"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-13/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "28e1e9cf78506897e0db1b8bb996946f87343ef6b893554d04ef660b7c89a32d"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-13/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "f3bb2b897cfe6ee782865e462f4bb55e279355d9f113c563f593bfda5af16ebf"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-14/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "5160b40eaf1b4e035940b33170a8f40f99ac12407c42e63d3b70c28c35b6f7a7"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-14/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "630580c14cbcdec4c6452c51e8f57c4a6ccde5617fce73d2e4f557b91006bc61"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-14/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1161210,
+    "sha256": "a6d799b0947a486f07da0cdea8f0da1d6294674290f83b62e0cad7125c8ae7ea"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-14/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "9a131cf34556101511cfd6de80c233ddc81c96d0c5091cec89cd9e6e42a70b76"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-14/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "019c6b1d75f512c53dc3624095cc9c8f3c55bcadf3e19c2cad3750791707994e"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-14/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1160954,
+    "sha256": "bb258e7ea3aa1e98d1a03436718cc15748a2f282e97c38497e795691a7b195b7"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-14/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "78ae0270345acc8d1da3f42f5bbe1aa9e6d744ed891823828b13d5941eee225a"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-14/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "6b49193c53ae527ea6e489d53ad3c29cc9767e14870bc0da105b68e242332fc0"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-14/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "bad70e8715d09c38de0683c9592636d69f73c0d0e285027d18b707c44f3b6173"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-14/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "0637cc77ef4a18861657e6e67cfa6f2d873876fe0d4e51474fd058a30881acea"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-15/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "1adaafa8f24f27c8a374e8f1d519eced552bc0d756e9acbb3f2e19f9aa297229"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-15/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "8ea63187e98b132b6a9ad5611b4f16a57339d0b452b9ab1dfab8ae0b91a7ce6e"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-15/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "3f8fb8b121b025fe34eb81bbf5e164ddc156d5af1f5165e75936813fc35e5db9"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-15/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "cfbf0574a9ebd2b26a10de696d1031bccca39518a68745ebcf2e9da70bdedb63"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-15/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "96937e11ee74519e829c38b7bcb4d1233aea5ff14805850c15d044c157f0ac42"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-15/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "7096e3d0e91622b0d58c18707755072fe29c79f91fa1e59b739a7958ed90bb66"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-15/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "0c471b523a956a97f3c71172b586ca01190766c581a7df1f6706d113030c00ac"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-15/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "6f5f467839657fdfbeaab91eedf10ee1c2d1d26710754ed2ceb1d3eaeb90968f"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-15/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "83e88b20745feaaf2c936f6e6019e071836cbb4192f184d1b2dfc1661d58055d"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-15/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1161210,
+    "sha256": "ffbf84b833d6dab915def467830e0b3014352d348c403d8b69eafe4fb4ce4685"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-16/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "58b7571ba2403d3c5003048866f037ee3966a026c08a5c0faab49a92bcd1e8ed"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-16/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "cacd219e27402edb20cbd0e980bea392d35825781600a5d005a9cae2af42c315"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-16/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1160954,
+    "sha256": "de298a4f83b9ed0562934769c881302b63e864f88e7161272cc33504f2ed6851"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-16/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "f8c1662fefef468720b9d7d0575c926939a1400c2ba945eb0f064d0939595a10"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-16/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "b926631ff1f10dbcfb9c27d5d396404affcb90c4265db55b346a04b6210b9b18"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-16/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "a8481ab3f6cdb6a3a153e7dd1b2b9ec2be94eeb963da7023fcb46cd71388448c"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-16/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "e27240984ac17acc86c39eb0b65fefa39c9c45b22b7232187eb529655c6f86d8"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-16/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "5c70e8bd28d458b8f7339d847830eb125535f98e5bc14d06c4d8e2742ebdac15"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-16/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1161338,
+    "sha256": "230524c91f259d62c8e3d390dd9193bf40670f8900399ba02c8476fe8ef006b9"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-16/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "18cdf78c7b57fabbcadb20bd57afcdbe45e74cb84c659b10105d92b0dcaa7b46"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-17/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "f0cff1805624974dab0e4b7d6fee4326d91150c9f222f17c46a818f891479441"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-17/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "5c20679a530ff1ab1a56c302bcbfb3393b4b73edccaf894178879e9c36780e21"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-17/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1161082,
+    "sha256": "569de8d3f386d367471c9fa9aab2ceaf51f75adeb9551de72bec885fee55d5ac"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-17/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "c4187801ecafc6d88d51365e61c6a62dac3e3d99dd2702cec9d1b973849d1f68"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-17/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "dabe6803842261d463e38f3fdb4bd7337ae97813f617b9c463e8aef07d99f2a5"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-17/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "82b64ed11fc65787f23b62b6eb2f458895ad6a30433956da95c7abb521df983a"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-17/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "db17b9bf11d2e25c8649885dff106ed1ade68332d2dcb035666053d7a4795543"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-17/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1161274,
+    "sha256": "c79939195f7bcf3358f6fc7ebb3c79bfe2ee712ce63f148a7a76b784339265b5"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-17/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1161082,
+    "sha256": "54a0d1f76b6408dbce56962b601926374845d3a8416067f570e5287d70ebe413"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-17/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "af086310772ab560e22312ac0de3ad6266e69c22f3c30af15af609efb2212b66"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-18/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1161210,
+    "sha256": "3294749cff8feff3d6d918feaaf1022173360e55079d4a7c395f47545886203d"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-18/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "6c49d88cbafa38bf02b52a5c48cf02945f6e6b4b71a6f986d28c173696e24cc2"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-18/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "96ab41b7321f6b051873a6c8242170d02682f6aad2d4655ad0dc4053ef2531ee"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-18/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "701d8eb1daf3163c2ae195462cefb7a7bc3127c8d989e1af5b4f897c772499fe"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-18/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "d8b583928080f8430377972e4c4ab19c3be9ba2b3e28b97f2fc670374b358511"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-18/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1161082,
+    "sha256": "4a35b2afed71b867374cdc506f10bb82e4ea851369b8b1f2d4667953c07981c1"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-18/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1161338,
+    "sha256": "b9d8b24f95e5e6b1259ecf6accff27c0515e2a7ee75b20b22b31dfa5a1723ce6"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-18/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1161146,
+    "sha256": "cfea85d775b0c9d311d90d96a862f3718bc10ff6dfc61d57f12638057c1191ca"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-18/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "964a1ca9c3fbf307b832ee045bde0b4c4e622f24edfe219aa961270df0b83a15"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-18/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "02e526e02766fff2eb2d4cce98c85dc3214c76cc5f43cf7f0eb16edaef620d1e"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-19/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "97c8b63a7fe7cbe150f61fcc9ba2c13141ffbc22c32bdb6bef15543a4e0d85c8"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-19/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "564dc528d1bdc478efa452d36fcb2369382a7a681a1ba3f2457d31ee275085a6"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-19/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "3247af13087afa6464204c3f1dfe89ad7e995450b1543432cf679fce2f6721b3"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-19/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "7c3b1399b27163abbfdeda74cf9ca3c58985a2d80277d79d39f6b470078454c5"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-19/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "f86f9e1a68639a19625d8e0ab8ee517cab7c804dd9bbfd180fa33424f86159cc"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-19/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1161466,
+    "sha256": "18b6641ee370935599729d32ef6981065ec550779c6c60f7dc3e143a4ef7b45d"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-19/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1161146,
+    "sha256": "1ac5bb9e5d03eea34efd8ea0c1ad24a29bc12d7f00b25a2c874282f23f5b4c91"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-19/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "e7eb61360c395049a2bfa5ddcb05c0e88a9d83c11c9d5955a435f8b246d9fefa"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-19/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1161402,
+    "sha256": "7b831afcb84a7e0015fd7dee30e8e16572eb5a6569b26cc07007f5f90ca99b17"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-19/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1161722,
+    "sha256": "97103ebe2f55fe08181fe33a2369fbad2f81b14c3b4fc36a5b247bec72835239"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-20/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "2b196eb6546057b44b7b993a159462cdda1b187f163553a3557f29bbde78d244"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-20/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "ea03136bb98bbe5c2a3cdd020e5eae007f917219f337a980a9fad06502f2ceeb"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-20/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "76096b3ef57534f163ec9ad15c95bffa95719ce01ae3177561967ee76c357e92"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-20/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "3117d5e101be54820b676f2a96838a1108ad68cdbee59bf9daf4b683796e4c37"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-20/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1161722,
+    "sha256": "f88fb701cf8648517cc64393f343d7449517bb675c99e9439560af160ca7e76e"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-20/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "cee576e8e7c9a8470a68603bba3979fecb52dbbcf4fe25ce8e84cf6a4c8711ed"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-20/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "33350770dfec1fd37bd4f7a26d8fe263d8ac6b4673cc8bee5c86a625ebc08000"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-20/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1161274,
+    "sha256": "48b39fa0752293f8b14319a091f89060e52595095753158e24b149c97ca23bf1"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-20/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1161146,
+    "sha256": "f51fbeb95ffc499f9eb6af3deab167cf7c5c70c2fdff68d9b4467d152f30b473"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-20/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1161210,
+    "sha256": "3780324e35e62378f568df85f94a057b03011e50aaab0c0d4f50782064a08194"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-21/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "72e64e4470325ab22b041697386e7c34de425d7615bc43f93db3d89139753183"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-21/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "ca781016fa2216fe3baf6b365ffdfeda969953402ff6d01202da3b0d5ab2d8c9"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-21/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "29e418bff98814ec0a9ff429221e138461733788e93b48d24afa2932d48ee566"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-21/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1161466,
+    "sha256": "0b0854380e519aa2dc3a1d3fdb4cbdb0b802a00c73f0b7b1f6ac0f5c9dd25c32"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-21/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "ec06077390efd89835f69193633a25994dc426bd0e4909679345d9f03abc9ab6"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-21/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "2d837c2ac9127973d74c22f93204baf21e59a698f86975fa69297a5f511b6c70"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-21/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "68bb17e2be4ac21fb0ced89ae7c39e49d1f66eefb4cd693e5187659e3aa514de"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-21/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1161658,
+    "sha256": "187cd5047f7c82322b70a2e3a7d6dcbbeea06046e781780d0f9b37997cb256a7"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-21/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1160954,
+    "sha256": "b2edd820cc0f113c95b9423e362ac1ed4e820aa7ce013cdefc5860993f3d126d"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-21/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1161466,
+    "sha256": "ae04231e31ead73f3a3aa1982a99b2159488ecfe086fdee464d20f5a2326942e"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-22/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1160954,
+    "sha256": "889d661914e2907f0f3af90003287039e832192c2b9e8eed904551af21db2185"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-22/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "bfb23a07c0b11f02cfbabf44962a75aaa6bdfacf8bc49f08a0d1fcda7533281b"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-22/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1161082,
+    "sha256": "25eae3b71d97aab3d62fb325621f3b01dfccaa1baa1f9f84de61aa6738abfffd"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-22/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1161146,
+    "sha256": "2a0133fefbacf2dcf401af19b8ac555fefbaf974b3370df8141a43a4e52df8a8"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-22/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "c81252a629a28acb6dce87bbd6de7dc3c7aa205c1f707d2c56623d4efb64ea65"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-22/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "9939d82293ca1768513a55269b96b49bb3220b0698f67bc4d61ed4658f3d0893"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-22/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1161210,
+    "sha256": "8087869143f5e8dd760cd2a047ba2af4fdf1b323d12a0df08483ddd4f668a770"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-22/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "d4ceafec4936aff201586fb7534ad5a884e2677a003115f9de3a3ca9b16b4c98"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-22/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1161082,
+    "sha256": "532bc5697347f5cc7b1b74c7eaa438212c8a112a4e111f98212af4ca399e2f64"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-22/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "950295f805693508a009933ed43640af6bbcc4e9b2e6e3b2465bf0acbcf554e6"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-23/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "230f57ca8bae47252271518701b2358aba2fd4527527f6016add59b6833fbdf3"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-23/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1161338,
+    "sha256": "c93c21e2a3c56905fb30a403bd7c63539eef46f0649b058a27a6e3660718a739"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-23/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "f112c69c9e0e72c2fcd1c62fd8492e2edccf024dd882afb7eca981e6ea1ac558"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-23/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "526baade211db5022f9581548b9e87c22e1d8667860ed06ee40da7e65b29b147"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-23/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1161338,
+    "sha256": "5128343e18fa7c29afcb5a15e156dd37fa92f11a214e2f604f6a2e98c3fb5ab8"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-23/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1161594,
+    "sha256": "b6a40ed92ca5d19eb2424498da7bc652f20fea421ce2302de7827c482cfdf32e"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-23/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "2f42b0ff83b5d5b0590932d23ff87ccdddc0627ef7e4d012a002f637dbf538b4"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-23/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1161402,
+    "sha256": "a3115364a07d6be45e70db0fc84d007b5e6b03cfe3487457b40183f51620dc28"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-23/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "2baf1a3c51ef790e5a6d5a775f7064d266ead6eccd4ced6dec0cea03ef8ac9cd"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-23/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1161082,
+    "sha256": "467662cc54130758ef79eb1c6fb6863400efb3e3c73ced885844caddfa4c173f"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-24/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "98699b869b58baec978424d7103cfe4c43a4dc25c6e16bcd528ee4c721fc38d1"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-24/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "91752e7911ab51c546cbeea956572f87170fd9b8993028c2110332c42f69693d"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-24/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "09cf0d6976f73d414b377ec84a0245d88a897e4097e8a1a9dac99e6371ce5559"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-24/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1161082,
+    "sha256": "1d0c1b536f492acfd941979a1a596d642cdfd04de4347f9c88b8521d3412e39b"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-24/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1161466,
+    "sha256": "e0a574fd9d656d4189ce3d63436c64241ea8e8bccb69d007398e6bb15f9eefd6"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-24/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1161210,
+    "sha256": "5dcfe8d82c5c148c9345bb543b7a5f096f07d82d25fb153e3f3e15c3cee9edb9"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-24/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1161722,
+    "sha256": "618c10be195ee368a48ce47c4e1bf892001ae2926c79460a315aa5c2b508aa33"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-24/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "5144ef76be309c30b10d53c547b3c329cb92f8e09d6e9a56ea1c90a2864b3478"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-24/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "4819c4d2084556aa16f8b59fec25c09b8179412795b6b022707fa72b5d9c25a3"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-24/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "83ff24bd90dd196012affa13d10d0512dce07e19caaeae55ff029520cb7f3e04"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-25/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "c5c50bf26e5d5ae7ba25bf0b95b6ad0ae26ac7056c91cfb903994b533eb27050"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-25/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "eb1d5df530027a79545d11f5a39c2b01dc22cf0171236ad6642854fc76fb03fe"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-25/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1161082,
+    "sha256": "18336bba2ea6d9719a845dc569b3aad4bf712ca1ad5be1609b16f9c6b5c9b340"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-25/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "bc49f5d6e2f744d94ac4d28fff12723f199dc359d621b9eb1a7d860b9edb32ef"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-25/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1161082,
+    "sha256": "065213901f70687e826af57800dab8d295a6b489ae18ac031f70c4c2b1403be1"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-25/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1161850,
+    "sha256": "83a95cf58b36385f0864975a1e069067e7f7da53d4751c28fe4916b2e8dad879"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-25/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "7b11a36ab4a6954062d9feb03da39de712788f70fcb516ec7d4dea3a77845ae0"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-25/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "d87bd8d5e1c4235326ce2caff3f35ac2b2b55c32c0a68fee727145e9c675d25c"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-25/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "b3bdd6f7fe25a65f4e98ccf28f0d771dddec70ff21fc415de4fb59ae861783d6"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-25/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1161082,
+    "sha256": "ab9a98030289a08bb8015ecdcf4130cc87b763ffb71109454b60751864b7a2e5"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-26/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "b3a7bb1b1b1e1be5fe4be8f91096e15ec20f4086c7f8825d08abfddb6267da99"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-26/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1161466,
+    "sha256": "650ed42973af919993810b3298b85cfa03b92e29d25ec40959095d2e077cb3cc"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-26/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "a4ee420d1ca4d215a32be28c5cc311b909238928720bd276de1cb59f3de10c1a"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-26/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1160954,
+    "sha256": "30d35756dbd7f37756642c7b276a3ae984ace089c17b92a3274cf3512ef87cdf"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-26/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1162170,
+    "sha256": "4a993480eb367c4b370a1e46bc9a62b8fb0d344501cf05ac20596208f5bd35c7"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-26/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "bf0ba05ab1ac01c979633cd4a84e20d011e1b57c887241ddfedc7fc484d93562"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-26/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1160954,
+    "sha256": "5501d76521ce176e83e9ab07f340d28d895ead1d53fe48173052719035990efa"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-26/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1160954,
+    "sha256": "7675a22cffa7b832b3d8f1c1f0cac43665d91cd8e78e0116c54f7ef9a11cc9ea"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-26/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1160954,
+    "sha256": "64c8995b6efb52fcd3889dad496faea45513924c931a6920c0b82c412ec55adf"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-26/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1161018,
+    "sha256": "c438c05761b025a65a74021ca7037b6048a332d973c5e1956bc464380f772e69"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-27/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1161146,
+    "sha256": "5771284fafc84575e72a8ed7c4fe1f3a4a6d91de6648367851b55d435bb25786"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-27/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "789852e2c11d41841597ecc21b96a9d617bf907228d2a4a9842f57eef59cedd1"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-27/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1161082,
+    "sha256": "5d66375a3fad4e35e79feb3793fdcf0a5c88955eaa35e118ee5a08df4aa8ae40"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-27/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1162106,
+    "sha256": "4b2c88c60915ba228a21e7880a02e8689d79477bcd7ed59eeb3073df193cd608"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-27/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "2ca39dd54ebb0873c121f439265cf15d092caff76377c112f6df3ce2cf54a9ab"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-27/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "cf577a8d631f767c6f52387c3ce412da7db87b4fda38a8aa19478c1d695abf23"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-27/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "145d5acb865a0b94347d177301e9c42b1327c1fe78265e7ff4f6fee26b3ee121"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-27/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1160954,
+    "sha256": "d8f3662863d076c73116e7ec12afb3e5ad10a987df73198ddb20418092bc62e5"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-27/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1161082,
+    "sha256": "2f44f1bd16e3df108865be8a02424776742943d27b85b46951e76d30e24d8c5d"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-27/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "1bede915e8a70aec2fd79ba99191ab2386fb2e666b983cdffb5676deb65f004a"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-28/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1161210,
+    "sha256": "5c91ac2584fc46164e2d96e107c320cd8610ecfd6bcab4265ede9dd62b51b2a2"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-28/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1160954,
+    "sha256": "ffa83821e59b5caa23ea0eb9207a061a384befc8fc12df3f8a12538026898246"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-28/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1161210,
+    "sha256": "c3c55d92b4f65cdd5c8dfee001fe95f4c02970ec096f9eb56d3c404a2e5c2c9d"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-28/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "7b53c3ed12d631f7b324935653dabceffd21573150d816e009152b595067fb5c"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-28/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1161082,
+    "sha256": "05433bf414f5a65f83302adaba5d83fc5b370eeab242c8c850cbf1d929c4bcfc"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-28/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1160890,
+    "sha256": "5383eb644458a1031f8e2592029a14eeb71b9b4b8bfc85e23bbbfe45856e3eaf"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-28/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "91fb519b31a720a5ae17b28f780fc31dad4a9ecf566ad7fe8c3712074602cfad"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-28/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1160954,
+    "sha256": "90b83e450e59884bfedfe6a7f26c658ae6c6ec53eba7f28338bdff0de616f5e0"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-28/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1160762,
+    "sha256": "05fbc8f090e63af066998a88403f53977092dbe3c6b965034dd59ce10c6e37dd"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-28/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1161338,
+    "sha256": "065aef0999a6ad65adddf379ca065f82884011fee5012d40bc98a4ae1cc43912"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-29/model-00/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "4dae4e8702eb84df7699e1f1d646cc17c02c464ef57e4c7269e330f264fb2e1c"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-29/model-01/neurostorm/checkpoint.pt",
+    "bytes": 1161402,
+    "sha256": "f88a8e0b51c311e5c3d082f9ce35f7ab828311b34f7fbb02eb5f0f94239ed797"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-29/model-02/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "f8fc7f6b6423d7603a5b73227d1b202623b8ae9a97f5ecb791ed154fd651c715"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-29/model-03/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "17d9e542c326e59aa94873a2793ae4d072162fe9da4d41f09d77a35199048e66"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-29/model-04/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "a62a19cd3127e69628bd6363faae44547503eecfb8088df7240d676666a6a4ef"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-29/model-05/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "74eff71bc19c93f13636b77c83917c96f0edf56f5178344fe91f151577d48f24"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-29/model-06/neurostorm/checkpoint.pt",
+    "bytes": 1160954,
+    "sha256": "9e46a4b05f0f4d8ec2186ca470e72805486c64afbc643b4e6ed7e7d19a9a375d"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-29/model-07/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "04340a08d6251a85bb1a82d7ee235018bf90101cc2b9d0203972fb826272e384"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-29/model-08/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "b8319031aecb6bf0063ac8dfad482407ee970e782c90db25c536c5eaeb759572"
+  },
+  {
+    "path": "I/weights/neurostorm/alignvideo/fold-29/model-09/neurostorm/checkpoint.pt",
+    "bytes": 1160826,
+    "sha256": "0c08c491c26057a9bf16546723be19dd5c695fc955f4306220b1e2c59e2e890f"
+  }
+]

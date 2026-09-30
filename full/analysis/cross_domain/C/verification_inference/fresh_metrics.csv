@@ -1,0 +1,2 @@
+panel,dataset,participant,accuracy,checkpoint,n_trials
+3C,BCIC,sub-001,0.5431034482758621,/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_Classification/result/BCIC/BT-ND+BrainOmni_within5fold/sub-001/fold_00,116

@@ -1,0 +1,17 @@
+{
+  "datasets": {
+    "ds000210": {
+      "label_names": [
+        "clarity"
+      ],
+      "subjective_target": "clarity_ordinal"
+    },
+    "ds002835": {
+      "label_names": [
+        "vivRating",
+        "valRating"
+      ],
+      "subjective_target": "two_output_regression"
+    }
+  }
+}

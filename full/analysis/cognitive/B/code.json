@@ -1,0 +1,62 @@
+[
+  {
+    "path": "B/code/extract.py",
+    "sha256": "2888901e67acbd7cf9c11076837ea9136869e1e876497daaeb3506df4f7f4c64",
+    "entry": true
+  },
+  {
+    "path": "B/code/replay_posthoc_three.py",
+    "sha256": "dd9745291cd0a11cdf50ad0a740d52242e2d152c8217f42c9551b1d331dcafe6",
+    "entry": true
+  },
+  {
+    "path": "B/code/models/prior/__init__.py",
+    "sha256": "40c5896501f48676eda8dc0b25d6d043626e0d773cc8897950f16392748d6005",
+    "entry": false
+  },
+  {
+    "path": "B/code/models/prior/fmri_prior_eigenval_v3_nogroup.py",
+    "sha256": "540c48a161e2ecc8d143e7b9f21561f0e10d3736b203c6d0bd136c0d6dfdc32a",
+    "entry": false
+  },
+  {
+    "path": "B/code/models/prior/fmri_prior_eigenval_v2.py",
+    "sha256": "ddc8373bd1b686ec862081d1b1981f0a490447d32fed3a8710e483ec8a516ce9",
+    "entry": false
+  },
+  {
+    "path": "B/code/models/prior/eeg_meg_prior_eigenval.py",
+    "sha256": "f925fd3e644b8eab12caa140ed0531511261ac20d453c387a38be956799ab06c",
+    "entry": false
+  },
+  {
+    "path": "B/code/models/prior/eeg_meg_prior_eigenval4.py",
+    "sha256": "f958827e8fff4b38b297e5838340601785fbec10010ffb2080830038cbf196ff",
+    "entry": false
+  },
+  {
+    "path": "B/code/models/prior/fmri_prior_eigenval.py",
+    "sha256": "bbabf1be35959b6bc8489e8c0b2d42119ae493af24b3c97c921c2e55cb886113",
+    "entry": false
+  },
+  {
+    "path": "B/code/models/prior/fmri_prior_eigenval_v4.py",
+    "sha256": "683b8b234d70a6020e788c5a0b02683d7bc79596cef30f4f7cb7f573b7ca99eb",
+    "entry": false
+  },
+  {
+    "path": "B/code/models/prior/eeg_meg_prior_eigenval3.py",
+    "sha256": "53c929575abbe2b429502c46b42b1ebe24535b11aad2821caebe904ed244e25a",
+    "entry": false
+  },
+  {
+    "path": "B/code/models/prior/eeg_meg_prior_eigenval2.py",
+    "sha256": "928efed841992a8dfaa840b9d309c1c5a408ef61f4c8dfdba73a29a49ff77dd3",
+    "entry": false
+  },
+  {
+    "path": "B/code/models/prior/fmri_prior_eigenval_v3_patch.py",
+    "sha256": "8ee301c7a0b1c3432b572cf14687f9a5d9650c5ef0d4a4be04662cd5ecf6e72e",
+    "entry": false
+  }
+]

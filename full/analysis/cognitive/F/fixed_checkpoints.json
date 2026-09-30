@@ -1,0 +1,316 @@
+{
+  "rows": [
+    {
+      "dataset": "ds002835",
+      "method": "neurostorm",
+      "subject": "sub-0217",
+      "checkpoint": "ds002835/neurostorm/sub-0217/model-24-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "neurostorm",
+      "subject": "sub-0484",
+      "checkpoint": "ds002835/neurostorm/sub-0484/model-24-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "neurostorm",
+      "subject": "sub-0914",
+      "checkpoint": "ds002835/neurostorm/sub-0914/model-24-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "neurostorm",
+      "subject": "sub-1052",
+      "checkpoint": "ds002835/neurostorm/sub-1052/model-24-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "neurostorm",
+      "subject": "sub-1054",
+      "checkpoint": "ds002835/neurostorm/sub-1054/model-24-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "neurostorm",
+      "subject": "sub-1059",
+      "checkpoint": "ds002835/neurostorm/sub-1059/model-24-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "neurostorm",
+      "subject": "sub-1060",
+      "checkpoint": "ds002835/neurostorm/sub-1060/model-24-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "neurostorm",
+      "subject": "sub-1061",
+      "checkpoint": "ds002835/neurostorm/sub-1061/model-24-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "neurostorm",
+      "subject": "sub-1064",
+      "checkpoint": "ds002835/neurostorm/sub-1064/model-24-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "neurostorm",
+      "subject": "sub-1065",
+      "checkpoint": "ds002835/neurostorm/sub-1065/model-24-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "neurostorm",
+      "subject": "sub-1066",
+      "checkpoint": "ds002835/neurostorm/sub-1066/model-24-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "neurostorm",
+      "subject": "sub-1067",
+      "checkpoint": "ds002835/neurostorm/sub-1067/model-24-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "neurostorm",
+      "subject": "sub-1068",
+      "checkpoint": "ds002835/neurostorm/sub-1068/model-24-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "neurostorm",
+      "subject": "sub-1069",
+      "checkpoint": "ds002835/neurostorm/sub-1069/model-24-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "neurostorm",
+      "subject": "sub-1093",
+      "checkpoint": "ds002835/neurostorm/sub-1093/model-24-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "neurostorm",
+      "subject": "sub-1433",
+      "checkpoint": "ds002835/neurostorm/sub-1433/model-24-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "neurostorm",
+      "subject": "sub-2026",
+      "checkpoint": "ds002835/neurostorm/sub-2026/model-24-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "neurostorm",
+      "subject": "sub-2031",
+      "checkpoint": "ds002835/neurostorm/sub-2031/model-24-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "neurostorm",
+      "subject": "sub-2044",
+      "checkpoint": "ds002835/neurostorm/sub-2044/model-24-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "neurostorm",
+      "subject": "sub-2123",
+      "checkpoint": "ds002835/neurostorm/sub-2123/model-24-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "neurostorm",
+      "subject": "sub-2124",
+      "checkpoint": "ds002835/neurostorm/sub-2124/model-24-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "neurostorm",
+      "subject": "sub-2503",
+      "checkpoint": "ds002835/neurostorm/sub-2503/model-24-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "neurostorm",
+      "subject": "sub-2515",
+      "checkpoint": "ds002835/neurostorm/sub-2515/model-24-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "neurostorm",
+      "subject": "sub-3006",
+      "checkpoint": "ds002835/neurostorm/sub-3006/model-24-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "neurostorm",
+      "subject": "sub-3557",
+      "checkpoint": "ds002835/neurostorm/sub-3557/model-24-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "neurostorm",
+      "subject": "sub-3593",
+      "checkpoint": "ds002835/neurostorm/sub-3593/model-24-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "ours",
+      "subject": "sub-0217",
+      "checkpoint": "ds002835/ours/sub-0217/model-29-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "ours",
+      "subject": "sub-0484",
+      "checkpoint": "ds002835/ours/sub-0484/model-29-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "ours",
+      "subject": "sub-0914",
+      "checkpoint": "ds002835/ours/sub-0914/model-29-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "ours",
+      "subject": "sub-1052",
+      "checkpoint": "ds002835/ours/sub-1052/model-29-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "ours",
+      "subject": "sub-1054",
+      "checkpoint": "ds002835/ours/sub-1054/model-29-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "ours",
+      "subject": "sub-1059",
+      "checkpoint": "ds002835/ours/sub-1059/model-29-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "ours",
+      "subject": "sub-1060",
+      "checkpoint": "ds002835/ours/sub-1060/model-29-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "ours",
+      "subject": "sub-1061",
+      "checkpoint": "ds002835/ours/sub-1061/model-29-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "ours",
+      "subject": "sub-1064",
+      "checkpoint": "ds002835/ours/sub-1064/model-29-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "ours",
+      "subject": "sub-1065",
+      "checkpoint": "ds002835/ours/sub-1065/model-29-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "ours",
+      "subject": "sub-1066",
+      "checkpoint": "ds002835/ours/sub-1066/model-29-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "ours",
+      "subject": "sub-1067",
+      "checkpoint": "ds002835/ours/sub-1067/model-29-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "ours",
+      "subject": "sub-1068",
+      "checkpoint": "ds002835/ours/sub-1068/model-29-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "ours",
+      "subject": "sub-1069",
+      "checkpoint": "ds002835/ours/sub-1069/model-29-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "ours",
+      "subject": "sub-1093",
+      "checkpoint": "ds002835/ours/sub-1093/model-29-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "ours",
+      "subject": "sub-1433",
+      "checkpoint": "ds002835/ours/sub-1433/model-29-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "ours",
+      "subject": "sub-2026",
+      "checkpoint": "ds002835/ours/sub-2026/model-29-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "ours",
+      "subject": "sub-2031",
+      "checkpoint": "ds002835/ours/sub-2031/model-29-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "ours",
+      "subject": "sub-2044",
+      "checkpoint": "ds002835/ours/sub-2044/model-29-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "ours",
+      "subject": "sub-2123",
+      "checkpoint": "ds002835/ours/sub-2123/model-29-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "ours",
+      "subject": "sub-2124",
+      "checkpoint": "ds002835/ours/sub-2124/model-29-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "ours",
+      "subject": "sub-2503",
+      "checkpoint": "ds002835/ours/sub-2503/model-29-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "ours",
+      "subject": "sub-2515",
+      "checkpoint": "ds002835/ours/sub-2515/model-29-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "ours",
+      "subject": "sub-3006",
+      "checkpoint": "ds002835/ours/sub-3006/model-29-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "ours",
+      "subject": "sub-3557",
+      "checkpoint": "ds002835/ours/sub-3557/model-29-re.pt"
+    },
+    {
+      "dataset": "ds002835",
+      "method": "ours",
+      "subject": "sub-3593",
+      "checkpoint": "ds002835/ours/sub-3593/model-29-re.pt"
+    }
+  ]
+}

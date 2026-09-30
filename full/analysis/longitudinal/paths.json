@@ -1,0 +1,10 @@
+{
+  "ecog_h5": "external/ecog/sub-01.h5",
+  "ajile_h5": "external/ajile12/sub-06.h5",
+  "shu_h5": "external/shu/sub-006.h5",
+  "ajile_repr": "inputs/sub06_sessionrepr.npz",
+  "shu_repr": "inputs/sub006_repr.npz",
+  "manifold": "inputs/manifold",
+  "ecog_drift": "inputs/drift",
+  "shu_similarity": "inputs/sub006_shu_repr.npz"
+}

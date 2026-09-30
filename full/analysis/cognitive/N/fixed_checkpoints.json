@@ -1,0 +1,89 @@
+{
+  "rows": [
+    {
+      "subject": "sub-0031",
+      "highlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_013/gaussian_poe128/model_01/checkpoint.pt",
+      "lowlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_014/gaussian_poe128/model_02/checkpoint.pt"
+    },
+    {
+      "subject": "sub-0034",
+      "highlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_013/gaussian_poe128/model_01/checkpoint.pt",
+      "lowlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_014/gaussian_poe128/model_04/checkpoint.pt"
+    },
+    {
+      "subject": "sub-0081",
+      "highlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_013/gaussian_poe128/model_01/checkpoint.pt",
+      "lowlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_014/gaussian_poe128/model_04/checkpoint.pt"
+    },
+    {
+      "subject": "sub-0043",
+      "highlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_013/gaussian_poe128/model_01/checkpoint.pt",
+      "lowlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_014/gaussian_poe128/model_01/checkpoint.pt"
+    },
+    {
+      "subject": "sub-0046",
+      "highlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_013/gaussian_poe128/model_01/checkpoint.pt",
+      "lowlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_014/gaussian_poe128/model_03/checkpoint.pt"
+    },
+    {
+      "subject": "sub-0058",
+      "highlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_013/gaussian_poe128/model_01/checkpoint.pt",
+      "lowlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_014/gaussian_poe128/model_04/checkpoint.pt"
+    },
+    {
+      "subject": "sub-0060",
+      "highlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_013/gaussian_poe128/model_01/checkpoint.pt",
+      "lowlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_014/gaussian_poe128/model_03/checkpoint.pt"
+    },
+    {
+      "subject": "sub-0070",
+      "highlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_013/gaussian_poe128/model_04/checkpoint.pt",
+      "lowlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_014/gaussian_poe128/model_03/checkpoint.pt"
+    },
+    {
+      "subject": "sub-0035",
+      "highlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_013/gaussian_poe128/model_01/checkpoint.pt",
+      "lowlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_014/gaussian_poe128/model_02/checkpoint.pt"
+    },
+    {
+      "subject": "sub-0078",
+      "highlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_013/gaussian_poe128/model_01/checkpoint.pt",
+      "lowlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_014/gaussian_poe128/model_02/checkpoint.pt"
+    },
+    {
+      "subject": "sub-0003",
+      "highlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_013/gaussian_poe128/model_03/checkpoint.pt",
+      "lowlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_014/gaussian_poe128/model_03/checkpoint.pt"
+    },
+    {
+      "subject": "sub-0004",
+      "highlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_013/gaussian_poe128/model_01/checkpoint.pt",
+      "lowlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_014/gaussian_poe128/model_03/checkpoint.pt"
+    },
+    {
+      "subject": "sub-0099",
+      "highlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_013/gaussian_poe128/model_01/checkpoint.pt",
+      "lowlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_014/gaussian_poe128/model_03/checkpoint.pt"
+    },
+    {
+      "subject": "sub-0052",
+      "highlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_013/gaussian_poe128/model_01/checkpoint.pt",
+      "lowlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_014/gaussian_poe128/model_03/checkpoint.pt"
+    },
+    {
+      "subject": "sub-0073",
+      "highlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_013/gaussian_poe128/model_01/checkpoint.pt",
+      "lowlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_014/gaussian_poe128/model_03/checkpoint.pt"
+    },
+    {
+      "subject": "sub-0116",
+      "highlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_013/gaussian_poe128/model_01/checkpoint.pt",
+      "lowlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_014/gaussian_poe128/model_01/checkpoint.pt"
+    },
+    {
+      "subject": "sub-0069",
+      "highlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_013/gaussian_poe128/model_01/checkpoint.pt",
+      "lowlevel_checkpoint": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_014/gaussian_poe128/model_04/checkpoint.pt"
+    }
+  ]
+}

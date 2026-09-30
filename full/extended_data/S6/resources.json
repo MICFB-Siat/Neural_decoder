@@ -1,0 +1,15 @@
+{
+  "local": {
+    "/media/wsqlab/a800/code/Eigen_brain_decoding/checkpoints/unified_v3/prior_unified_v3_20260514_020311.pt": "_source/checkpoints/unified_v3/prior_unified_v3_20260514_020311.pt",
+    "/media/wsqlab/a800/code/Eigen_brain_decoding/data_check_20260507/full_run_5fold/stage2_new/MOTOR": "_source/data_check_20260507/full_run_5fold/stage2_new/MOTOR",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/checkpoints/unified_v3/prior_unified_v3_20260514_020311.pt": "_source/checkpoints/unified_v3/prior_unified_v3_20260514_020311.pt",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/guoyi_exp/data/eigenmode_test/MOTOR_eeg-fmri/D_eeg.npy": "_source/guoyi_exp/data/eigenmode_test/MOTOR_eeg-fmri/D_eeg.npy",
+    "/home/guoyi/a800/share/code/Eigen_brain_decoding/data_check_20260507/full_run_5fold/stage2_new/MOTOR": "_source/data_check_20260507/full_run_5fold/stage2_new/MOTOR"
+  },
+  "external": {
+    "/home/guoyi/nas/ugreen/NoLanguageData/somatomotor/preprocess/stage2_new": {
+      "kind": "dataset",
+      "path": "/media/wsqlab/data/tyf/ugreen/NoLanguageData/somatomotor/preprocess/stage2_new"
+    }
+  }
+}

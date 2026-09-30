@@ -1,0 +1,1 @@
+../../../_source/zhf_exp/zhf_exp_fmri_eigen/code/02_generate_sub24_modes_with_mode0.py

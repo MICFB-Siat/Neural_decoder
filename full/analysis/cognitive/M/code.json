@@ -1,0 +1,27 @@
+[
+  {
+    "path": "M/code/compute_k_f25s00_prepoe_features.py",
+    "sha256": "f660996469ada06bf37a09fafeac8d8966dafabd6c9f11ec66965f2381a9953e",
+    "entry": true
+  },
+  {
+    "path": "M/code/compute_k_l_affect45_pearson_spearman.py",
+    "sha256": "cca9fc1ca3037442e289e46ce16d06c63887e2d9985d7729619fd429bcad2e0d",
+    "entry": false
+  },
+  {
+    "path": "M/code/run_loso80_supervised_poe128__.py",
+    "sha256": "8813f19d6e6d0793692410d014745bd03a1bf7c3ae2559322fecc82970ca25f1",
+    "entry": false
+  },
+  {
+    "path": "M/code/decode_cross_subject_residual_5fold.py",
+    "sha256": "44f14c0d21bc629459710985274e72dfdc601a1d1509db711d3c9cdf29eea870",
+    "entry": false
+  },
+  {
+    "path": "M/code/decode_narratives_shortvideo_poe.py",
+    "sha256": "7a5d4f845b3a45ba918aef3b947f5df51058059c1363b2aecaba8b7c20715fa1",
+    "entry": false
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "path": "L/code/load30.py",
+    "sha256": "70f76243fee26edf82edc2edb805ace1685e1396eb48c3f389f163ce34ec413e",
+    "entry": true
+  },
+  {
+    "path": "L/code/analyze30.py",
+    "sha256": "2d551f7a68be47f9c3f97b45dd03c8ccac64e7ac963578d85eb0a903d31c2251",
+    "entry": true
+  },
+  {
+    "path": "L/code/aggregate_subject_ps.py",
+    "sha256": "3bd793dc2ae94a3166fdeb847c527cd9a4eb4ce9743334505f68f9d7495f99ab",
+    "entry": true
+  },
+  {
+    "path": "L/code/run_loso80_supervised_poe128__.py",
+    "sha256": "8813f19d6e6d0793692410d014745bd03a1bf7c3ae2559322fecc82970ca25f1",
+    "entry": false
+  },
+  {
+    "path": "L/code/compute_k_l_affect45_pearson_spearman.py",
+    "sha256": "cca9fc1ca3037442e289e46ce16d06c63887e2d9985d7729619fd429bcad2e0d",
+    "entry": false
+  },
+  {
+    "path": "L/code/decode_cross_subject_residual_5fold.py",
+    "sha256": "44f14c0d21bc629459710985274e72dfdc601a1d1509db711d3c9cdf29eea870",
+    "entry": false
+  },
+  {
+    "path": "L/code/decode_narratives_shortvideo_poe.py",
+    "sha256": "7a5d4f845b3a45ba918aef3b947f5df51058059c1363b2aecaba8b7c20715fa1",
+    "entry": false
+  }
+]

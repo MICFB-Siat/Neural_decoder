@@ -1,0 +1,97 @@
+[
+  {
+    "fold": 0,
+    "train_subjects": [
+      "sub-001",
+      "sub-002",
+      "sub-004",
+      "sub-005",
+      "sub-006",
+      "sub-007",
+      "sub-009"
+    ],
+    "val_subjects": [
+      "sub-003",
+      "sub-008"
+    ],
+    "n_train": 4032,
+    "n_val": 1152,
+    "test_subjects": null
+  },
+  {
+    "fold": 1,
+    "train_subjects": [
+      "sub-001",
+      "sub-003",
+      "sub-004",
+      "sub-006",
+      "sub-007",
+      "sub-008",
+      "sub-009"
+    ],
+    "val_subjects": [
+      "sub-002",
+      "sub-005"
+    ],
+    "n_train": 4032,
+    "n_val": 1152,
+    "test_subjects": null
+  },
+  {
+    "fold": 2,
+    "train_subjects": [
+      "sub-001",
+      "sub-002",
+      "sub-003",
+      "sub-004",
+      "sub-005",
+      "sub-006",
+      "sub-008"
+    ],
+    "val_subjects": [
+      "sub-007",
+      "sub-009"
+    ],
+    "n_train": 4032,
+    "n_val": 1152,
+    "test_subjects": null
+  },
+  {
+    "fold": 3,
+    "train_subjects": [
+      "sub-002",
+      "sub-003",
+      "sub-005",
+      "sub-006",
+      "sub-007",
+      "sub-008",
+      "sub-009"
+    ],
+    "val_subjects": [
+      "sub-001",
+      "sub-004"
+    ],
+    "n_train": 4032,
+    "n_val": 1152,
+    "test_subjects": null
+  },
+  {
+    "fold": 4,
+    "train_subjects": [
+      "sub-001",
+      "sub-002",
+      "sub-003",
+      "sub-004",
+      "sub-005",
+      "sub-007",
+      "sub-008",
+      "sub-009"
+    ],
+    "val_subjects": [
+      "sub-006"
+    ],
+    "n_train": 4608,
+    "n_val": 576,
+    "test_subjects": null
+  }
+]

@@ -1,0 +1,1 @@
+../../../_source/lizhuo_exp/lizhuo_exp_result/Exp_EDFig6a_Bimodal_Inner_Speech_8class/code/inference_entry.py

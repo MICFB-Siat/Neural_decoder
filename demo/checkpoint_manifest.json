@@ -1,0 +1,78 @@
+{
+  "repo_id": "SSp1ash/Eigenbrain",
+  "revision": "5c314b0e8b6df24db95a7c58c86b6c112afc128e",
+  "files": [
+    {
+      "remote_path": "demo/checkpoints/classification/eeg_classifier.pth",
+      "local_path": "weights/classification_stage2_eeg_tiny.pth",
+      "size": 56986353,
+      "sha256": "e8f53a4f8a7e67fd85829a9cf0bbe89e3a7977d4ca3d26813ac1d2ae74f16947"
+    },
+    {
+      "remote_path": "demo/checkpoints/language/alignment.pt",
+      "local_path": "weights/alice_qformer_poe_sublayer.pt",
+      "size": 182414518,
+      "sha256": "3aa5b0a4b71a952dd8cac59c285eb978b2f468bcc0a4faed645bca963ae297fd"
+    },
+    {
+      "remote_path": "demo/checkpoints/language/projector.pt",
+      "local_path": "weights/alice_projector.pt",
+      "size": 12621856,
+      "sha256": "0a4909c786d3ddd4ba007d2a2208620c371c501b6daa844813bf1b8e945b66a3"
+    },
+    {
+      "remote_path": "demo/checkpoints/visual_decoding/brain_decoder.pt",
+      "local_path": "weights/nsd_sub01/brain_final.pt",
+      "size": 930320066,
+      "sha256": "f6ae5bfe32845a58d41c0c93900a1be593e26c9be71f5285ebad41727985a39d"
+    },
+    {
+      "remote_path": "demo/checkpoints/visual_decoding/image_prior.pt",
+      "local_path": "weights/nsd_sub01/diffusion_prior.pt",
+      "size": 519762365,
+      "sha256": "d00a489fcff597e858284aa10a4a9b8515122b857c6a3259a475ca08af6fe305"
+    },
+    {
+      "remote_path": "demo/checkpoints/visual_decoding/image_autoencoder.pth",
+      "local_path": "weights/nsd_sub01/sd_image_var_autoenc.pth",
+      "size": 334697994,
+      "sha256": "1f34e0b48973b750a1eacd8ba433ae9d5ebeca8ef543ed27a3ade57872f3d72c"
+    },
+    {
+      "remote_path": "demo/checkpoints/visual_decoding/unclip.ckpt",
+      "local_path": "weights/nsd_sub01/unclip6_epoch0_step110000.ckpt",
+      "size": 17980447939,
+      "sha256": "6bd7033dee484bba449d243408f36f080ace62b774d0da7894fd898fdf155652"
+    },
+    {
+      "remote_path": "demo/checkpoints/visual_decoding/clip_vit_l14.safetensors",
+      "local_path": "weights/nsd_sub01/open_clip_vit_l14_openai.safetensors",
+      "size": 1710517724,
+      "sha256": "9ce2e8a8ebfff3793d7d375ad6d3c35cb9aebf3de7ace0fc7308accab7cd207e"
+    },
+    {
+      "remote_path": "demo/checkpoints/visual_encoding/encoding_model.npz",
+      "local_path": "weights/nsd_sub01_encoding/model.npz",
+      "size": 381334768,
+      "sha256": "4c9867cdaf0a29618c2b666da9b2484f77783c5b4f58199669e95854dbd12c0b"
+    },
+    {
+      "remote_path": "demo/checkpoints/subjective_rating/rating_decoder.pt",
+      "local_path": "weights/spacetop_sub0018/fold-04_checkpoint.pt",
+      "size": 3238802,
+      "sha256": "2dfeb079da7a0edb1f18d8a494fab6fdedec3114b9d7316df1a3c855a210c33d"
+    },
+    {
+      "remote_path": "demo/checkpoints/language/adapter/adapter_model.safetensors",
+      "local_path": "weights/alice_lora/adapter_model.safetensors",
+      "size": 29377440,
+      "sha256": "4a5fcddabb6f7439836635ac6ed1fcc78023c02a4053c337943977111a84e878"
+    },
+    {
+      "remote_path": "demo/checkpoints/language/adapter/adapter_config.json",
+      "local_path": "weights/alice_lora/adapter_config.json",
+      "size": 1137,
+      "sha256": "84ff0ab3ced9cdb37c7a6b5a016993962768aae2eb51cba5017b06ae17dcca4d"
+    }
+  ]
+}

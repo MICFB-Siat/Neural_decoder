@@ -1,0 +1,57 @@
+{
+  "status": "complete",
+  "generated_utc": "2026-07-26T13:09:14.961409+00:00",
+  "task": "narratives",
+  "epoch": 19,
+  "obs_checkpoint": "/home/guoyi/nas2/share/Dataset/ds005256-download/experiments/narratives_shortvideo_mae_epochwise_rsa30_two_init_20260726/mae/narratives/random/obs/epoch_checkpoints/epoch_019.pt",
+  "obs_checkpoint_sha256": "41b04ccc570ff7ffcdff3113e0664b55d108db4b0b5ff006bceb2305c4498ad5",
+  "indiv_checkpoint": "/home/guoyi/nas2/share/Dataset/ds005256-download/experiments/narratives_shortvideo_mae_epochwise_rsa30_two_init_20260726/mae/narratives/random/indiv/epoch_checkpoints/epoch_019.pt",
+  "indiv_checkpoint_sha256": "acb96273ebcd7b5de6e56625be90ad064c33bac4b1739fec845f850a4dd10d42",
+  "output": "/home/guoyi/nas2/share/Dataset/ds005256-download/experiments/narratives_shortvideo_mae_epochwise_rsa30_two_init_20260726/epochwise_features/narratives/random/epoch_019.npz",
+  "output_sha256": "576b043148585716e74280c9838bb71fa6831ae328aac9233f317af6be501cec",
+  "n_subjects": 30,
+  "n_trials": 2160,
+  "subject_trial_counts": {
+    "sub-0001": 72,
+    "sub-0003": 72,
+    "sub-0004": 72,
+    "sub-0005": 72,
+    "sub-0006": 72,
+    "sub-0007": 72,
+    "sub-0008": 72,
+    "sub-0010": 72,
+    "sub-0013": 72,
+    "sub-0016": 72,
+    "sub-0017": 72,
+    "sub-0018": 72,
+    "sub-0019": 72,
+    "sub-0021": 72,
+    "sub-0024": 72,
+    "sub-0025": 72,
+    "sub-0026": 72,
+    "sub-0029": 72,
+    "sub-0031": 72,
+    "sub-0033": 72,
+    "sub-0034": 72,
+    "sub-0035": 72,
+    "sub-0036": 72,
+    "sub-0037": 72,
+    "sub-0040": 72,
+    "sub-0041": 72,
+    "sub-0044": 72,
+    "sub-0046": 72,
+    "sub-0051": 72,
+    "sub-0053": 72
+  },
+  "feature_shape": {
+    "obs": [
+      2160,
+      512
+    ],
+    "indiv": [
+      2160,
+      512
+    ]
+  },
+  "pooling": "mean over time and cortical/mode groups"
+}

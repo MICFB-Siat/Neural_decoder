@@ -1,0 +1,88 @@
+{
+  "schema_version": "nsd-sub01-inference-bundle-v1",
+  "dataset": "Natural Scenes Dataset",
+  "subject": "sub-01",
+  "split": "Shared1000",
+  "purpose": "frozen inference only; no fitting or parameter updates",
+  "files": {
+    "assets/nsd_sub01_test.h5": {
+      "size_bytes": 208832192,
+      "role": "paired frozen CIFTI, geometric modes, RGB targets, and provenance keys"
+    },
+    "weights/nsd_sub01/brain_final.pt": {
+      "size_bytes": 930320066,
+      "role": "anchored PoE fusion and pretrained BrainNetwork"
+    },
+    "weights/nsd_sub01/diffusion_prior.pt": {
+      "size_bytes": 519762365,
+      "role": "BrainDiffusionPrior"
+    },
+    "weights/nsd_sub01/sd_image_var_autoenc.pth": {
+      "size_bytes": 334697994,
+      "role": "low-level image VAE"
+    },
+    "weights/nsd_sub01/unclip6_epoch0_step110000.ckpt": {
+      "size_bytes": 17980447939,
+      "role": "frozen SDXL-unCLIP semantic decoder"
+    },
+    "weights/nsd_sub01/open_clip_vit_l14_openai.safetensors": {
+      "size_bytes": 1710517724,
+      "role": "OpenCLIP ViT-L/14 image-level evaluation"
+    }
+  },
+  "data_contract": {
+    "cifti": [
+      1000,
+      4096
+    ],
+    "modes": [
+      1000,
+      2000
+    ],
+    "rgb": [
+      1000,
+      256,
+      256,
+      3
+    ],
+    "test_index": [
+      1000
+    ],
+    "source_row": [
+      1000
+    ],
+    "stim_id": [
+      1000
+    ],
+    "normalization": "frozen upstream representation; no transform is fitted during inference"
+  },
+  "inference_defaults": {
+    "selected_test_samples": 10,
+    "saved_png_limit": 3,
+    "diffusion_prior_steps": 20,
+    "prior_cond_scale": 1.5,
+    "sdxl_unclip_steps": 50,
+    "semantic_weight": 0.75,
+    "lowlevel_weight": 0.25,
+    "seed": 42
+  },
+  "archived_full_shared1000_clip_2way": 0.7828989028930664,
+  "evaluation_first10": {
+    "mean_openclip_vitl14_cosine": 0.655796468257904,
+    "clip_2way": 0.7777777910232544,
+    "output": "outputs/nsd_sub01_evaluation"
+  },
+  "qualitative_visualization": {
+    "selection": "top three paired OpenCLIP cosine values from evaluation_first10",
+    "test_indices": [
+      9,
+      2,
+      5
+    ],
+    "columns": [
+      "ground truth",
+      "Ours reconstruction"
+    ],
+    "output": "outputs/nsd_sub01_visualization"
+  }
+}

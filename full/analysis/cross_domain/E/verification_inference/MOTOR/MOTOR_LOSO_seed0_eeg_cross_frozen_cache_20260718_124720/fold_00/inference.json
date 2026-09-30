@@ -1,0 +1,17 @@
+{
+  "accuracy": 0.4946808510638298,
+  "n_trials": 188,
+  "subjects": [
+    "sub-103"
+  ],
+  "checkpoint": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_Classification/result/MOTOR/BT-ND+BrainOmni_LOSO_rerun_20260718/MOTOR_LOSO_seed0_eeg_cross_frozen_cache_20260718_124720/fold_00",
+  "input_directory": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/full_run_5fold/stage2_new/MOTOR",
+  "calibration": {
+    "temp_T_obs_A": 10.0,
+    "temp_T_pri_A": 10.0,
+    "temp_T_obs_B": 10.0,
+    "temp_T_pri_B": 10.0
+  },
+  "calibration_protocol": "Retained split-half cross-fit temperatures, partition initialization 0.",
+  "source": "Fresh raw-signal and eigenmode forward passes; no saved logits or accuracy read as results."
+}

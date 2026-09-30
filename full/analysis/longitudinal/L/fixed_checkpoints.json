@@ -1,0 +1,84 @@
+{
+  "rows": [
+    {
+      "calibration_key": "10",
+      "checkpoint": "weights/model10.pt"
+    },
+    {
+      "calibration_key": "11",
+      "checkpoint": "weights/model11.pt"
+    },
+    {
+      "calibration_key": "18",
+      "checkpoint": "weights/model18.pt"
+    },
+    {
+      "calibration_key": "25",
+      "checkpoint": "weights/model25.pt"
+    },
+    {
+      "calibration_key": "26",
+      "checkpoint": "weights/model26.pt"
+    },
+    {
+      "calibration_key": "28",
+      "checkpoint": "weights/model28.pt"
+    },
+    {
+      "calibration_key": "29",
+      "checkpoint": "weights/model29.pt"
+    },
+    {
+      "calibration_key": "42",
+      "checkpoint": "weights/model42.pt"
+    },
+    {
+      "calibration_key": "45",
+      "checkpoint": "weights/model45.pt"
+    },
+    {
+      "calibration_key": "48",
+      "checkpoint": "weights/model48.pt"
+    },
+    {
+      "calibration_key": "54",
+      "checkpoint": "weights/model54.pt"
+    },
+    {
+      "calibration_key": "55",
+      "checkpoint": "weights/model55.pt"
+    },
+    {
+      "calibration_key": "61",
+      "checkpoint": "weights/model61.pt"
+    },
+    {
+      "calibration_key": "68",
+      "checkpoint": "weights/model68.pt"
+    },
+    {
+      "calibration_key": "71",
+      "checkpoint": "weights/model71.pt"
+    },
+    {
+      "calibration_key": "76",
+      "checkpoint": "weights/model76.pt"
+    },
+    {
+      "calibration_key": "84",
+      "checkpoint": "weights/model84.pt"
+    },
+    {
+      "calibration_key": "88",
+      "checkpoint": "weights/model88.pt"
+    },
+    {
+      "calibration_key": "92",
+      "checkpoint": "weights/model92.pt"
+    },
+    {
+      "calibration_key": "96",
+      "checkpoint": "weights/model96.pt"
+    }
+  ]
+}

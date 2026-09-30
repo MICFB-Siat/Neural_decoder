@@ -1,0 +1,2 @@
+panel,dataset,participant,accuracy,checkpoint,n_trials
+3E,Motor Imagery,sub-103,0.4946808510638298,/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_Classification/result/MOTOR/BT-ND+BrainOmni_LOSO_rerun_20260718/MOTOR_LOSO_seed0_eeg_cross_frozen_cache_20260718_124720/fold_00,188

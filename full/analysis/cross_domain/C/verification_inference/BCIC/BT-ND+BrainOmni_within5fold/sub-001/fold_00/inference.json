@@ -1,0 +1,17 @@
+{
+  "accuracy": 0.5431034482758621,
+  "n_trials": 116,
+  "subjects": [
+    "sub-001"
+  ],
+  "checkpoint": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_Classification/result/BCIC/BT-ND+BrainOmni_within5fold/sub-001/fold_00",
+  "input_directory": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/full_run_5fold/stage2_new/BCIC",
+  "calibration": {
+    "temp_T_obs_A": 4.8999999999999995,
+    "temp_T_pri_A": 3.1499999999999995,
+    "temp_T_obs_B": 2.1499999999999995,
+    "temp_T_pri_B": 1.5499999999999998
+  },
+  "calibration_protocol": "Retained split-half cross-fit temperatures, partition initialization 0.",
+  "source": "Fresh raw-signal and eigenmode forward passes; no saved logits or accuracy read as results."
+}

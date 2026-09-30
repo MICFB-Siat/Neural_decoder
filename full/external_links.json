@@ -1,0 +1,28 @@
+{
+  "paths": [
+    "extended_data/S8/_source/data_check_20260507/uncertainty_seedv/tyf_20260521/somatomotor_patched",
+    "extended_data/S8/_source/data_check_20260507/full_run_5fold/stage2_new",
+    "extended_data/S8/_source/lizhuo_exp/lizhuo_exp_data/LPPCHK",
+    "extended_data/S8/_source/lizhuo_exp/lizhuo_exp_data/Narratives2",
+    "extended_data/S8/_source/lizhuo_exp/lizhuo_exp_data/Alice",
+    "extended_data/S8/_source/guoyi_exp/Exp2/LPPC-fMRI/data_for_decode",
+    "extended_data/S7/_source/data_check_20260507/uncertainty_seedv/tyf_20260521/somatomotor_patched",
+    "extended_data/S7/_source/data_check_20260507/full_run_5fold/stage2_new",
+    "extended_data/S7/_source/lizhuo_exp/lizhuo_exp_data/LPPCHK",
+    "extended_data/S7/_source/lizhuo_exp/lizhuo_exp_data/Narratives2",
+    "extended_data/S7/_source/lizhuo_exp/lizhuo_exp_data/Alice",
+    "extended_data/S7/_source/guoyi_exp/Exp2/LPPC-fMRI/data_for_decode",
+    "extended_data/S6/_source/data_check_20260507/uncertainty_seedv/tyf_20260521/somatomotor_patched",
+    "extended_data/S6/_source/data_check_20260507/full_run_5fold/stage2_new",
+    "extended_data/S6/_source/lizhuo_exp/lizhuo_exp_data/LPPCHK",
+    "extended_data/S6/_source/lizhuo_exp/lizhuo_exp_data/Narratives2",
+    "extended_data/S6/_source/lizhuo_exp/lizhuo_exp_data/Alice",
+    "extended_data/S6/_source/guoyi_exp/Exp2/LPPC-fMRI/data_for_decode",
+    "extended_data/S5/_source/data_check_20260507/uncertainty_seedv/tyf_20260521/somatomotor_patched",
+    "extended_data/S5/_source/data_check_20260507/full_run_5fold/stage2_new",
+    "extended_data/S5/_source/lizhuo_exp/lizhuo_exp_data/LPPCHK",
+    "extended_data/S5/_source/lizhuo_exp/lizhuo_exp_data/Narratives2",
+    "extended_data/S5/_source/lizhuo_exp/lizhuo_exp_data/Alice",
+    "extended_data/S5/_source/guoyi_exp/Exp2/LPPC-fMRI/data_for_decode"
+  ]
+}

@@ -1,0 +1,10 @@
+numpy>=1.24,<2
+scipy>=1.10
+pandas>=1.5
+matplotlib>=3.6,<3.9
+torch>=2.1
+h5py>=3.8
+nibabel>=5.0
+scikit-learn>=1.2
+pycortex>=1.2
+pillow>=9

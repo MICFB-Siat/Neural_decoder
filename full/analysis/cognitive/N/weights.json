@@ -1,0 +1,57 @@
+[
+  {
+    "path": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_013/gaussian_poe128/model_01/checkpoint.pt",
+    "bytes": 1617804,
+    "sha256": "900916c169218bb7d921b1a4f313376b240fa9377f7299ddc22830d8739ece40"
+  },
+  {
+    "path": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_013/gaussian_poe128/model_03/checkpoint.pt",
+    "bytes": 1617676,
+    "sha256": "4b7dc197f17a9cd13fe65f3f64523237990eb414709dfd34fd7067978e861bfd"
+  },
+  {
+    "path": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_013/gaussian_poe128/model_04/checkpoint.pt",
+    "bytes": 1617676,
+    "sha256": "c46084d86fd3c07fcd76ffb4f0dab2e366155eae425ebfb20a033bad0793ea94"
+  },
+  {
+    "path": "N/weights/mae/crossdataset/obs/epoch_checkpoints/epoch_013.pt",
+    "bytes": 94930594,
+    "sha256": "6a1ae33fb761890406419b9f5d39a8e21dafa739e5290cfce9800f8d5365f078"
+  },
+  {
+    "path": "N/weights/mae/crossdataset/indiv/epoch_checkpoints/epoch_013.pt",
+    "bytes": 99690786,
+    "sha256": "b734b57821398ee1f5d989c4d095b1582fdbe0ae68d78cb6634b9b429fd17dae"
+  },
+  {
+    "path": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_014/gaussian_poe128/model_01/checkpoint.pt",
+    "bytes": 1617612,
+    "sha256": "0cb0b2c79ebef9accf2b64e567eddb71ef24239c8076d5fa17eaba5ee19e3555"
+  },
+  {
+    "path": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_014/gaussian_poe128/model_02/checkpoint.pt",
+    "bytes": 1617612,
+    "sha256": "f8d10f04b9a76f385ff590d0982c98b73a364e02ae0955ba4ccd3846df1e5d3b"
+  },
+  {
+    "path": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_014/gaussian_poe128/model_03/checkpoint.pt",
+    "bytes": 1617612,
+    "sha256": "a894948d6cb5e5621ff3ebab79b3d62314a4e45f653199a85403c2699f166108"
+  },
+  {
+    "path": "N/weights/poe5models_rsa17_incohort/runs/crossdataset/epoch_014/gaussian_poe128/model_04/checkpoint.pt",
+    "bytes": 1617612,
+    "sha256": "c7bcd4712be8e258d5b91ef0e7b7778f0b55af4ebd8f293313a823542aea2a9b"
+  },
+  {
+    "path": "N/weights/mae/crossdataset/obs/epoch_checkpoints/epoch_014.pt",
+    "bytes": 94930594,
+    "sha256": "1e9936e06e180fb8e64917ba962304370c362b639654e7b3ef5f807ece43f1be"
+  },
+  {
+    "path": "N/weights/mae/crossdataset/indiv/epoch_checkpoints/epoch_014.pt",
+    "bytes": 99690786,
+    "sha256": "c27348084c05e4a9b5f60e725f780f3eb75cb9144c5717dc307cff89ff620478"
+  }
+]

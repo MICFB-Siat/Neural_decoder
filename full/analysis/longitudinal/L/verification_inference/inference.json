@@ -1,0 +1,15 @@
+{
+  "mode": "fresh observation-weight inference with retained trial-level prior probabilities",
+  "raw_input": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/ECoG_speech/zhf_work/code_my/data_ecog_eigen_bp/run_20260529_215039/sub-01.h5",
+  "runs": [
+    {
+      "run": 10,
+      "checkpoint": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ECoG_speech_sub-001_cross_session/exp12_calib20_perSession/weights/seed10.pt",
+      "a_obs": 1.6,
+      "a_prior": 1.4000000000000001,
+      "gamma": 0.5
+    }
+  ],
+  "prior_input": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/ECoG_speech/zhf_work/code_my/data_ecog_eigen_bp/run_20260529_215039/prior_expert_geom_bandpower_np/p_prior.npy",
+  "selection": "Retained 20-run membership; selection score columns are not used as plotted values."
+}

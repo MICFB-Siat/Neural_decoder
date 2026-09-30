@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "created_by": "prepare_assets.py",
+  "source_sha256": {
+    "archived_eeg_checkpoint": "13f263dfb0d61e56c8a23f06adb61a17a10d2f87cadc788f194cab59d2aa44e5",
+    "archived_language_alignment": "3aa5b0a4b71a952dd8cac59c285eb978b2f468bcc0a4faed645bca963ae297fd",
+    "archived_language_projector": "0a4909c786d3ddd4ba007d2a2208620c371c501b6daa844813bf1b8e945b66a3",
+    "archived_language_adapter": "4a5fcddabb6f7439836635ac6ed1fcc78023c02a4053c337943977111a84e878"
+  },
+  "bundle_sha256": {
+    "assets/inference_data.h5": "306b2a0c73982fa54a126c98e1d788dcb855cd8eb011d13d62dbfc6df2ebddbf",
+    "weights/classification_stage2_eeg_tiny.pth": "e8f53a4f8a7e67fd85829a9cf0bbe89e3a7977d4ca3d26813ac1d2ae74f16947",
+    "weights/alice_qformer_poe_sublayer.pt": "3aa5b0a4b71a952dd8cac59c285eb978b2f468bcc0a4faed645bca963ae297fd",
+    "weights/alice_projector.pt": "0a4909c786d3ddd4ba007d2a2208620c371c501b6daa844813bf1b8e945b66a3",
+    "weights/alice_lora/adapter_model.safetensors": "4a5fcddabb6f7439836635ac6ed1fcc78023c02a4053c337943977111a84e878",
+    "weights/alice_lora/adapter_config.json": "84ff0ab3ced9cdb37c7a6b5a016993962768aae2eb51cba5017b06ae17dcca4d"
+  },
+  "selection": {
+    "classification_source_indices": [0, 1, 7, 8, 16, 17, 39, 40, 57, 58],
+    "language_source_indices": [58, 59, 60, 61, 62]
+  },
+  "external_base_models_not_copied": {
+    "Phi-4-mini-instruct": "microsoft/Phi-4-mini-instruct",
+    "BGE-M3": "BAAI/bge-m3"
+  },
+  "limits": [
+    "Frozen-checkpoint inference on the packaged samples.",
+    "NSD Subject-1 reconstruction uses its separate shipped test bundle and manifest.",
+    "Language alignment checkpoint originated from an archived training protocol; do not use as held-out generalisation evidence."
+  ]
+}

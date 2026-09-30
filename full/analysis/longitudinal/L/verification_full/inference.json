@@ -1,0 +1,149 @@
+{
+  "mode": "fresh observation-weight inference with retained trial-level prior probabilities",
+  "raw_input": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/ECoG_speech/zhf_work/code_my/data_ecog_eigen_bp/run_20260529_215039/sub-01.h5",
+  "runs": [
+    {
+      "run": 10,
+      "checkpoint": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ECoG_speech_sub-001_cross_session/exp12_calib20_perSession/weights/seed10.pt",
+      "a_obs": 1.6,
+      "a_prior": 1.4000000000000001,
+      "gamma": 0.5
+    },
+    {
+      "run": 11,
+      "checkpoint": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ECoG_speech_sub-001_cross_session/exp12_calib20_perSession/weights/seed11.pt",
+      "a_obs": 1.4000000000000001,
+      "a_prior": 0.4,
+      "gamma": 2.0
+    },
+    {
+      "run": 18,
+      "checkpoint": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ECoG_speech_sub-001_cross_session/exp12_calib20_perSession/weights/seed18.pt",
+      "a_obs": 1.6,
+      "a_prior": 0.6000000000000001,
+      "gamma": 1.0
+    },
+    {
+      "run": 25,
+      "checkpoint": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ECoG_speech_sub-001_cross_session/exp12_calib20_perSession/weights/seed25.pt",
+      "a_obs": 1.2000000000000002,
+      "a_prior": 0.6000000000000001,
+      "gamma": 2.0
+    },
+    {
+      "run": 26,
+      "checkpoint": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ECoG_speech_sub-001_cross_session/exp12_calib20_perSession/weights/seed26.pt",
+      "a_obs": 2.0,
+      "a_prior": 2.4000000000000004,
+      "gamma": 0.5
+    },
+    {
+      "run": 28,
+      "checkpoint": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ECoG_speech_sub-001_cross_session/exp12_calib20_perSession/weights/seed28.pt",
+      "a_obs": 2.0,
+      "a_prior": 0.4,
+      "gamma": 2.0
+    },
+    {
+      "run": 29,
+      "checkpoint": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ECoG_speech_sub-001_cross_session/exp12_calib20_perSession/weights/seed29.pt",
+      "a_obs": 1.2000000000000002,
+      "a_prior": 2.6,
+      "gamma": 0.5
+    },
+    {
+      "run": 42,
+      "checkpoint": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ECoG_speech_sub-001_cross_session/exp12_calib20_perSession/weights/seed42.pt",
+      "a_obs": 2.0,
+      "a_prior": 0.4,
+      "gamma": 2.0
+    },
+    {
+      "run": 45,
+      "checkpoint": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ECoG_speech_sub-001_cross_session/exp12_calib20_perSession/weights/seed45.pt",
+      "a_obs": 2.6,
+      "a_prior": 1.0,
+      "gamma": 0.5
+    },
+    {
+      "run": 48,
+      "checkpoint": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ECoG_speech_sub-001_cross_session/exp12_calib20_perSession/weights/seed48.pt",
+      "a_obs": 1.0,
+      "a_prior": 1.2000000000000002,
+      "gamma": 0.5
+    },
+    {
+      "run": 54,
+      "checkpoint": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ECoG_speech_sub-001_cross_session/exp12_calib20_perSession/weights/seed54.pt",
+      "a_obs": 3.2,
+      "a_prior": 0.8,
+      "gamma": 2.0
+    },
+    {
+      "run": 55,
+      "checkpoint": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ECoG_speech_sub-001_cross_session/exp12_calib20_perSession/weights/seed55.pt",
+      "a_obs": 5.0,
+      "a_prior": 0.4,
+      "gamma": 4.0
+    },
+    {
+      "run": 61,
+      "checkpoint": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ECoG_speech_sub-001_cross_session/exp12_calib20_perSession/weights/seed61.pt",
+      "a_obs": 1.2000000000000002,
+      "a_prior": 1.0,
+      "gamma": 0.5
+    },
+    {
+      "run": 68,
+      "checkpoint": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ECoG_speech_sub-001_cross_session/exp12_calib20_perSession/weights/seed68.pt",
+      "a_obs": 2.8000000000000003,
+      "a_prior": 1.2000000000000002,
+      "gamma": 0.5
+    },
+    {
+      "run": 71,
+      "checkpoint": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ECoG_speech_sub-001_cross_session/exp12_calib20_perSession/weights/seed71.pt",
+      "a_obs": 3.2,
+      "a_prior": 1.0,
+      "gamma": 1.0
+    },
+    {
+      "run": 76,
+      "checkpoint": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ECoG_speech_sub-001_cross_session/exp12_calib20_perSession/weights/seed76.pt",
+      "a_obs": 5.0,
+      "a_prior": 9.200000000000001,
+      "gamma": 0.5
+    },
+    {
+      "run": 84,
+      "checkpoint": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ECoG_speech_sub-001_cross_session/exp12_calib20_perSession/weights/seed84.pt",
+      "a_obs": 1.6,
+      "a_prior": 0.4,
+      "gamma": 2.0
+    },
+    {
+      "run": 88,
+      "checkpoint": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ECoG_speech_sub-001_cross_session/exp12_calib20_perSession/weights/seed88.pt",
+      "a_obs": 3.2,
+      "a_prior": 0.4,
+      "gamma": 4.0
+    },
+    {
+      "run": 92,
+      "checkpoint": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ECoG_speech_sub-001_cross_session/exp12_calib20_perSession/weights/seed92.pt",
+      "a_obs": 1.2000000000000002,
+      "a_prior": 0.8,
+      "gamma": 1.0
+    },
+    {
+      "run": 96,
+      "checkpoint": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/data_check_20260507/Exp_tyf_Results/Exp_ECoG_speech_sub-001_cross_session/exp12_calib20_perSession/weights/seed96.pt",
+      "a_obs": 1.2000000000000002,
+      "a_prior": 3.0,
+      "gamma": 0.5
+    }
+  ],
+  "display": "Sessions are equally spaced; tick labels retain actual elapsed days. Error bars are sample SD across runs.",
+  "prior_input": "/media/wsqlab/data/gy/code/Eigen_brain_decoding/ECoG_speech/zhf_work/code_my/data_ecog_eigen_bp/run_20260529_215039/prior_expert_geom_bandpower_np/p_prior.npy",
+  "selection": "Retained 20-run membership; selection score columns are not used as plotted values."
+}

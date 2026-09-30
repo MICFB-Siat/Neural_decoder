@@ -1,0 +1,1001 @@
+cache_row,stim_id,coco_split,coco_id,native_category_ids,native_categories,eligible,reason,displayed
+0,2951,train2017,262145,"[1, 28, 57]","[""person"", ""umbrella"", ""carrot""]",False,multiple_native_categories,False
+1,2991,train2017,262239,"[1, 49, 50, 60, 79, 82]","[""person"", ""knife"", ""spoon"", ""donut"", ""oven"", ""refrigerator""]",False,multiple_native_categories,False
+2,3050,train2017,262414,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+3,3078,train2017,524646,"[1, 9, 42]","[""person"", ""boat"", ""surfboard""]",False,multiple_native_categories,False
+4,3147,train2017,262690,[85],"[""clock""]",True,included,True
+5,3158,train2017,584,"[50, 51, 56, 57]","[""spoon"", ""bowl"", ""broccoli"", ""carrot""]",False,multiple_native_categories,False
+6,3165,train2017,605,"[47, 50, 67]","[""cup"", ""spoon"", ""dining table""]",False,multiple_native_categories,False
+7,3172,train2017,625,"[1, 34]","[""person"", ""frisbee""]",False,multiple_native_categories,False
+8,3182,train2017,650,"[3, 17]","[""car"", ""cat""]",False,multiple_native_categories,False
+9,3387,train2017,1308,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+10,3435,train2017,263599,[5],"[""airplane""]",False,outside_four_categories,False
+11,3450,train2017,525790,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+12,3490,train2017,525932,[23],"[""bear""]",False,outside_four_categories,False
+13,3627,train2017,264244,"[1, 17, 65, 73, 84]","[""person"", ""cat"", ""bed"", ""laptop"", ""book""]",False,multiple_native_categories,False
+14,3683,train2017,264396,"[3, 7, 11]","[""car"", ""train"", ""fire hydrant""]",False,multiple_native_categories,False
+15,3688,train2017,2270,"[47, 51, 62, 63, 64, 84, 86]","[""cup"", ""bowl"", ""chair"", ""couch"", ""potted plant"", ""book"", ""vase""]",False,multiple_native_categories,False
+16,3730,train2017,2372,"[1, 32, 85]","[""person"", ""tie"", ""clock""]",False,multiple_native_categories,False
+17,3810,train2017,264735,[21],"[""cow""]",False,outside_four_categories,False
+18,3843,train2017,526968,"[1, 8, 37]","[""person"", ""truck"", ""sports ball""]",False,multiple_native_categories,False
+19,3848,train2017,526980,[70],"[""toilet""]",False,outside_four_categories,False
+20,3857,train2017,274108,"[1, 65, 84]","[""person"", ""bed"", ""book""]",False,multiple_native_categories,False
+21,3914,train2017,265023,"[1, 27, 35, 77]","[""person"", ""backpack"", ""skis"", ""cell phone""]",False,multiple_native_categories,False
+22,3952,train2017,265150,[85],"[""clock""]",True,included,True
+23,4052,train2017,265453,"[1, 19]","[""person"", ""horse""]",False,multiple_native_categories,False
+24,4059,train2017,527618,[25],"[""giraffe""]",True,included,False
+25,4130,train2017,3521,"[1, 88]","[""person"", ""teddy bear""]",False,multiple_native_categories,False
+26,4157,train2017,265745,"[47, 53, 67]","[""cup"", ""apple"", ""dining table""]",False,multiple_native_categories,False
+27,4250,train2017,558788,[5],"[""airplane""]",False,outside_four_categories,False
+28,4326,train2017,393907,[16],"[""bird""]",False,outside_four_categories,False
+29,4424,train2017,4442,"[1, 65]","[""person"", ""bed""]",False,multiple_native_categories,False
+30,4437,train2017,266622,"[47, 51, 52, 67]","[""cup"", ""bowl"", ""banana"", ""dining table""]",False,multiple_native_categories,False
+31,4613,train2017,5028,"[1, 51, 62, 63, 73, 75, 79, 84, 86]","[""person"", ""bowl"", ""chair"", ""couch"", ""laptop"", ""remote"", ""oven"", ""book"", ""vase""]",False,multiple_native_categories,False
+32,4668,train2017,267338,"[17, 65]","[""cat"", ""bed""]",False,multiple_native_categories,False
+33,4691,train2017,5277,"[44, 70, 81]","[""bottle"", ""toilet"", ""sink""]",False,multiple_native_categories,False
+34,4769,train2017,267647,"[49, 61]","[""knife"", ""cake""]",False,multiple_native_categories,False
+35,4787,train2017,267699,"[1, 3, 6, 10, 11, 27]","[""person"", ""car"", ""bus"", ""traffic light"", ""fire hydrant"", ""backpack""]",False,multiple_native_categories,False
+36,4836,train2017,5684,"[1, 3, 6]","[""person"", ""car"", ""bus""]",False,multiple_native_categories,False
+37,4870,train2017,312536,[60],"[""donut""]",False,outside_four_categories,False
+38,4893,train2017,268008,"[1, 15, 27, 39, 40]","[""person"", ""bench"", ""backpack"", ""baseball bat"", ""baseball glove""]",False,multiple_native_categories,False
+39,4931,train2017,268114,[9],"[""boat""]",False,outside_four_categories,False
+40,5035,train2017,268418,"[1, 38]","[""person"", ""kite""]",False,multiple_native_categories,False
+41,5107,train2017,268659,[25],"[""giraffe""]",True,included,True
+42,5205,train2017,6765,[7],"[""train""]",True,included,True
+43,5286,train2017,7048,[16],"[""bird""]",False,outside_four_categories,False
+44,5302,train2017,531392,[86],"[""vase""]",False,outside_four_categories,False
+45,5339,train2017,531515,"[1, 3, 38]","[""person"", ""car"", ""kite""]",False,multiple_native_categories,False
+46,5428,train2017,531828,"[1, 60]","[""person"", ""donut""]",False,multiple_native_categories,False
+47,5460,train2017,11299,[5],"[""airplane""]",False,outside_four_categories,False
+48,5503,train2017,219750,"[1, 3, 6, 10, 31]","[""person"", ""car"", ""bus"", ""traffic light"", ""handbag""]",False,multiple_native_categories,False
+49,5543,train2017,7932,"[1, 43]","[""person"", ""tennis racket""]",False,multiple_native_categories,False
+50,5575,train2017,8027,[16],"[""bird""]",False,outside_four_categories,False
+51,5584,train2017,8053,"[1, 11, 31]","[""person"", ""fire hydrant"", ""handbag""]",False,multiple_native_categories,False
+52,5603,train2017,270278,[13],"[""stop sign""]",False,outside_four_categories,False
+53,5715,train2017,532753,[5],"[""airplane""]",False,outside_four_categories,False
+54,5879,train2017,533231,[9],"[""boat""]",False,outside_four_categories,False
+55,5891,train2017,8998,[85],"[""clock""]",True,included,False
+56,6133,train2017,1625,"[2, 6]","[""bicycle"", ""bus""]",False,multiple_native_categories,False
+57,6200,train2017,534259,[7],"[""train""]",True,included,True
+58,6223,train2017,10046,"[44, 50, 51, 54, 58]","[""bottle"", ""spoon"", ""bowl"", ""sandwich"", ""hot dog""]",False,multiple_native_categories,False
+59,6432,train2017,10710,"[1, 39]","[""person"", ""baseball bat""]",False,multiple_native_categories,False
+60,6445,train2017,272901,"[1, 2, 3, 8, 10, 14, 27, 31]","[""person"", ""bicycle"", ""car"", ""truck"", ""traffic light"", ""parking meter"", ""backpack"", ""handbag""]",False,multiple_native_categories,False
+61,6490,train2017,10903,"[62, 64, 67, 86]","[""chair"", ""potted plant"", ""dining table"", ""vase""]",False,multiple_native_categories,False
+62,6515,train2017,273120,"[1, 43]","[""person"", ""tennis racket""]",False,multiple_native_categories,False
+63,6522,train2017,273138,"[50, 51, 56, 57, 67, 84]","[""spoon"", ""bowl"", ""broccoli"", ""carrot"", ""dining table"", ""book""]",False,multiple_native_categories,False
+64,6525,train2017,273147,"[1, 27, 36]","[""person"", ""backpack"", ""snowboard""]",False,multiple_native_categories,False
+65,6559,train2017,273250,"[1, 51, 67]","[""person"", ""bowl"", ""dining table""]",False,multiple_native_categories,False
+66,6641,train2017,11358,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+67,6714,train2017,535871,"[1, 3, 41]","[""person"", ""car"", ""skateboard""]",False,multiple_native_categories,False
+68,6802,train2017,11856,"[1, 15, 31, 56]","[""person"", ""bench"", ""handbag"", ""broccoli""]",False,multiple_native_categories,False
+69,7008,train2017,536786,[24],"[""zebra""]",True,included,True
+70,7040,train2017,536884,[11],"[""fire hydrant""]",False,outside_four_categories,False
+71,7121,train2017,274978,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+72,7208,train2017,537393,[25],"[""giraffe""]",True,included,True
+73,7337,train2017,275663,[56],"[""broccoli""]",False,outside_four_categories,False
+74,7367,train2017,399878,"[1, 38]","[""person"", ""kite""]",False,multiple_native_categories,False
+75,7410,train2017,275902,[7],"[""train""]",True,included,True
+76,7419,train2017,275938,"[1, 38]","[""person"", ""kite""]",False,multiple_native_categories,False
+77,7481,train2017,13969,"[1, 47, 49, 59]","[""person"", ""cup"", ""knife"", ""pizza""]",False,multiple_native_categories,False
+78,7655,train2017,276664,"[9, 44, 46, 47, 50, 81]","[""boat"", ""bottle"", ""wine glass"", ""cup"", ""spoon"", ""sink""]",False,multiple_native_categories,False
+79,7660,train2017,538822,"[1, 75]","[""person"", ""remote""]",False,multiple_native_categories,False
+80,7841,train2017,539340,[88],"[""teddy bear""]",False,outside_four_categories,False
+81,7860,train2017,539395,[7],"[""train""]",True,included,True
+82,7945,train2017,277524,[25],"[""giraffe""]",True,included,False
+83,7949,train2017,570543,"[1, 9]","[""person"", ""boat""]",False,multiple_native_categories,False
+84,7955,train2017,539705,[9],"[""boat""]",False,outside_four_categories,False
+85,8007,train2017,539879,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+86,8110,train2017,300383,"[1, 37, 43]","[""person"", ""sports ball"", ""tennis racket""]",False,multiple_native_categories,False
+87,8205,train2017,540538,[18],"[""dog""]",False,outside_four_categories,False
+88,8226,train2017,16314,[1],"[""person""]",False,outside_four_categories,False
+89,8263,train2017,278555,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+90,8275,train2017,540735,[21],"[""cow""]",False,outside_four_categories,False
+91,8319,train2017,278714,"[63, 64, 86]","[""couch"", ""potted plant"", ""vase""]",False,multiple_native_categories,False
+92,8388,train2017,541077,"[1, 2, 3, 10]","[""person"", ""bicycle"", ""car"", ""traffic light""]",False,multiple_native_categories,False
+93,8395,train2017,278962,"[59, 79]","[""pizza"", ""oven""]",False,multiple_native_categories,False
+94,8416,train2017,16898,[85],"[""clock""]",True,included,True
+95,8436,train2017,541258,"[47, 61, 67]","[""cup"", ""cake"", ""dining table""]",False,multiple_native_categories,False
+96,8466,train2017,279197,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+97,8510,train2017,541472,"[52, 53]","[""banana"", ""apple""]",False,multiple_native_categories,False
+98,8632,train2017,271183,"[1, 17]","[""person"", ""cat""]",False,multiple_native_categories,False
+99,8647,train2017,541856,"[44, 51, 82]","[""bottle"", ""bowl"", ""refrigerator""]",False,multiple_native_categories,False
+100,8808,train2017,17967,"[1, 47, 62, 63, 72, 75, 77, 84]","[""person"", ""cup"", ""chair"", ""couch"", ""tv"", ""remote"", ""cell phone"", ""book""]",False,multiple_native_categories,False
+101,8844,train2017,18078,[85],"[""clock""]",True,included,False
+102,8926,train2017,280484,"[1, 3, 8, 10]","[""person"", ""car"", ""truck"", ""traffic light""]",False,multiple_native_categories,False
+103,8934,train2017,18367,"[1, 19]","[""person"", ""horse""]",False,multiple_native_categories,False
+104,9028,train2017,280764,"[1, 41]","[""person"", ""skateboard""]",False,multiple_native_categories,False
+105,9049,train2017,280808,"[70, 81, 86]","[""toilet"", ""sink"", ""vase""]",False,multiple_native_categories,False
+106,9148,train2017,543254,[16],"[""bird""]",False,outside_four_categories,False
+107,9231,train2017,281330,[9],"[""boat""]",False,outside_four_categories,False
+108,9435,train2017,544060,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+109,9463,train2017,19863,[7],"[""train""]",True,included,True
+110,9681,train2017,20517,"[3, 10, 85]","[""car"", ""traffic light"", ""clock""]",False,multiple_native_categories,False
+111,9723,train2017,544926,"[1, 2]","[""person"", ""bicycle""]",False,multiple_native_categories,False
+112,9805,train2017,545160,"[44, 52, 73, 74, 77, 79, 81, 82]","[""bottle"", ""banana"", ""laptop"", ""mouse"", ""cell phone"", ""oven"", ""sink"", ""refrigerator""]",False,multiple_native_categories,False
+113,9848,train2017,571485,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+114,9866,train2017,21095,"[56, 57]","[""broccoli"", ""carrot""]",False,multiple_native_categories,False
+115,9918,train2017,283426,[5],"[""airplane""]",False,outside_four_categories,False
+116,9979,train2017,396793,"[1, 43, 62]","[""person"", ""tennis racket"", ""chair""]",False,multiple_native_categories,False
+117,10007,train2017,283678,"[1, 15, 37, 39, 40]","[""person"", ""bench"", ""sports ball"", ""baseball bat"", ""baseball glove""]",False,multiple_native_categories,False
+118,10047,train2017,545950,"[1, 19]","[""person"", ""horse""]",False,multiple_native_categories,False
+119,10065,train2017,21718,"[50, 51, 56, 57]","[""spoon"", ""bowl"", ""broccoli"", ""carrot""]",False,multiple_native_categories,False
+120,10106,train2017,546140,[5],"[""airplane""]",False,outside_four_categories,False
+121,10108,train2017,546147,"[1, 15, 27, 62, 73]","[""person"", ""bench"", ""backpack"", ""chair"", ""laptop""]",False,multiple_native_categories,False
+122,10245,train2017,22256,"[31, 44, 51, 53, 55, 62, 67, 85]","[""handbag"", ""bottle"", ""bowl"", ""apple"", ""orange"", ""chair"", ""dining table"", ""clock""]",False,multiple_native_categories,False
+123,10394,train2017,122964,"[46, 78, 81]","[""wine glass"", ""microwave"", ""sink""]",False,multiple_native_categories,False
+124,10472,train2017,22964,"[1, 37, 43]","[""person"", ""sports ball"", ""tennis racket""]",False,multiple_native_categories,False
+125,10508,train2017,547367,[56],"[""broccoli""]",False,outside_four_categories,False
+126,10587,train2017,285450,[81],"[""sink""]",False,outside_four_categories,False
+127,10601,train2017,547644,"[78, 79, 81]","[""microwave"", ""oven"", ""sink""]",False,multiple_native_categories,False
+128,10611,train2017,23392,"[1, 15, 28, 31, 77]","[""person"", ""bench"", ""umbrella"", ""handbag"", ""cell phone""]",False,multiple_native_categories,False
+129,10908,train2017,548593,[81],"[""sink""]",False,outside_four_categories,False
+130,11160,train2017,549301,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+131,11334,train2017,549830,"[1, 16, 42]","[""person"", ""bird"", ""surfboard""]",False,multiple_native_categories,False
+132,11488,train2017,26029,"[1, 62, 64, 67, 73, 86]","[""person"", ""chair"", ""potted plant"", ""dining table"", ""laptop"", ""vase""]",False,multiple_native_categories,False
+133,11522,train2017,550396,"[1, 43]","[""person"", ""tennis racket""]",False,multiple_native_categories,False
+134,11567,train2017,288372,[24],"[""zebra""]",True,included,True
+135,11618,train2017,26388,"[1, 32]","[""person"", ""tie""]",False,multiple_native_categories,False
+136,11636,train2017,26443,"[1, 15, 22]","[""person"", ""bench"", ""elephant""]",False,multiple_native_categories,False
+137,11690,train2017,288751,[9],"[""boat""]",False,outside_four_categories,False
+138,11726,train2017,26702,[25],"[""giraffe""]",True,included,True
+139,11797,train2017,551164,"[64, 86]","[""potted plant"", ""vase""]",False,multiple_native_categories,False
+140,11828,train2017,26981,"[56, 59, 67]","[""broccoli"", ""pizza"", ""dining table""]",False,multiple_native_categories,False
+141,11838,train2017,27002,[4],"[""motorcycle""]",False,outside_four_categories,False
+142,11845,train2017,27030,[65],"[""bed""]",False,outside_four_categories,False
+143,11933,train2017,354070,"[1, 28, 31, 46, 47, 62, 67]","[""person"", ""umbrella"", ""handbag"", ""wine glass"", ""cup"", ""chair"", ""dining table""]",False,multiple_native_categories,False
+144,11943,train2017,27298,"[44, 81]","[""bottle"", ""sink""]",False,multiple_native_categories,False
+145,11953,train2017,289460,"[2, 11]","[""bicycle"", ""fire hydrant""]",False,multiple_native_categories,False
+146,12066,train2017,289791,"[1, 50, 67]","[""person"", ""spoon"", ""dining table""]",False,multiple_native_categories,False
+147,12076,train2017,27665,"[1, 25]","[""person"", ""giraffe""]",False,multiple_native_categories,False
+148,12215,train2017,290192,[5],"[""airplane""]",False,outside_four_categories,False
+149,12309,train2017,552589,[25],"[""giraffe""]",True,included,True
+150,12488,train2017,553150,[5],"[""airplane""]",False,outside_four_categories,False
+151,12496,train2017,553166,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+152,12635,train2017,553586,"[51, 54, 55, 67]","[""bowl"", ""sandwich"", ""orange"", ""dining table""]",False,multiple_native_categories,False
+153,12686,train2017,291560,[11],"[""fire hydrant""]",False,outside_four_categories,False
+154,12797,train2017,29730,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+155,12799,train2017,29732,[24],"[""zebra""]",True,included,True
+156,12923,train2017,30109,"[1, 37]","[""person"", ""sports ball""]",False,multiple_native_categories,False
+157,12938,train2017,30148,"[72, 74, 76, 85]","[""tv"", ""mouse"", ""keyboard"", ""clock""]",False,multiple_native_categories,False
+158,13139,train2017,292845,"[1, 46]","[""person"", ""wine glass""]",False,multiple_native_categories,False
+159,13231,train2017,293130,"[18, 34]","[""dog"", ""frisbee""]",False,multiple_native_categories,False
+160,13313,train2017,293368,"[62, 64, 65, 84]","[""chair"", ""potted plant"", ""bed"", ""book""]",False,multiple_native_categories,False
+161,13315,train2017,293372,"[1, 65]","[""person"", ""bed""]",False,multiple_native_categories,False
+162,13614,train2017,32134,"[1, 3, 37, 43]","[""person"", ""car"", ""sports ball"", ""tennis racket""]",False,multiple_native_categories,False
+163,13654,train2017,556542,"[1, 19]","[""person"", ""horse""]",False,multiple_native_categories,False
+164,13663,train2017,32275,[81],"[""sink""]",False,outside_four_categories,False
+165,13721,train2017,556748,"[1, 6, 32]","[""person"", ""bus"", ""tie""]",False,multiple_native_categories,False
+166,13847,train2017,32809,"[1, 3, 6]","[""person"", ""car"", ""bus""]",False,multiple_native_categories,False
+167,14111,train2017,557848,[15],"[""bench""]",False,outside_four_categories,False
+168,14122,train2017,557886,"[1, 19]","[""person"", ""horse""]",False,multiple_native_categories,False
+169,14166,train2017,33727,[85],"[""clock""]",True,included,True
+170,14180,train2017,33764,"[1, 34, 62]","[""person"", ""frisbee"", ""chair""]",False,multiple_native_categories,False
+171,14444,train2017,558822,[20],"[""sheep""]",False,outside_four_categories,False
+172,14529,train2017,559816,[85],"[""clock""]",True,included,False
+173,14568,train2017,559145,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+174,14595,train2017,559225,[16],"[""bird""]",False,outside_four_categories,False
+175,14611,train2017,297154,[5],"[""airplane""]",False,outside_four_categories,False
+176,14645,train2017,573830,"[56, 67]","[""broccoli"", ""dining table""]",False,multiple_native_categories,False
+177,14794,train2017,355458,"[1, 32]","[""person"", ""tie""]",False,multiple_native_categories,False
+178,14809,train2017,559958,[87],"[""scissors""]",False,outside_four_categories,False
+179,14821,train2017,297844,"[1, 34]","[""person"", ""frisbee""]",False,multiple_native_categories,False
+180,14899,train2017,35927,[16],"[""bird""]",False,outside_four_categories,False
+181,14932,train2017,298170,[7],"[""train""]",True,included,True
+182,15004,train2017,298395,[70],"[""toilet""]",False,outside_four_categories,False
+183,15026,train2017,6053,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+184,15129,train2017,36589,"[1, 65, 88]","[""person"", ""bed"", ""teddy bear""]",False,multiple_native_categories,False
+185,15365,train2017,37358,"[10, 19]","[""traffic light"", ""horse""]",False,multiple_native_categories,False
+186,15493,train2017,37779,"[1, 3, 4]","[""person"", ""car"", ""motorcycle""]",False,multiple_native_categories,False
+187,15507,train2017,37823,[20],"[""sheep""]",False,outside_four_categories,False
+188,15794,train2017,300881,"[1, 25]","[""person"", ""giraffe""]",False,multiple_native_categories,False
+189,15820,train2017,38801,[22],"[""elephant""]",False,outside_four_categories,False
+190,15940,train2017,39196,"[15, 17]","[""bench"", ""cat""]",False,multiple_native_categories,False
+191,16064,train2017,225054,"[1, 36]","[""person"", ""snowboard""]",False,multiple_native_categories,False
+192,16253,train2017,564465,"[53, 55]","[""apple"", ""orange""]",False,multiple_native_categories,False
+193,16345,train2017,302588,"[3, 6, 8]","[""car"", ""bus"", ""truck""]",False,multiple_native_categories,False
+194,16422,train2017,40685,"[17, 65]","[""cat"", ""bed""]",False,multiple_native_categories,False
+195,16467,train2017,574784,"[1, 52, 53, 55]","[""person"", ""banana"", ""apple"", ""orange""]",False,multiple_native_categories,False
+196,16617,train2017,303392,"[63, 64, 67, 72, 75, 86]","[""couch"", ""potted plant"", ""dining table"", ""tv"", ""remote"", ""vase""]",False,multiple_native_categories,False
+197,16636,train2017,303436,"[1, 3, 6, 10]","[""person"", ""car"", ""bus"", ""traffic light""]",False,multiple_native_categories,False
+198,16656,train2017,565652,[24],"[""zebra""]",True,included,True
+199,16703,train2017,565834,[7],"[""train""]",True,included,True
+200,16724,train2017,41606,"[1, 3, 8, 38]","[""person"", ""car"", ""truck"", ""kite""]",False,multiple_native_categories,False
+201,16824,train2017,566201,"[1, 27, 35]","[""person"", ""backpack"", ""skis""]",False,multiple_native_categories,False
+202,16842,train2017,566261,"[1, 3, 4]","[""person"", ""car"", ""motorcycle""]",False,multiple_native_categories,False
+203,16866,train2017,304187,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+204,16869,train2017,566341,[16],"[""bird""]",False,outside_four_categories,False
+205,16918,train2017,263276,"[51, 56, 67]","[""bowl"", ""broccoli"", ""dining table""]",False,multiple_native_categories,False
+206,17049,train2017,42578,[10],"[""traffic light""]",False,outside_four_categories,False
+207,17231,train2017,43150,"[1, 2, 3, 85]","[""person"", ""bicycle"", ""car"", ""clock""]",False,multiple_native_categories,False
+208,17239,train2017,43176,[85],"[""clock""]",True,included,True
+209,17370,train2017,305685,"[1, 32, 47, 51, 62, 63, 67]","[""person"", ""tie"", ""cup"", ""bowl"", ""chair"", ""couch"", ""dining table""]",False,multiple_native_categories,False
+210,17375,train2017,567837,[13],"[""stop sign""]",False,outside_four_categories,False
+211,17451,train2017,43776,[7],"[""train""]",True,included,True
+212,17464,train2017,43815,[7],"[""train""]",True,included,True
+213,17486,train2017,306031,"[44, 51, 70, 81]","[""bottle"", ""bowl"", ""toilet"", ""sink""]",False,multiple_native_categories,False
+214,17550,train2017,306249,"[46, 51, 62, 63, 64, 67, 72, 86]","[""wine glass"", ""bowl"", ""chair"", ""couch"", ""potted plant"", ""dining table"", ""tv"", ""vase""]",False,multiple_native_categories,False
+215,17596,train2017,225829,"[1, 5]","[""person"", ""airplane""]",False,multiple_native_categories,False
+216,17777,train2017,306988,"[1, 15, 16, 27, 31, 62]","[""person"", ""bench"", ""bird"", ""backpack"", ""handbag"", ""chair""]",False,multiple_native_categories,False
+217,17795,train2017,569196,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+218,17935,train2017,219735,"[1, 47, 58, 62, 67]","[""person"", ""cup"", ""hot dog"", ""chair"", ""dining table""]",False,multiple_native_categories,False
+219,17943,train2017,569645,[59],"[""pizza""]",False,outside_four_categories,False
+220,18269,train2017,575701,"[1, 47, 63, 75]","[""person"", ""cup"", ""couch"", ""remote""]",False,multiple_native_categories,False
+221,18435,train2017,308950,[85],"[""clock""]",True,included,False
+222,18484,train2017,309135,[24],"[""zebra""]",True,included,False
+223,18506,train2017,309192,"[1, 58]","[""person"", ""hot dog""]",False,multiple_native_categories,False
+224,18536,train2017,47172,[25],"[""giraffe""]",True,included,True
+225,18544,train2017,571499,"[1, 28]","[""person"", ""umbrella""]",False,multiple_native_categories,False
+226,18691,train2017,47638,[10],"[""traffic light""]",False,outside_four_categories,False
+227,18797,train2017,572215,"[1, 4]","[""person"", ""motorcycle""]",False,multiple_native_categories,False
+228,19075,train2017,310870,[25],"[""giraffe""]",True,included,True
+229,19182,train2017,573337,"[50, 51, 56, 57, 67]","[""spoon"", ""bowl"", ""broccoli"", ""carrot"", ""dining table""]",False,multiple_native_categories,False
+230,19200,train2017,270325,"[7, 10]","[""train"", ""traffic light""]",False,multiple_native_categories,False
+231,19201,train2017,311232,[7],"[""train""]",True,included,True
+232,19293,train2017,532520,"[70, 81]","[""toilet"", ""sink""]",False,multiple_native_categories,False
+233,19437,train2017,312003,"[1, 3, 8, 11, 13, 14]","[""person"", ""car"", ""truck"", ""fire hydrant"", ""stop sign"", ""parking meter""]",False,multiple_native_categories,False
+234,19574,train2017,50256,"[1, 8]","[""person"", ""truck""]",False,multiple_native_categories,False
+235,19643,train2017,574760,"[1, 31, 44, 89]","[""person"", ""handbag"", ""bottle"", ""hair drier""]",False,multiple_native_categories,False
+236,19673,train2017,95809,"[1, 27, 35]","[""person"", ""backpack"", ""skis""]",False,multiple_native_categories,False
+237,19691,train2017,50624,[22],"[""elephant""]",False,outside_four_categories,False
+238,19934,train2017,313480,"[1, 9]","[""person"", ""boat""]",False,multiple_native_categories,False
+239,20055,train2017,575971,"[1, 27, 38]","[""person"", ""backpack"", ""kite""]",False,multiple_native_categories,False
+240,20065,train2017,576011,[33],"[""suitcase""]",False,outside_four_categories,False
+241,20081,train2017,51774,[20],"[""sheep""]",False,outside_four_categories,False
+242,20207,train2017,560396,"[1, 15, 28, 62]","[""person"", ""bench"", ""umbrella"", ""chair""]",False,multiple_native_categories,False
+243,20224,train2017,314379,"[1, 36]","[""person"", ""snowboard""]",False,multiple_native_categories,False
+244,20266,train2017,52348,"[1, 41]","[""person"", ""skateboard""]",False,multiple_native_categories,False
+245,20308,train2017,576749,"[1, 9, 15, 16]","[""person"", ""boat"", ""bench"", ""bird""]",False,multiple_native_categories,False
+246,20443,train2017,576789,"[1, 3, 6, 15]","[""person"", ""car"", ""bus"", ""bench""]",False,multiple_native_categories,False
+247,20634,train2017,455691,"[51, 53, 56, 57, 67]","[""bowl"", ""apple"", ""broccoli"", ""carrot"", ""dining table""]",False,multiple_native_categories,False
+248,20651,train2017,577817,"[1, 37, 43]","[""person"", ""sports ball"", ""tennis racket""]",False,multiple_native_categories,False
+249,20703,train2017,577964,"[1, 43, 62]","[""person"", ""tennis racket"", ""chair""]",False,multiple_native_categories,False
+250,20739,train2017,53778,[21],"[""cow""]",False,outside_four_categories,False
+251,20778,train2017,578169,"[47, 67, 87]","[""cup"", ""dining table"", ""scissors""]",False,multiple_native_categories,False
+252,20821,train2017,54001,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+253,21109,train2017,317061,"[1, 41]","[""person"", ""skateboard""]",False,multiple_native_categories,False
+254,21193,train2017,55184,"[1, 32]","[""person"", ""tie""]",False,multiple_native_categories,False
+255,21195,train2017,9199,"[65, 85]","[""bed"", ""clock""]",False,multiple_native_categories,False
+256,21198,train2017,55206,"[1, 9]","[""person"", ""boat""]",False,multiple_native_categories,False
+257,21219,train2017,55294,"[1, 15, 27, 31, 77]","[""person"", ""bench"", ""backpack"", ""handbag"", ""cell phone""]",False,multiple_native_categories,False
+258,21254,train2017,55402,[25],"[""giraffe""]",True,included,True
+259,21280,train2017,55514,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+260,21319,train2017,317781,"[18, 62]","[""dog"", ""chair""]",False,multiple_native_categories,False
+261,21509,train2017,318381,[59],"[""pizza""]",False,outside_four_categories,False
+262,21527,train2017,318444,"[1, 35, 36]","[""person"", ""skis"", ""snowboard""]",False,multiple_native_categories,False
+263,21554,train2017,1877,[7],"[""train""]",True,included,True
+264,21602,train2017,580813,"[1, 28]","[""person"", ""umbrella""]",False,multiple_native_categories,False
+265,21704,train2017,56837,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+266,21951,train2017,57631,"[1, 8, 18]","[""person"", ""truck"", ""dog""]",False,multiple_native_categories,False
+267,21990,train2017,57796,"[1, 36]","[""person"", ""snowboard""]",False,multiple_native_categories,False
+268,22139,train2017,320533,[25],"[""giraffe""]",True,included,True
+269,22144,train2017,58407,"[47, 86]","[""cup"", ""vase""]",False,multiple_native_categories,False
+270,22156,train2017,58465,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+271,22264,train2017,359337,[23],"[""bear""]",False,outside_four_categories,False
+272,22388,train2017,59321,[85],"[""clock""]",True,included,True
+273,22496,train2017,321902,"[59, 67]","[""pizza"", ""dining table""]",False,multiple_native_categories,False
+274,22506,train2017,403184,"[1, 3, 18]","[""person"", ""car"", ""dog""]",False,multiple_native_categories,False
+275,22516,train2017,322008,"[46, 65]","[""wine glass"", ""bed""]",False,multiple_native_categories,False
+276,22524,train2017,9983,"[1, 46, 47, 49, 50, 51, 67, 77]","[""person"", ""wine glass"", ""cup"", ""knife"", ""spoon"", ""bowl"", ""dining table"", ""cell phone""]",False,multiple_native_categories,False
+277,22531,train2017,9987,[1],"[""person""]",False,outside_four_categories,False
+278,22586,train2017,322246,"[17, 33]","[""cat"", ""suitcase""]",False,multiple_native_categories,False
+279,22588,train2017,322255,"[1, 41]","[""person"", ""skateboard""]",False,multiple_native_categories,False
+280,22773,train2017,323010,"[1, 22]","[""person"", ""elephant""]",False,multiple_native_categories,False
+281,22783,train2017,53842,[85],"[""clock""]",True,included,True
+282,22795,train2017,359687,[9],"[""boat""]",False,outside_four_categories,False
+283,22810,train2017,323182,[85],"[""clock""]",True,included,False
+284,22846,train2017,61174,[25],"[""giraffe""]",True,included,False
+285,22874,train2017,323397,"[1, 31, 77]","[""person"", ""handbag"", ""cell phone""]",False,multiple_native_categories,False
+286,22880,train2017,61266,"[1, 7, 27, 31, 33]","[""person"", ""train"", ""backpack"", ""handbag"", ""suitcase""]",False,multiple_native_categories,False
+287,22887,train2017,61288,"[1, 3, 31, 77]","[""person"", ""car"", ""handbag"", ""cell phone""]",False,multiple_native_categories,False
+288,22958,train2017,61559,[7],"[""train""]",True,included,True
+289,22968,train2017,534553,"[16, 65]","[""bird"", ""bed""]",False,multiple_native_categories,False
+290,22994,train2017,490875,"[1, 37, 43, 85]","[""person"", ""sports ball"", ""tennis racket"", ""clock""]",False,multiple_native_categories,False
+291,23037,train2017,323970,[25],"[""giraffe""]",True,included,True
+292,23242,train2017,62547,"[1, 17, 44, 73, 74, 84]","[""person"", ""cat"", ""bottle"", ""laptop"", ""mouse"", ""book""]",False,multiple_native_categories,False
+293,23493,train2017,325710,"[1, 3, 59, 61]","[""person"", ""car"", ""pizza"", ""cake""]",False,multiple_native_categories,False
+294,23716,train2017,10743,"[1, 28]","[""person"", ""umbrella""]",False,multiple_native_categories,False
+295,23730,train2017,64534,"[1, 40]","[""person"", ""baseball glove""]",False,multiple_native_categories,False
+296,23872,train2017,65012,"[1, 3, 37, 43]","[""person"", ""car"", ""sports ball"", ""tennis racket""]",False,multiple_native_categories,False
+297,23877,train2017,65029,"[1, 47, 64, 86]","[""person"", ""cup"", ""potted plant"", ""vase""]",False,multiple_native_categories,False
+298,23884,train2017,327191,[81],"[""sink""]",False,outside_four_categories,False
+299,23994,train2017,65400,"[1, 18, 44, 52, 53, 55, 85]","[""person"", ""dog"", ""bottle"", ""banana"", ""apple"", ""orange"", ""clock""]",False,multiple_native_categories,False
+300,24203,train2017,66253,"[17, 65]","[""cat"", ""bed""]",False,multiple_native_categories,False
+301,24215,train2017,328454,[25],"[""giraffe""]",True,included,False
+302,24265,train2017,328628,"[1, 37, 43]","[""person"", ""sports ball"", ""tennis racket""]",False,multiple_native_categories,False
+303,24318,train2017,66696,"[63, 67, 72, 75]","[""couch"", ""dining table"", ""tv"", ""remote""]",False,multiple_native_categories,False
+304,24481,train2017,67347,"[1, 7, 10, 15, 31]","[""person"", ""train"", ""traffic light"", ""bench"", ""handbag""]",False,multiple_native_categories,False
+305,24518,train2017,281575,"[1, 22]","[""person"", ""elephant""]",False,multiple_native_categories,False
+306,24531,train2017,329641,[17],"[""cat""]",False,outside_four_categories,False
+307,24561,train2017,67623,[3],"[""car""]",False,outside_four_categories,False
+308,24639,train2017,330084,[23],"[""bear""]",False,outside_four_categories,False
+309,24641,train2017,330086,"[1, 81]","[""person"", ""sink""]",False,multiple_native_categories,False
+310,24650,train2017,67961,[56],"[""broccoli""]",False,outside_four_categories,False
+311,24740,train2017,68238,"[15, 17]","[""bench"", ""cat""]",False,multiple_native_categories,False
+312,24741,train2017,11373,[20],"[""sheep""]",False,outside_four_categories,False
+313,24788,train2017,55090,"[1, 62, 72, 75, 84]","[""person"", ""chair"", ""tv"", ""remote"", ""book""]",False,multiple_native_categories,False
+314,24847,train2017,68623,[22],"[""elephant""]",False,outside_four_categories,False
+315,25060,train2017,246728,"[1, 3, 10, 28]","[""person"", ""car"", ""traffic light"", ""umbrella""]",False,multiple_native_categories,False
+316,25092,train2017,69625,"[1, 15, 27, 31]","[""person"", ""bench"", ""backpack"", ""handbag""]",False,multiple_native_categories,False
+317,25112,train2017,69705,[22],"[""elephant""]",False,outside_four_categories,False
+318,25206,train2017,332261,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+319,25251,train2017,332448,[86],"[""vase""]",False,outside_four_categories,False
+320,25269,train2017,332498,[25],"[""giraffe""]",True,included,False
+321,25285,train2017,70421,"[3, 18]","[""car"", ""dog""]",False,multiple_native_categories,False
+322,25288,train2017,332574,[78],"[""microwave""]",False,outside_four_categories,False
+323,25319,train2017,332692,[23],"[""bear""]",False,outside_four_categories,False
+324,25320,train2017,2349,"[17, 51, 62, 86]","[""cat"", ""bowl"", ""chair"", ""vase""]",False,multiple_native_categories,False
+325,25372,train2017,332875,"[1, 44, 46, 47, 51, 67, 81, 86]","[""person"", ""bottle"", ""wine glass"", ""cup"", ""bowl"", ""dining table"", ""sink"", ""vase""]",False,multiple_native_categories,False
+326,25455,train2017,333152,"[1, 39, 40, 62]","[""person"", ""baseball bat"", ""baseball glove"", ""chair""]",False,multiple_native_categories,False
+327,25571,train2017,71429,[56],"[""broccoli""]",False,outside_four_categories,False
+328,25579,train2017,333615,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+329,25582,train2017,333629,"[1, 36]","[""person"", ""snowboard""]",False,multiple_native_categories,False
+330,25589,train2017,333654,"[1, 3, 6, 8]","[""person"", ""car"", ""bus"", ""truck""]",False,multiple_native_categories,False
+331,25603,train2017,579906,"[1, 4]","[""person"", ""motorcycle""]",False,multiple_native_categories,False
+332,25694,train2017,334011,"[1, 19]","[""person"", ""horse""]",False,multiple_native_categories,False
+333,25703,train2017,334048,[25],"[""giraffe""]",True,included,True
+334,25712,train2017,71927,"[1, 9]","[""person"", ""boat""]",False,multiple_native_categories,False
+335,25742,train2017,334208,"[52, 53, 55, 57]","[""banana"", ""apple"", ""orange"", ""carrot""]",False,multiple_native_categories,False
+336,25747,train2017,72095,"[1, 15, 31, 37, 43, 62]","[""person"", ""bench"", ""handbag"", ""sports ball"", ""tennis racket"", ""chair""]",False,multiple_native_categories,False
+337,25882,train2017,334772,[24],"[""zebra""]",True,included,False
+338,25907,train2017,72715,"[78, 79, 84, 86]","[""microwave"", ""oven"", ""book"", ""vase""]",False,multiple_native_categories,False
+339,25960,train2017,335063,"[1, 41]","[""person"", ""skateboard""]",False,multiple_native_categories,False
+340,26120,train2017,492851,"[1, 31, 44, 59, 62, 67, 84]","[""person"", ""handbag"", ""bottle"", ""pizza"", ""chair"", ""dining table"", ""book""]",False,multiple_native_categories,False
+341,26128,train2017,335688,"[47, 62, 72, 74, 76, 84]","[""cup"", ""chair"", ""tv"", ""mouse"", ""keyboard"", ""book""]",False,multiple_native_categories,False
+342,26164,train2017,335824,"[1, 27, 35]","[""person"", ""backpack"", ""skis""]",False,multiple_native_categories,False
+343,26244,train2017,73997,"[1, 43]","[""person"", ""tennis racket""]",False,multiple_native_categories,False
+344,26293,train2017,281567,"[65, 84]","[""bed"", ""book""]",False,multiple_native_categories,False
+345,26308,train2017,336374,"[1, 9, 42]","[""person"", ""boat"", ""surfboard""]",False,multiple_native_categories,False
+346,26352,train2017,74390,[16],"[""bird""]",False,outside_four_categories,False
+347,26373,train2017,74461,"[1, 15]","[""person"", ""bench""]",False,multiple_native_categories,False
+348,26436,train2017,74714,"[1, 38]","[""person"", ""kite""]",False,multiple_native_categories,False
+349,26459,train2017,74828,[16],"[""bird""]",False,outside_four_categories,False
+350,26599,train2017,337479,[24],"[""zebra""]",True,included,True
+351,26721,train2017,274776,"[16, 47, 62, 72, 74, 76, 84]","[""bird"", ""cup"", ""chair"", ""tv"", ""mouse"", ""keyboard"", ""book""]",False,multiple_native_categories,False
+352,26781,train2017,338169,"[1, 4]","[""person"", ""motorcycle""]",False,multiple_native_categories,False
+353,26896,train2017,76476,"[3, 5]","[""car"", ""airplane""]",False,multiple_native_categories,False
+354,26910,train2017,338670,"[1, 31, 52, 53, 55]","[""person"", ""handbag"", ""banana"", ""apple"", ""orange""]",False,multiple_native_categories,False
+355,26972,train2017,12795,"[1, 43]","[""person"", ""tennis racket""]",False,multiple_native_categories,False
+356,26991,train2017,338987,"[1, 11]","[""person"", ""fire hydrant""]",False,multiple_native_categories,False
+357,27243,train2017,77870,"[17, 73, 74, 76]","[""cat"", ""laptop"", ""mouse"", ""keyboard""]",False,multiple_native_categories,False
+358,27276,train2017,78000,[24],"[""zebra""]",True,included,True
+359,27288,train2017,78042,[1],"[""person""]",False,outside_four_categories,False
+360,27327,train2017,340317,"[1, 3, 10, 11]","[""person"", ""car"", ""traffic light"", ""fire hydrant""]",False,multiple_native_categories,False
+361,27436,train2017,340734,"[8, 18]","[""truck"", ""dog""]",False,multiple_native_categories,False
+362,27569,train2017,79111,"[50, 51, 53]","[""spoon"", ""bowl"", ""apple""]",False,multiple_native_categories,False
+363,27581,train2017,275335,[81],"[""sink""]",False,outside_four_categories,False
+364,27831,train2017,80084,"[1, 44, 47, 50, 51, 79, 81]","[""person"", ""bottle"", ""cup"", ""spoon"", ""bowl"", ""oven"", ""sink""]",False,multiple_native_categories,False
+365,27879,train2017,80275,[22],"[""elephant""]",False,outside_four_categories,False
+366,27973,train2017,80619,"[1, 32]","[""person"", ""tie""]",False,multiple_native_categories,False
+367,28025,train2017,8471,[5],"[""airplane""]",False,outside_four_categories,False
+368,28069,train2017,80987,[22],"[""elephant""]",False,outside_four_categories,False
+369,28097,train2017,81105,"[54, 67]","[""sandwich"", ""dining table""]",False,multiple_native_categories,False
+370,28160,train2017,81365,"[56, 57]","[""broccoli"", ""carrot""]",False,multiple_native_categories,False
+371,28190,train2017,81474,"[22, 25]","[""elephant"", ""giraffe""]",False,multiple_native_categories,False
+372,28287,train2017,81841,"[62, 64, 67, 84, 86]","[""chair"", ""potted plant"", ""dining table"", ""book"", ""vase""]",False,multiple_native_categories,False
+373,28304,train2017,46372,"[1, 27, 28, 31, 62]","[""person"", ""backpack"", ""umbrella"", ""handbag"", ""chair""]",False,multiple_native_categories,False
+374,28320,train2017,81961,"[1, 27, 35]","[""person"", ""backpack"", ""skis""]",False,multiple_native_categories,False
+375,28326,train2017,81995,"[1, 19]","[""person"", ""horse""]",False,multiple_native_categories,False
+376,28342,train2017,450584,"[62, 67, 84, 86]","[""chair"", ""dining table"", ""book"", ""vase""]",False,multiple_native_categories,False
+377,28350,train2017,319517,"[1, 9]","[""person"", ""boat""]",False,multiple_native_categories,False
+378,28419,train2017,569678,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+379,28488,train2017,82650,[7],"[""train""]",True,included,True
+380,28525,train2017,82770,"[3, 42]","[""car"", ""surfboard""]",False,multiple_native_categories,False
+381,28596,train2017,345149,"[1, 36]","[""person"", ""snowboard""]",False,multiple_native_categories,False
+382,28690,train2017,83393,"[3, 10, 85]","[""car"", ""traffic light"", ""clock""]",False,multiple_native_categories,False
+383,28746,train2017,345725,[22],"[""elephant""]",False,outside_four_categories,False
+384,28752,train2017,345751,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+385,28756,train2017,83632,[5],"[""airplane""]",False,outside_four_categories,False
+386,28789,train2017,83738,"[47, 70, 81, 90]","[""cup"", ""toilet"", ""sink"", ""toothbrush""]",False,multiple_native_categories,False
+387,28899,train2017,84174,"[1, 39, 40]","[""person"", ""baseball bat"", ""baseball glove""]",False,multiple_native_categories,False
+388,28964,train2017,346583,"[3, 16]","[""car"", ""bird""]",False,multiple_native_categories,False
+389,29011,train2017,346754,"[47, 50, 51, 62, 67, 78, 79, 81, 82, 86]","[""cup"", ""spoon"", ""bowl"", ""chair"", ""dining table"", ""microwave"", ""oven"", ""sink"", ""refrigerator"", ""vase""]",False,multiple_native_categories,False
+390,29022,train2017,346795,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+391,29382,train2017,348204,[20],"[""sheep""]",False,outside_four_categories,False
+392,29569,train2017,86811,[16],"[""bird""]",False,outside_four_categories,False
+393,29661,train2017,87126,"[44, 47, 64, 72, 81, 82, 86]","[""bottle"", ""cup"", ""potted plant"", ""tv"", ""sink"", ""refrigerator"", ""vase""]",False,multiple_native_categories,False
+394,29664,train2017,87146,"[18, 19]","[""dog"", ""horse""]",False,multiple_native_categories,False
+395,29681,train2017,349363,"[1, 3, 8, 10, 11, 14]","[""person"", ""car"", ""truck"", ""traffic light"", ""fire hydrant"", ""parking meter""]",False,multiple_native_categories,False
+396,29712,train2017,87334,"[17, 47, 62, 63, 75, 77]","[""cat"", ""cup"", ""chair"", ""couch"", ""remote"", ""cell phone""]",False,multiple_native_categories,False
+397,29838,train2017,87871,"[1, 17, 47, 72, 74, 76, 84]","[""person"", ""cat"", ""cup"", ""tv"", ""mouse"", ""keyboard"", ""book""]",False,multiple_native_categories,False
+398,29887,train2017,320508,"[3, 10]","[""car"", ""traffic light""]",False,multiple_native_categories,False
+399,29920,train2017,350299,"[1, 15, 18, 27, 31]","[""person"", ""bench"", ""dog"", ""backpack"", ""handbag""]",False,multiple_native_categories,False
+400,29981,train2017,88414,[7],"[""train""]",True,included,False
+401,30082,train2017,88835,"[3, 8, 10]","[""car"", ""truck"", ""traffic light""]",False,multiple_native_categories,False
+402,30374,train2017,89908,"[1, 47, 51, 81, 86, 89]","[""person"", ""cup"", ""bowl"", ""sink"", ""vase"", ""hair drier""]",False,multiple_native_categories,False
+403,30396,train2017,352129,[23],"[""bear""]",False,outside_four_categories,False
+404,30408,train2017,189765,"[1, 34]","[""person"", ""frisbee""]",False,multiple_native_categories,False
+405,30431,train2017,352236,[10],"[""traffic light""]",False,outside_four_categories,False
+406,30564,train2017,352724,"[47, 52, 84]","[""cup"", ""banana"", ""book""]",False,multiple_native_categories,False
+407,30602,train2017,352861,"[3, 10]","[""car"", ""traffic light""]",False,multiple_native_categories,False
+408,30633,train2017,90827,[18],"[""dog""]",False,outside_four_categories,False
+409,30673,train2017,90994,"[20, 21]","[""sheep"", ""cow""]",False,multiple_native_categories,False
+410,30675,train2017,91005,[4],"[""motorcycle""]",False,outside_four_categories,False
+411,30848,train2017,408492,[25],"[""giraffe""]",True,included,False
+412,30857,train2017,364806,[9],"[""boat""]",False,outside_four_categories,False
+413,30888,train2017,91784,[25],"[""giraffe""]",True,included,True
+414,30923,train2017,354045,"[1, 31, 52, 55]","[""person"", ""handbag"", ""banana"", ""orange""]",False,multiple_native_categories,False
+415,30936,train2017,354095,"[1, 32, 62]","[""person"", ""tie"", ""chair""]",False,multiple_native_categories,False
+416,30955,train2017,92001,"[1, 63, 65, 75]","[""person"", ""couch"", ""bed"", ""remote""]",False,multiple_native_categories,False
+417,31029,train2017,92221,"[1, 3, 15, 31, 44, 77]","[""person"", ""car"", ""bench"", ""handbag"", ""bottle"", ""cell phone""]",False,multiple_native_categories,False
+418,31050,train2017,92288,"[44, 47, 48, 49, 54, 57, 67]","[""bottle"", ""cup"", ""fork"", ""knife"", ""sandwich"", ""carrot"", ""dining table""]",False,multiple_native_categories,False
+419,31065,train2017,92353,"[1, 18, 38]","[""person"", ""dog"", ""kite""]",False,multiple_native_categories,False
+420,31124,train2017,354761,"[64, 79, 82]","[""potted plant"", ""oven"", ""refrigerator""]",False,multiple_native_categories,False
+421,31234,train2017,59194,"[62, 63, 64, 67, 72, 84]","[""chair"", ""couch"", ""potted plant"", ""dining table"", ""tv"", ""book""]",False,multiple_native_categories,False
+422,31350,train2017,355622,[81],"[""sink""]",False,outside_four_categories,False
+423,31447,train2017,277778,[59],"[""pizza""]",False,outside_four_categories,False
+424,31660,train2017,356771,"[1, 41]","[""person"", ""skateboard""]",False,multiple_native_categories,False
+425,31748,train2017,357074,"[1, 4, 32]","[""person"", ""motorcycle"", ""tie""]",False,multiple_native_categories,False
+426,31783,train2017,357228,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+427,31802,train2017,95176,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+428,31838,train2017,95337,"[44, 70, 81]","[""bottle"", ""toilet"", ""sink""]",False,multiple_native_categories,False
+429,31937,train2017,357865,"[47, 70, 81, 90]","[""cup"", ""toilet"", ""sink"", ""toothbrush""]",False,multiple_native_categories,False
+430,31965,train2017,95828,"[62, 72, 73, 74, 76]","[""chair"", ""tv"", ""laptop"", ""mouse"", ""keyboard""]",False,multiple_native_categories,False
+431,32054,train2017,96161,[25],"[""giraffe""]",True,included,False
+432,32233,train2017,359085,"[18, 62]","[""dog"", ""chair""]",False,multiple_native_categories,False
+433,32304,train2017,97201,[16],"[""bird""]",False,outside_four_categories,False
+434,32308,train2017,97218,"[1, 31, 62, 67, 72, 73]","[""person"", ""handbag"", ""chair"", ""dining table"", ""tv"", ""laptop""]",False,multiple_native_categories,False
+435,32626,train2017,98480,"[44, 49, 50, 51, 79, 81]","[""bottle"", ""knife"", ""spoon"", ""bowl"", ""oven"", ""sink""]",False,multiple_native_categories,False
+436,32644,train2017,60117,[20],"[""sheep""]",False,outside_four_categories,False
+437,32717,train2017,147547,[77],"[""cell phone""]",False,outside_four_categories,False
+438,32772,train2017,361193,[24],"[""zebra""]",True,included,True
+439,32773,train2017,361197,"[47, 51, 54, 67]","[""cup"", ""bowl"", ""sandwich"", ""dining table""]",False,multiple_native_categories,False
+440,32858,train2017,99363,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+441,32892,train2017,361648,[15],"[""bench""]",False,outside_four_categories,False
+442,32911,train2017,99580,"[62, 63, 64, 75, 84]","[""chair"", ""couch"", ""potted plant"", ""remote"", ""book""]",False,multiple_native_categories,False
+443,33132,train2017,100396,"[1, 44, 46, 62, 67, 86]","[""person"", ""bottle"", ""wine glass"", ""chair"", ""dining table"", ""vase""]",False,multiple_native_categories,False
+444,33172,train2017,362677,[25],"[""giraffe""]",True,included,True
+445,33190,train2017,100599,"[1, 19]","[""person"", ""horse""]",False,multiple_native_categories,False
+446,33246,train2017,100863,[81],"[""sink""]",False,outside_four_categories,False
+447,33290,train2017,101069,"[1, 7, 10]","[""person"", ""train"", ""traffic light""]",False,multiple_native_categories,False
+448,33522,train2017,101952,"[47, 62, 72, 73, 74, 76, 84]","[""cup"", ""chair"", ""tv"", ""laptop"", ""mouse"", ""keyboard"", ""book""]",False,multiple_native_categories,False
+449,33544,train2017,570785,[85],"[""clock""]",True,included,True
+450,33753,train2017,365003,"[62, 63, 67, 72, 84]","[""chair"", ""couch"", ""dining table"", ""tv"", ""book""]",False,multiple_native_categories,False
+451,33814,train2017,365218,"[1, 52, 53]","[""person"", ""banana"", ""apple""]",False,multiple_native_categories,False
+452,33907,train2017,103366,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+453,34069,train2017,366146,"[1, 6, 35]","[""person"", ""bus"", ""skis""]",False,multiple_native_categories,False
+454,34081,train2017,104044,"[1, 5]","[""person"", ""airplane""]",False,multiple_native_categories,False
+455,34090,train2017,104081,[21],"[""cow""]",False,outside_four_categories,False
+456,34127,train2017,366396,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+457,34187,train2017,104502,"[70, 81]","[""toilet"", ""sink""]",False,multiple_native_categories,False
+458,34239,train2017,366802,[24],"[""zebra""]",True,included,True
+459,34419,train2017,367552,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+460,34604,train2017,106107,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+461,34752,train2017,368852,"[1, 17, 44, 63]","[""person"", ""cat"", ""bottle"", ""couch""]",False,multiple_native_categories,False
+462,34830,train2017,369171,"[1, 41]","[""person"", ""skateboard""]",False,multiple_native_categories,False
+463,34846,train2017,369230,"[19, 21]","[""horse"", ""cow""]",False,multiple_native_categories,False
+464,34851,train2017,369253,"[1, 85]","[""person"", ""clock""]",False,multiple_native_categories,False
+465,34875,train2017,107204,"[1, 3, 32]","[""person"", ""car"", ""tie""]",False,multiple_native_categories,False
+466,34976,train2017,17935,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+467,35095,train2017,542304,[16],"[""bird""]",False,outside_four_categories,False
+468,35130,train2017,370369,[20],"[""sheep""]",False,outside_four_categories,False
+469,35744,train2017,110611,[25],"[""giraffe""]",True,included,True
+470,35753,train2017,372775,"[44, 81]","[""bottle"", ""sink""]",False,multiple_native_categories,False
+471,35791,train2017,110780,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+472,35799,train2017,372959,[24],"[""zebra""]",True,included,False
+473,35987,train2017,373679,[17],"[""cat""]",False,outside_four_categories,False
+474,36068,train2017,373970,"[1, 3, 27, 41, 44]","[""person"", ""car"", ""backpack"", ""skateboard"", ""bottle""]",False,multiple_native_categories,False
+475,36259,train2017,112734,[22],"[""elephant""]",False,outside_four_categories,False
+476,36477,train2017,113593,"[9, 18, 85]","[""boat"", ""dog"", ""clock""]",False,multiple_native_categories,False
+477,36570,train2017,114035,"[1, 81, 82, 85]","[""person"", ""sink"", ""refrigerator"", ""clock""]",False,multiple_native_categories,False
+478,36577,train2017,114077,[85],"[""clock""]",True,included,True
+479,36624,train2017,376407,"[1, 41]","[""person"", ""skateboard""]",False,multiple_native_categories,False
+480,36630,train2017,114274,[15],"[""bench""]",False,outside_four_categories,False
+481,36683,train2017,376643,"[3, 17]","[""car"", ""cat""]",False,multiple_native_categories,False
+482,36732,train2017,376858,[25],"[""giraffe""]",True,included,False
+483,36760,train2017,114822,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+484,36911,train2017,377576,[21],"[""cow""]",False,outside_four_categories,False
+485,36946,train2017,377703,[4],"[""motorcycle""]",False,outside_four_categories,False
+486,36975,train2017,115637,[15],"[""bench""]",False,outside_four_categories,False
+487,36979,train2017,115649,"[49, 61]","[""knife"", ""cake""]",False,multiple_native_categories,False
+488,37060,train2017,115967,"[3, 8, 10]","[""car"", ""truck"", ""traffic light""]",False,multiple_native_categories,False
+489,37222,train2017,116588,"[44, 47, 50, 51, 52, 55, 62, 64, 67, 78, 79, 81, 82]","[""bottle"", ""cup"", ""spoon"", ""bowl"", ""banana"", ""orange"", ""chair"", ""potted plant"", ""dining table"", ""microwave"", ""oven"", ""sink"", ""refrigerator""]",False,multiple_native_categories,False
+490,37225,train2017,116603,"[49, 55]","[""knife"", ""orange""]",False,multiple_native_categories,False
+491,37437,train2017,150636,"[1, 3, 6, 10, 64]","[""person"", ""car"", ""bus"", ""traffic light"", ""potted plant""]",False,multiple_native_categories,False
+492,37495,train2017,379713,"[1, 34]","[""person"", ""frisbee""]",False,multiple_native_categories,False
+493,37609,train2017,380227,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+494,37737,train2017,380729,[3],"[""car""]",False,outside_four_categories,False
+495,37802,train2017,380989,[19],"[""horse""]",False,outside_four_categories,False
+496,37928,train2017,282032,"[1, 38, 42]","[""person"", ""kite"", ""surfboard""]",False,multiple_native_categories,False
+497,38023,train2017,119669,"[19, 21]","[""horse"", ""cow""]",False,multiple_native_categories,False
+498,38026,train2017,575164,"[1, 43]","[""person"", ""tennis racket""]",False,multiple_native_categories,False
+499,38061,train2017,381961,[22],"[""elephant""]",False,outside_four_categories,False
+500,38247,train2017,353175,[22],"[""elephant""]",False,outside_four_categories,False
+501,38279,train2017,120655,"[1, 35, 36]","[""person"", ""skis"", ""snowboard""]",False,multiple_native_categories,False
+502,38298,train2017,382890,[6],"[""bus""]",False,outside_four_categories,False
+503,38311,train2017,382951,[22],"[""elephant""]",False,outside_four_categories,False
+504,38359,train2017,120987,[25],"[""giraffe""]",True,included,False
+505,38484,train2017,383641,[24],"[""zebra""]",True,included,False
+506,38487,train2017,383652,"[44, 82]","[""bottle"", ""refrigerator""]",False,multiple_native_categories,False
+507,38495,train2017,413472,"[1, 60]","[""person"", ""donut""]",False,multiple_native_categories,False
+508,38642,train2017,384235,"[44, 72, 73, 74, 76]","[""bottle"", ""tv"", ""laptop"", ""mouse"", ""keyboard""]",False,multiple_native_categories,False
+509,38795,train2017,544738,"[1, 9, 42]","[""person"", ""boat"", ""surfboard""]",False,multiple_native_categories,False
+510,38818,train2017,122776,[7],"[""train""]",True,included,True
+511,38830,train2017,122811,[7],"[""train""]",True,included,True
+512,38854,train2017,282631,[6],"[""bus""]",False,outside_four_categories,False
+513,38979,train2017,282707,"[44, 49, 51, 53, 79, 80, 82]","[""bottle"", ""knife"", ""bowl"", ""apple"", ""oven"", ""toaster"", ""refrigerator""]",False,multiple_native_categories,False
+514,39048,train2017,123692,"[1, 15, 39, 40]","[""person"", ""bench"", ""baseball bat"", ""baseball glove""]",False,multiple_native_categories,False
+515,39059,train2017,385864,"[52, 53, 55]","[""banana"", ""apple"", ""orange""]",False,multiple_native_categories,False
+516,39096,train2017,123891,[23],"[""bear""]",False,outside_four_categories,False
+517,39290,train2017,124711,"[47, 49, 51, 54, 67]","[""cup"", ""knife"", ""bowl"", ""sandwich"", ""dining table""]",False,multiple_native_categories,False
+518,39299,train2017,124747,[9],"[""boat""]",False,outside_four_categories,False
+519,39370,train2017,125042,"[65, 84]","[""bed"", ""book""]",False,multiple_native_categories,False
+520,39403,train2017,387318,"[47, 54, 60]","[""cup"", ""sandwich"", ""donut""]",False,multiple_native_categories,False
+521,39510,train2017,125586,[24],"[""zebra""]",True,included,False
+522,39548,train2017,125703,"[1, 22]","[""person"", ""elephant""]",False,multiple_native_categories,False
+523,39554,train2017,125725,"[1, 22]","[""person"", ""elephant""]",False,multiple_native_categories,False
+524,39842,train2017,388980,"[1, 8, 19]","[""person"", ""truck"", ""horse""]",False,multiple_native_categories,False
+525,39998,train2017,389582,[24],"[""zebra""]",True,included,True
+526,40154,train2017,390120,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+527,40236,train2017,239828,"[1, 2, 28]","[""person"", ""bicycle"", ""umbrella""]",False,multiple_native_categories,False
+528,40424,train2017,129060,"[1, 35, 36]","[""person"", ""skis"", ""snowboard""]",False,multiple_native_categories,False
+529,40549,train2017,391678,"[1, 70, 90]","[""person"", ""toilet"", ""toothbrush""]",False,multiple_native_categories,False
+530,40576,train2017,391754,"[1, 36]","[""person"", ""snowboard""]",False,multiple_native_categories,False
+531,40722,train2017,130181,[21],"[""cow""]",False,outside_four_categories,False
+532,40771,train2017,392556,[21],"[""cow""]",False,outside_four_categories,False
+533,40841,train2017,130681,[25],"[""giraffe""]",True,included,True
+534,40847,train2017,392851,"[3, 10, 16]","[""car"", ""traffic light"", ""bird""]",False,multiple_native_categories,False
+535,40910,train2017,196584,[22],"[""elephant""]",False,outside_four_categories,False
+536,40921,train2017,371353,[54],"[""sandwich""]",False,outside_four_categories,False
+537,40925,train2017,130973,"[5, 8]","[""airplane"", ""truck""]",False,multiple_native_categories,False
+538,40936,train2017,131011,"[47, 62, 73, 74, 75]","[""cup"", ""chair"", ""laptop"", ""mouse"", ""remote""]",False,multiple_native_categories,False
+539,40980,train2017,21826,[1],"[""person""]",False,outside_four_categories,False
+540,41057,train2017,131524,[85],"[""clock""]",True,included,True
+541,41098,train2017,284089,[16],"[""bird""]",False,outside_four_categories,False
+542,41117,train2017,131763,"[1, 65, 73]","[""person"", ""bed"", ""laptop""]",False,multiple_native_categories,False
+543,41138,train2017,394008,[85],"[""clock""]",True,included,True
+544,41163,train2017,131967,"[1, 9]","[""person"", ""boat""]",False,multiple_native_categories,False
+545,41483,train2017,133281,"[27, 46, 47, 51, 62, 64, 67, 86]","[""backpack"", ""wine glass"", ""cup"", ""bowl"", ""chair"", ""potted plant"", ""dining table"", ""vase""]",False,multiple_native_categories,False
+546,41567,train2017,395758,"[62, 63, 67, 72]","[""chair"", ""couch"", ""dining table"", ""tv""]",False,multiple_native_categories,False
+547,41575,train2017,395775,"[31, 62, 65, 70, 72, 75]","[""handbag"", ""chair"", ""bed"", ""toilet"", ""tv"", ""remote""]",False,multiple_native_categories,False
+548,41624,train2017,197068,[77],"[""cell phone""]",False,outside_four_categories,False
+549,41654,train2017,66014,"[1, 5, 8]","[""person"", ""airplane"", ""truck""]",False,multiple_native_categories,False
+550,41711,train2017,134169,"[1, 32, 77]","[""person"", ""tie"", ""cell phone""]",False,multiple_native_categories,False
+551,41779,train2017,396550,[20],"[""sheep""]",False,outside_four_categories,False
+552,41815,train2017,134562,"[16, 85]","[""bird"", ""clock""]",False,multiple_native_categories,False
+553,41928,train2017,135032,"[15, 18]","[""bench"", ""dog""]",False,multiple_native_categories,False
+554,41935,train2017,397192,[15],"[""bench""]",False,outside_four_categories,False
+555,42008,train2017,135316,[5],"[""airplane""]",False,outside_four_categories,False
+556,42127,train2017,22627,"[17, 65]","[""cat"", ""bed""]",False,multiple_native_categories,False
+557,42167,train2017,398083,"[1, 40]","[""person"", ""baseball glove""]",False,multiple_native_categories,False
+558,42172,train2017,135965,"[1, 38]","[""person"", ""kite""]",False,multiple_native_categories,False
+559,42215,train2017,136111,"[52, 53]","[""banana"", ""apple""]",False,multiple_native_categories,False
+560,42225,train2017,136142,"[44, 48, 50, 51, 52, 53, 56, 57, 62, 67, 82, 86]","[""bottle"", ""fork"", ""spoon"", ""bowl"", ""banana"", ""apple"", ""broccoli"", ""carrot"", ""chair"", ""dining table"", ""refrigerator"", ""vase""]",False,multiple_native_categories,False
+561,42239,train2017,22696,"[1, 47, 48, 49, 59, 62, 64, 67]","[""person"", ""cup"", ""fork"", ""knife"", ""pizza"", ""chair"", ""potted plant"", ""dining table""]",False,multiple_native_categories,False
+562,42300,train2017,398540,[24],"[""zebra""]",True,included,True
+563,42474,train2017,399162,[86],"[""vase""]",False,outside_four_categories,False
+564,42564,train2017,197656,[7],"[""train""]",True,included,True
+565,42643,train2017,399835,[24],"[""zebra""]",True,included,True
+566,42649,train2017,137706,[21],"[""cow""]",False,outside_four_categories,False
+567,42698,train2017,399984,[23],"[""bear""]",False,outside_four_categories,False
+568,42782,train2017,138153,"[70, 81, 86]","[""toilet"", ""sink"", ""vase""]",False,multiple_native_categories,False
+569,42852,train2017,400581,"[28, 62, 64, 67]","[""umbrella"", ""chair"", ""potted plant"", ""dining table""]",False,multiple_native_categories,False
+570,42913,train2017,229233,"[1, 44, 48, 49, 59, 62, 67]","[""person"", ""bottle"", ""fork"", ""knife"", ""pizza"", ""chair"", ""dining table""]",False,multiple_native_categories,False
+571,42947,train2017,138785,"[51, 62, 63, 64, 84, 86, 88]","[""bowl"", ""chair"", ""couch"", ""potted plant"", ""book"", ""vase"", ""teddy bear""]",False,multiple_native_categories,False
+572,42981,train2017,138904,"[70, 81]","[""toilet"", ""sink""]",False,multiple_native_categories,False
+573,43108,train2017,139344,"[3, 25]","[""car"", ""giraffe""]",False,multiple_native_categories,False
+574,43157,train2017,139551,"[1, 43]","[""person"", ""tennis racket""]",False,multiple_native_categories,False
+575,43158,train2017,401699,[21],"[""cow""]",False,outside_four_categories,False
+576,43160,train2017,139561,[19],"[""horse""]",False,outside_four_categories,False
+577,43165,train2017,401720,"[1, 19]","[""person"", ""horse""]",False,multiple_native_categories,False
+578,43225,train2017,139815,"[1, 15, 28]","[""person"", ""bench"", ""umbrella""]",False,multiple_native_categories,False
+579,43251,train2017,402057,"[54, 56]","[""sandwich"", ""broccoli""]",False,multiple_native_categories,False
+580,43289,train2017,402199,[87],"[""scissors""]",False,outside_four_categories,False
+581,43429,train2017,140590,[25],"[""giraffe""]",True,included,True
+582,43430,train2017,198195,"[1, 55]","[""person"", ""orange""]",False,multiple_native_categories,False
+583,43446,train2017,285588,"[1, 37]","[""person"", ""sports ball""]",False,multiple_native_categories,False
+584,43466,train2017,140724,"[1, 19]","[""person"", ""horse""]",False,multiple_native_categories,False
+585,43501,train2017,154556,[22],"[""elephant""]",False,outside_four_categories,False
+586,43620,train2017,403535,[22],"[""elephant""]",False,outside_four_categories,False
+587,43676,train2017,403739,[21],"[""cow""]",False,outside_four_categories,False
+588,43690,train2017,403789,"[1, 19, 32]","[""person"", ""horse"", ""tie""]",False,multiple_native_categories,False
+589,43747,train2017,404007,[25],"[""giraffe""]",True,included,False
+590,43819,train2017,404282,[38],"[""kite""]",False,outside_four_categories,False
+591,43821,train2017,504289,[19],"[""horse""]",False,outside_four_categories,False
+592,43853,train2017,196777,"[1, 4]","[""person"", ""motorcycle""]",False,multiple_native_categories,False
+593,43951,train2017,404823,"[1, 5, 44]","[""person"", ""airplane"", ""bottle""]",False,multiple_native_categories,False
+594,43985,train2017,142803,"[1, 39, 40]","[""person"", ""baseball bat"", ""baseball glove""]",False,multiple_native_categories,False
+595,44053,train2017,405215,[20],"[""sheep""]",False,outside_four_categories,False
+596,44098,train2017,143245,[22],"[""elephant""]",False,outside_four_categories,False
+597,44108,train2017,405437,"[1, 18, 55]","[""person"", ""dog"", ""orange""]",False,multiple_native_categories,False
+598,44139,train2017,388853,"[52, 53, 55]","[""banana"", ""apple"", ""orange""]",False,multiple_native_categories,False
+599,44145,train2017,143420,[59],"[""pizza""]",False,outside_four_categories,False
+600,44185,train2017,143594,"[9, 16]","[""boat"", ""bird""]",False,multiple_native_categories,False
+601,44325,train2017,406292,"[1, 6, 8, 20]","[""person"", ""bus"", ""truck"", ""sheep""]",False,multiple_native_categories,False
+602,44340,train2017,144193,"[1, 25]","[""person"", ""giraffe""]",False,multiple_native_categories,False
+603,44370,train2017,406445,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+604,44413,train2017,406595,[8],"[""truck""]",False,outside_four_categories,False
+605,44706,train2017,407778,"[1, 7, 10]","[""person"", ""train"", ""traffic light""]",False,multiple_native_categories,False
+606,44721,train2017,461187,"[1, 3, 15, 32, 77]","[""person"", ""car"", ""bench"", ""tie"", ""cell phone""]",False,multiple_native_categories,False
+607,44730,train2017,24287,[25],"[""giraffe""]",True,included,True
+608,44737,train2017,504888,"[1, 15]","[""person"", ""bench""]",False,multiple_native_categories,False
+609,44845,train2017,146256,"[1, 22, 62]","[""person"", ""elephant"", ""chair""]",False,multiple_native_categories,False
+610,44972,train2017,408922,[4],"[""motorcycle""]",False,outside_four_categories,False
+611,44981,train2017,408965,[5],"[""airplane""]",False,outside_four_categories,False
+612,45130,train2017,147331,"[1, 2, 3, 64, 84]","[""person"", ""bicycle"", ""car"", ""potted plant"", ""book""]",False,multiple_native_categories,False
+613,45214,train2017,147694,"[1, 14, 17, 31]","[""person"", ""parking meter"", ""cat"", ""handbag""]",False,multiple_native_categories,False
+614,45357,train2017,148263,[17],"[""cat""]",False,outside_four_categories,False
+615,45596,train2017,149221,"[1, 44, 46, 47, 67]","[""person"", ""bottle"", ""wine glass"", ""cup"", ""dining table""]",False,multiple_native_categories,False
+616,45633,train2017,411475,[23],"[""bear""]",False,outside_four_categories,False
+617,45747,train2017,149791,"[47, 81, 86]","[""cup"", ""sink"", ""vase""]",False,multiple_native_categories,False
+618,45751,train2017,149810,"[1, 9, 42]","[""person"", ""boat"", ""surfboard""]",False,multiple_native_categories,False
+619,45838,train2017,153394,"[1, 40]","[""person"", ""baseball glove""]",False,multiple_native_categories,False
+620,45844,train2017,150196,"[3, 6, 8, 10]","[""car"", ""bus"", ""truck"", ""traffic light""]",False,multiple_native_categories,False
+621,45946,train2017,150559,"[1, 2, 3, 8, 31, 77]","[""person"", ""bicycle"", ""car"", ""truck"", ""handbag"", ""cell phone""]",False,multiple_native_categories,False
+622,45982,train2017,412855,"[10, 13]","[""traffic light"", ""stop sign""]",False,multiple_native_categories,False
+623,45983,train2017,412857,[25],"[""giraffe""]",True,included,True
+624,46000,train2017,369367,[20],"[""sheep""]",False,outside_four_categories,False
+625,46003,train2017,412922,[21],"[""cow""]",False,outside_four_categories,False
+626,46037,train2017,150931,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+627,46102,train2017,151163,"[1, 15]","[""person"", ""bench""]",False,multiple_native_categories,False
+628,46137,train2017,151307,[85],"[""clock""]",True,included,True
+629,46151,train2017,462134,"[1, 41]","[""person"", ""skateboard""]",False,multiple_native_categories,False
+630,46161,train2017,151414,"[17, 63]","[""cat"", ""couch""]",False,multiple_native_categories,False
+631,46275,train2017,68996,[25],"[""giraffe""]",True,included,True
+632,46322,train2017,414176,[16],"[""bird""]",False,outside_four_categories,False
+633,46373,train2017,152273,"[47, 67, 77]","[""cup"", ""dining table"", ""cell phone""]",False,multiple_native_categories,False
+634,46381,train2017,152328,"[1, 2, 31]","[""person"", ""bicycle"", ""handbag""]",False,multiple_native_categories,False
+635,46461,train2017,549729,"[62, 63, 64, 67, 72, 73, 75]","[""chair"", ""couch"", ""potted plant"", ""dining table"", ""tv"", ""laptop"", ""remote""]",False,multiple_native_categories,False
+636,46463,train2017,506039,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+637,46481,train2017,414853,[19],"[""horse""]",False,outside_four_categories,False
+638,46524,train2017,415026,[18],"[""dog""]",False,outside_four_categories,False
+639,46643,train2017,162230,"[61, 79]","[""cake"", ""oven""]",False,multiple_native_categories,False
+640,46662,train2017,415608,[9],"[""boat""]",False,outside_four_categories,False
+641,46807,train2017,154011,[23],"[""bear""]",False,outside_four_categories,False
+642,46836,train2017,416279,"[8, 9]","[""truck"", ""boat""]",False,multiple_native_categories,False
+643,46862,train2017,154207,[65],"[""bed""]",False,outside_four_categories,False
+644,47034,train2017,416972,[85],"[""clock""]",True,included,True
+645,47071,train2017,417141,"[51, 59, 67]","[""bowl"", ""pizza"", ""dining table""]",False,multiple_native_categories,False
+646,47100,train2017,417264,"[1, 27, 35]","[""person"", ""backpack"", ""skis""]",False,multiple_native_categories,False
+647,47201,train2017,417700,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+648,47291,train2017,418115,"[46, 47, 62, 63, 64, 72, 84, 86]","[""wine glass"", ""cup"", ""chair"", ""couch"", ""potted plant"", ""tv"", ""book"", ""vase""]",False,multiple_native_categories,False
+649,47294,train2017,419212,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+650,47322,train2017,156084,"[1, 28]","[""person"", ""umbrella""]",False,multiple_native_categories,False
+651,47409,train2017,113449,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+652,47599,train2017,157119,"[18, 65]","[""dog"", ""bed""]",False,multiple_native_categories,False
+653,47601,train2017,157125,"[1, 77]","[""person"", ""cell phone""]",False,multiple_native_categories,False
+654,47615,train2017,157181,[15],"[""bench""]",False,outside_four_categories,False
+655,47657,train2017,157342,"[51, 55]","[""bowl"", ""orange""]",False,multiple_native_categories,False
+656,47688,train2017,419586,"[1, 44, 57, 59, 67]","[""person"", ""bottle"", ""carrot"", ""pizza"", ""dining table""]",False,multiple_native_categories,False
+657,48158,train2017,563961,"[64, 70, 81]","[""potted plant"", ""toilet"", ""sink""]",False,multiple_native_categories,False
+658,48261,train2017,159680,[85],"[""clock""]",True,included,True
+659,48375,train2017,422268,[85],"[""clock""]",True,included,True
+660,48380,train2017,160142,"[47, 63, 72, 75, 84]","[""cup"", ""couch"", ""tv"", ""remote"", ""book""]",False,multiple_native_categories,False
+661,48394,train2017,160181,"[1, 44, 60, 62, 67, 86]","[""person"", ""bottle"", ""donut"", ""chair"", ""dining table"", ""vase""]",False,multiple_native_categories,False
+662,48423,train2017,463620,[7],"[""train""]",True,included,True
+663,48509,train2017,551063,[24],"[""zebra""]",True,included,False
+664,48531,train2017,160735,"[1, 36]","[""person"", ""snowboard""]",False,multiple_native_categories,False
+665,48618,train2017,161062,[5],"[""airplane""]",False,outside_four_categories,False
+666,48619,train2017,423209,"[3, 5, 8]","[""car"", ""airplane"", ""truck""]",False,multiple_native_categories,False
+667,48623,train2017,423222,"[46, 62, 67]","[""wine glass"", ""chair"", ""dining table""]",False,multiple_native_categories,False
+668,48680,train2017,161328,"[1, 37, 43]","[""person"", ""sports ball"", ""tennis racket""]",False,multiple_native_categories,False
+669,48682,train2017,423488,"[44, 62, 73, 74, 77]","[""bottle"", ""chair"", ""laptop"", ""mouse"", ""cell phone""]",False,multiple_native_categories,False
+670,48803,train2017,161836,[4],"[""motorcycle""]",False,outside_four_categories,False
+671,48833,train2017,424110,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+672,48840,train2017,424138,"[18, 21]","[""dog"", ""cow""]",False,multiple_native_categories,False
+673,49077,train2017,425135,[81],"[""sink""]",False,outside_four_categories,False
+674,49153,train2017,163250,[16],"[""bird""]",False,outside_four_categories,False
+675,49157,train2017,163263,"[1, 21, 27]","[""person"", ""cow"", ""backpack""]",False,multiple_native_categories,False
+676,49235,train2017,425712,"[73, 74, 77, 84]","[""laptop"", ""mouse"", ""cell phone"", ""book""]",False,multiple_native_categories,False
+677,49467,train2017,164502,[24],"[""zebra""]",True,included,True
+678,49481,train2017,164564,"[1, 63, 88]","[""person"", ""couch"", ""teddy bear""]",False,multiple_native_categories,False
+679,49623,train2017,485595,"[1, 15, 32, 62]","[""person"", ""bench"", ""tie"", ""chair""]",False,multiple_native_categories,False
+680,49732,train2017,427729,[21],"[""cow""]",False,outside_four_categories,False
+681,49924,train2017,14269,"[1, 27, 35]","[""person"", ""backpack"", ""skis""]",False,multiple_native_categories,False
+682,49945,train2017,428605,"[1, 11]","[""person"", ""fire hydrant""]",False,multiple_native_categories,False
+683,49956,train2017,166489,"[1, 39, 40]","[""person"", ""baseball bat"", ""baseball glove""]",False,multiple_native_categories,False
+684,49958,train2017,166504,"[1, 43]","[""person"", ""tennis racket""]",False,multiple_native_categories,False
+685,49970,train2017,428691,"[1, 9]","[""person"", ""boat""]",False,multiple_native_categories,False
+686,49980,train2017,428726,"[1, 40]","[""person"", ""baseball glove""]",False,multiple_native_categories,False
+687,50027,train2017,166764,"[1, 39, 40]","[""person"", ""baseball bat"", ""baseball glove""]",False,multiple_native_categories,False
+688,50115,train2017,508456,[24],"[""zebra""]",True,included,False
+689,50171,train2017,43829,"[1, 36]","[""person"", ""snowboard""]",False,multiple_native_categories,False
+690,50501,train2017,168690,"[62, 63, 65, 73, 74, 75, 76, 77]","[""chair"", ""couch"", ""bed"", ""laptop"", ""mouse"", ""remote"", ""keyboard"", ""cell phone""]",False,multiple_native_categories,False
+691,50654,train2017,169262,"[62, 67, 86]","[""chair"", ""dining table"", ""vase""]",False,multiple_native_categories,False
+692,50735,train2017,431764,"[1, 7]","[""person"", ""train""]",False,multiple_native_categories,False
+693,50756,train2017,431825,[25],"[""giraffe""]",True,included,False
+694,50812,train2017,284987,[19],"[""horse""]",False,outside_four_categories,False
+695,50883,train2017,28367,[22],"[""elephant""]",False,outside_four_categories,False
+696,51052,train2017,433019,[70],"[""toilet""]",False,outside_four_categories,False
+697,51053,train2017,433021,[13],"[""stop sign""]",False,outside_four_categories,False
+698,51063,train2017,170917,"[1, 31, 62, 73, 74, 76]","[""person"", ""handbag"", ""chair"", ""laptop"", ""mouse"", ""keyboard""]",False,multiple_native_categories,False
+699,51078,train2017,170968,[33],"[""suitcase""]",False,outside_four_categories,False
+700,51149,train2017,79701,"[1, 32]","[""person"", ""tie""]",False,multiple_native_categories,False
+701,51172,train2017,171328,[55],"[""orange""]",False,outside_four_categories,False
+702,51186,train2017,171374,"[17, 62, 65]","[""cat"", ""chair"", ""bed""]",False,multiple_native_categories,False
+703,51522,train2017,420713,"[52, 53, 57, 62, 67, 86]","[""banana"", ""apple"", ""carrot"", ""chair"", ""dining table"", ""vase""]",False,multiple_native_categories,False
+704,51746,train2017,28930,[23],"[""bear""]",False,outside_four_categories,False
+705,51789,train2017,435902,[25],"[""giraffe""]",True,included,False
+706,51844,train2017,173987,[18],"[""dog""]",False,outside_four_categories,False
+707,51908,train2017,174213,[1],"[""person""]",False,outside_four_categories,False
+708,51929,train2017,174303,"[1, 63, 75]","[""person"", ""couch"", ""remote""]",False,multiple_native_categories,False
+709,51966,train2017,436578,[23],"[""bear""]",False,outside_four_categories,False
+710,51984,train2017,174504,"[1, 36]","[""person"", ""snowboard""]",False,multiple_native_categories,False
+711,51989,train2017,174522,"[1, 34]","[""person"", ""frisbee""]",False,multiple_native_categories,False
+712,52071,train2017,291280,[4],"[""motorcycle""]",False,outside_four_categories,False
+713,52217,train2017,437516,"[1, 41, 77]","[""person"", ""skateboard"", ""cell phone""]",False,multiple_native_categories,False
+714,52303,train2017,175715,[19],"[""horse""]",False,outside_four_categories,False
+715,52329,train2017,437967,"[51, 56, 67]","[""bowl"", ""broccoli"", ""dining table""]",False,multiple_native_categories,False
+716,52376,train2017,438154,"[1, 21]","[""person"", ""cow""]",False,multiple_native_categories,False
+717,52395,train2017,176085,"[52, 55, 67]","[""banana"", ""orange"", ""dining table""]",False,multiple_native_categories,False
+718,52528,train2017,438751,"[8, 18]","[""truck"", ""dog""]",False,multiple_native_categories,False
+719,52555,train2017,176728,[85],"[""clock""]",True,included,False
+720,52597,train2017,176873,"[1, 2, 3, 10, 31, 62, 64]","[""person"", ""bicycle"", ""car"", ""traffic light"", ""handbag"", ""chair"", ""potted plant""]",False,multiple_native_categories,False
+721,52599,train2017,73172,"[1, 31, 33, 77]","[""person"", ""handbag"", ""suitcase"", ""cell phone""]",False,multiple_native_categories,False
+722,52653,train2017,439241,"[44, 70, 81, 89]","[""bottle"", ""toilet"", ""sink"", ""hair drier""]",False,multiple_native_categories,False
+723,52893,train2017,178031,"[1, 19]","[""person"", ""horse""]",False,multiple_native_categories,False
+724,52932,train2017,440334,[52],"[""banana""]",False,outside_four_categories,False
+725,52991,train2017,178423,[7],"[""train""]",True,included,False
+726,53053,train2017,440792,[85],"[""clock""]",True,included,True
+727,53071,train2017,395740,"[1, 28, 62]","[""person"", ""umbrella"", ""chair""]",False,multiple_native_categories,False
+728,53153,train2017,179019,"[79, 82]","[""oven"", ""refrigerator""]",False,multiple_native_categories,False
+729,53156,train2017,441172,"[1, 10, 28, 31]","[""person"", ""traffic light"", ""umbrella"", ""handbag""]",False,multiple_native_categories,False
+730,53158,train2017,179034,"[1, 15, 17, 31]","[""person"", ""bench"", ""cat"", ""handbag""]",False,multiple_native_categories,False
+731,53271,train2017,179480,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+732,53371,train2017,179914,"[1, 38]","[""person"", ""kite""]",False,multiple_native_categories,False
+733,53490,train2017,442489,"[44, 50, 51, 56, 67]","[""bottle"", ""spoon"", ""bowl"", ""broccoli"", ""dining table""]",False,multiple_native_categories,False
+734,53512,train2017,180410,"[1, 43]","[""person"", ""tennis racket""]",False,multiple_native_categories,False
+735,53571,train2017,180609,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+736,53728,train2017,443377,"[1, 7]","[""person"", ""train""]",False,multiple_native_categories,False
+737,53729,train2017,204969,[87],"[""scissors""]",False,outside_four_categories,False
+738,53774,train2017,443575,"[62, 64, 72, 76, 84, 86]","[""chair"", ""potted plant"", ""tv"", ""keyboard"", ""book"", ""vase""]",False,multiple_native_categories,False
+739,53859,train2017,161354,[81],"[""sink""]",False,outside_four_categories,False
+740,53882,train2017,443940,[16],"[""bird""]",False,outside_four_categories,False
+741,53892,train2017,181837,"[1, 2, 15]","[""person"", ""bicycle"", ""bench""]",False,multiple_native_categories,False
+742,54079,train2017,189388,"[44, 81]","[""bottle"", ""sink""]",False,multiple_native_categories,False
+743,54148,train2017,182799,"[1, 31, 77]","[""person"", ""handbag"", ""cell phone""]",False,multiple_native_categories,False
+744,54258,train2017,445351,[18],"[""dog""]",False,outside_four_categories,False
+745,54362,train2017,445726,[85],"[""clock""]",True,included,True
+746,54390,train2017,183719,[25],"[""giraffe""]",True,included,True
+747,54644,train2017,184822,"[1, 6]","[""person"", ""bus""]",False,multiple_native_categories,False
+748,54684,train2017,447130,"[1, 41]","[""person"", ""skateboard""]",False,multiple_native_categories,False
+749,54699,train2017,447182,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+750,54744,train2017,185225,"[51, 58]","[""bowl"", ""hot dog""]",False,multiple_native_categories,False
+751,54813,train2017,36151,"[1, 39, 40]","[""person"", ""baseball bat"", ""baseball glove""]",False,multiple_native_categories,False
+752,54825,train2017,6178,"[70, 81]","[""toilet"", ""sink""]",False,multiple_native_categories,False
+753,54914,train2017,185888,[5],"[""airplane""]",False,outside_four_categories,False
+754,54960,train2017,55764,"[1, 37, 39, 40]","[""person"", ""sports ball"", ""baseball bat"", ""baseball glove""]",False,multiple_native_categories,False
+755,55006,train2017,448401,[7],"[""train""]",True,included,True
+756,55108,train2017,442666,"[1, 77]","[""person"", ""cell phone""]",False,multiple_native_categories,False
+757,55164,train2017,186828,[70],"[""toilet""]",False,outside_four_categories,False
+758,55406,train2017,449914,"[1, 37, 40]","[""person"", ""sports ball"", ""baseball glove""]",False,multiple_native_categories,False
+759,55409,train2017,276853,"[3, 11, 13]","[""car"", ""fire hydrant"", ""stop sign""]",False,multiple_native_categories,False
+760,55527,train2017,188225,"[1, 5]","[""person"", ""airplane""]",False,multiple_native_categories,False
+761,55650,train2017,188660,[16],"[""bird""]",False,outside_four_categories,False
+762,55670,train2017,450864,"[1, 44, 46, 47, 48, 49, 50, 51, 55, 59, 62, 67]","[""person"", ""bottle"", ""wine glass"", ""cup"", ""fork"", ""knife"", ""spoon"", ""bowl"", ""orange"", ""pizza"", ""chair"", ""dining table""]",False,multiple_native_categories,False
+763,55679,train2017,450903,"[1, 37, 40]","[""person"", ""sports ball"", ""baseball glove""]",False,multiple_native_categories,False
+764,55681,train2017,450914,"[51, 52, 53, 55]","[""bowl"", ""banana"", ""apple"", ""orange""]",False,multiple_native_categories,False
+765,55858,train2017,451680,"[1, 88]","[""person"", ""teddy bear""]",False,multiple_native_categories,False
+766,55934,train2017,189794,"[1, 2, 3, 15, 27]","[""person"", ""bicycle"", ""car"", ""bench"", ""backpack""]",False,multiple_native_categories,False
+767,55969,train2017,189888,"[4, 8]","[""motorcycle"", ""truck""]",False,multiple_native_categories,False
+768,55970,train2017,189893,"[44, 81, 89]","[""bottle"", ""sink"", ""hair drier""]",False,multiple_native_categories,False
+769,56043,train2017,452341,[25],"[""giraffe""]",True,included,True
+770,56067,train2017,190271,[16],"[""bird""]",False,outside_four_categories,False
+771,56127,train2017,190487,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+772,56155,train2017,303133,"[16, 85]","[""bird"", ""clock""]",False,multiple_native_categories,False
+773,56270,train2017,191005,[25],"[""giraffe""]",True,included,False
+774,56291,train2017,453221,"[1, 4]","[""person"", ""motorcycle""]",False,multiple_native_categories,False
+775,56315,train2017,468771,"[1, 25]","[""person"", ""giraffe""]",False,multiple_native_categories,False
+776,56419,train2017,453682,"[1, 15, 37, 39, 40]","[""person"", ""bench"", ""sports ball"", ""baseball bat"", ""baseball glove""]",False,multiple_native_categories,False
+777,56455,train2017,191686,[23],"[""bear""]",False,outside_four_categories,False
+778,56472,train2017,191740,"[50, 51, 57, 67]","[""spoon"", ""bowl"", ""carrot"", ""dining table""]",False,multiple_native_categories,False
+779,56671,train2017,192576,"[6, 27, 31, 33]","[""bus"", ""backpack"", ""handbag"", ""suitcase""]",False,multiple_native_categories,False
+780,56682,train2017,192631,[56],"[""broccoli""]",False,outside_four_categories,False
+781,56696,train2017,454830,[1],"[""person""]",False,outside_four_categories,False
+782,56724,train2017,454915,"[72, 74, 76]","[""tv"", ""mouse"", ""keyboard""]",False,multiple_native_categories,False
+783,56752,train2017,455020,"[72, 74, 76]","[""tv"", ""mouse"", ""keyboard""]",False,multiple_native_categories,False
+784,56783,train2017,119550,"[64, 86]","[""potted plant"", ""vase""]",False,multiple_native_categories,False
+785,56785,train2017,193023,"[1, 11]","[""person"", ""fire hydrant""]",False,multiple_native_categories,False
+786,56851,train2017,193318,"[1, 3, 41]","[""person"", ""car"", ""skateboard""]",False,multiple_native_categories,False
+787,56868,train2017,193373,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+788,56912,train2017,455657,"[47, 64, 86]","[""cup"", ""potted plant"", ""vase""]",False,multiple_native_categories,False
+789,56949,train2017,455799,"[1, 59, 67]","[""person"", ""pizza"", ""dining table""]",False,multiple_native_categories,False
+790,57047,train2017,194054,"[70, 81]","[""toilet"", ""sink""]",False,multiple_native_categories,False
+791,57061,train2017,194108,"[1, 2, 3, 10, 15, 31, 85]","[""person"", ""bicycle"", ""car"", ""traffic light"", ""bench"", ""handbag"", ""clock""]",False,multiple_native_categories,False
+792,57436,train2017,338439,"[1, 15, 37, 43]","[""person"", ""bench"", ""sports ball"", ""tennis racket""]",False,multiple_native_categories,False
+793,57444,train2017,195650,[85],"[""clock""]",True,included,True
+794,57479,train2017,195768,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+795,57543,train2017,338501,"[1, 37, 40]","[""person"", ""sports ball"", ""baseball glove""]",False,multiple_native_categories,False
+796,57554,train2017,458178,"[65, 72, 76]","[""bed"", ""tv"", ""keyboard""]",False,multiple_native_categories,False
+797,57649,train2017,196365,"[1, 37, 43]","[""person"", ""sports ball"", ""tennis racket""]",False,multiple_native_categories,False
+798,57651,train2017,196368,"[64, 70, 81, 86]","[""potted plant"", ""toilet"", ""sink"", ""vase""]",False,multiple_native_categories,False
+799,57682,train2017,458616,"[1, 47, 51, 54, 67]","[""person"", ""cup"", ""bowl"", ""sandwich"", ""dining table""]",False,multiple_native_categories,False
+800,57823,train2017,459190,[60],"[""donut""]",False,outside_four_categories,False
+801,57839,train2017,197118,[19],"[""horse""]",False,outside_four_categories,False
+802,57907,train2017,197401,[24],"[""zebra""]",True,included,True
+803,58097,train2017,460236,[21],"[""cow""]",False,outside_four_categories,False
+804,58145,train2017,460408,"[44, 48, 50, 53, 56, 57]","[""bottle"", ""fork"", ""spoon"", ""apple"", ""broccoli"", ""carrot""]",False,multiple_native_categories,False
+805,58165,train2017,198319,"[1, 3, 8]","[""person"", ""car"", ""truck""]",False,multiple_native_categories,False
+806,58188,train2017,397815,"[1, 28, 31, 40]","[""person"", ""umbrella"", ""handbag"", ""baseball glove""]",False,multiple_native_categories,False
+807,58405,train2017,461428,"[72, 74, 76, 87]","[""tv"", ""mouse"", ""keyboard"", ""scissors""]",False,multiple_native_categories,False
+808,58669,train2017,462505,"[1, 3, 6]","[""person"", ""car"", ""bus""]",False,multiple_native_categories,False
+809,58682,train2017,200391,[5],"[""airplane""]",False,outside_four_categories,False
+810,59024,train2017,201722,[16],"[""bird""]",False,outside_four_categories,False
+811,59040,train2017,201758,[25],"[""giraffe""]",True,included,False
+812,59047,train2017,557920,[7],"[""train""]",True,included,True
+813,59080,train2017,201969,"[1, 9, 15, 18]","[""person"", ""boat"", ""bench"", ""dog""]",False,multiple_native_categories,False
+814,59092,train2017,202050,[9],"[""boat""]",False,outside_four_categories,False
+815,59195,train2017,464616,"[1, 22]","[""person"", ""elephant""]",False,multiple_native_categories,False
+816,59285,train2017,202805,"[1, 34]","[""person"", ""frisbee""]",False,multiple_native_categories,False
+817,59420,train2017,465412,"[1, 37, 43]","[""person"", ""sports ball"", ""tennis racket""]",False,multiple_native_categories,False
+818,59421,train2017,298139,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+819,59586,train2017,203937,"[73, 74, 76]","[""laptop"", ""mouse"", ""keyboard""]",False,multiple_native_categories,False
+820,59596,train2017,77686,"[1, 63, 75]","[""person"", ""couch"", ""remote""]",False,multiple_native_categories,False
+821,59632,train2017,466265,[24],"[""zebra""]",True,included,True
+822,59700,train2017,204422,"[1, 35, 36]","[""person"", ""skis"", ""snowboard""]",False,multiple_native_categories,False
+823,59818,train2017,204806,[23],"[""bear""]",False,outside_four_categories,False
+824,59995,train2017,467646,"[1, 28, 62]","[""person"", ""umbrella"", ""chair""]",False,multiple_native_categories,False
+825,60095,train2017,205875,[65],"[""bed""]",False,outside_four_categories,False
+826,60120,train2017,296474,"[1, 7, 27, 31, 33]","[""person"", ""train"", ""backpack"", ""handbag"", ""suitcase""]",False,multiple_native_categories,False
+827,60187,train2017,468394,"[1, 15, 62]","[""person"", ""bench"", ""chair""]",False,multiple_native_categories,False
+828,60252,train2017,206467,"[1, 3, 7, 15]","[""person"", ""car"", ""train"", ""bench""]",False,multiple_native_categories,False
+829,60306,train2017,468825,"[1, 43]","[""person"", ""tennis racket""]",False,multiple_native_categories,False
+830,60457,train2017,469445,[59],"[""pizza""]",False,outside_four_categories,False
+831,60506,train2017,203615,[16],"[""bird""]",False,outside_four_categories,False
+832,60520,train2017,207549,"[8, 25]","[""truck"", ""giraffe""]",False,multiple_native_categories,False
+833,60554,train2017,469816,"[10, 13]","[""traffic light"", ""stop sign""]",False,multiple_native_categories,False
+834,60726,train2017,129143,"[1, 4]","[""person"", ""motorcycle""]",False,multiple_native_categories,False
+835,60835,train2017,470907,[22],"[""elephant""]",False,outside_four_categories,False
+836,60846,train2017,208805,"[63, 72, 75, 84]","[""couch"", ""tv"", ""remote"", ""book""]",False,multiple_native_categories,False
+837,60868,train2017,208849,"[3, 18]","[""car"", ""dog""]",False,multiple_native_categories,False
+838,60979,train2017,209229,"[1, 44, 60, 84]","[""person"", ""bottle"", ""donut"", ""book""]",False,multiple_native_categories,False
+839,61123,train2017,471871,"[3, 17]","[""car"", ""cat""]",False,multiple_native_categories,False
+840,61134,train2017,34961,[20],"[""sheep""]",False,outside_four_categories,False
+841,61178,train2017,209919,"[1, 9, 28]","[""person"", ""boat"", ""umbrella""]",False,multiple_native_categories,False
+842,61217,train2017,210065,"[62, 63, 64, 67, 84, 86]","[""chair"", ""couch"", ""potted plant"", ""dining table"", ""book"", ""vase""]",False,multiple_native_categories,False
+843,61511,train2017,341033,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+844,61514,train2017,211198,"[1, 41]","[""person"", ""skateboard""]",False,multiple_native_categories,False
+845,61678,train2017,474024,"[1, 15, 77]","[""person"", ""bench"", ""cell phone""]",False,multiple_native_categories,False
+846,61739,train2017,207833,"[46, 47, 48, 49, 50, 51, 62, 64, 67, 86]","[""wine glass"", ""cup"", ""fork"", ""knife"", ""spoon"", ""bowl"", ""chair"", ""potted plant"", ""dining table"", ""vase""]",False,multiple_native_categories,False
+847,61749,train2017,474353,"[1, 32]","[""person"", ""tie""]",False,multiple_native_categories,False
+848,61753,train2017,212229,"[17, 47, 65, 73]","[""cat"", ""cup"", ""bed"", ""laptop""]",False,multiple_native_categories,False
+849,61798,train2017,212380,"[1, 3, 10, 32]","[""person"", ""car"", ""traffic light"", ""tie""]",False,multiple_native_categories,False
+850,61802,train2017,474545,[24],"[""zebra""]",True,included,True
+851,61810,train2017,212440,[59],"[""pizza""]",False,outside_four_categories,False
+852,61874,train2017,474827,[85],"[""clock""]",True,included,True
+853,61973,train2017,475236,[60],"[""donut""]",False,outside_four_categories,False
+854,62007,train2017,122923,[9],"[""boat""]",False,outside_four_categories,False
+855,62016,train2017,213288,"[62, 64, 67, 78, 79, 81, 82, 85]","[""chair"", ""potted plant"", ""dining table"", ""microwave"", ""oven"", ""sink"", ""refrigerator"", ""clock""]",False,multiple_native_categories,False
+856,62210,train2017,213988,"[1, 15, 85]","[""person"", ""bench"", ""clock""]",False,multiple_native_categories,False
+857,62229,train2017,214059,"[1, 3, 5, 6, 8]","[""person"", ""car"", ""airplane"", ""bus"", ""truck""]",False,multiple_native_categories,False
+858,62276,train2017,476380,[59],"[""pizza""]",False,outside_four_categories,False
+859,62303,train2017,476481,[17],"[""cat""]",False,outside_four_categories,False
+860,62366,train2017,560054,"[1, 7, 64]","[""person"", ""train"", ""potted plant""]",False,multiple_native_categories,False
+861,62480,train2017,215023,"[1, 44, 47, 50, 51, 79]","[""person"", ""bottle"", ""cup"", ""spoon"", ""bowl"", ""oven""]",False,multiple_native_categories,False
+862,62545,train2017,215291,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+863,62562,train2017,385417,"[3, 62, 72, 73, 74, 76]","[""car"", ""chair"", ""tv"", ""laptop"", ""mouse"", ""keyboard""]",False,multiple_native_categories,False
+864,62684,train2017,35972,"[3, 11]","[""car"", ""fire hydrant""]",False,multiple_native_categories,False
+865,62749,train2017,216029,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+866,62961,train2017,479035,"[1, 48, 49, 50, 60]","[""person"", ""fork"", ""knife"", ""spoon"", ""donut""]",False,multiple_native_categories,False
+867,63082,train2017,444880,[85],"[""clock""]",True,included,True
+868,63183,train2017,294744,"[51, 72, 74, 76, 77, 84]","[""bowl"", ""tv"", ""mouse"", ""keyboard"", ""cell phone"", ""book""]",False,multiple_native_categories,False
+869,63346,train2017,480601,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+870,63450,train2017,480990,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+871,63747,train2017,429887,[85],"[""clock""]",True,included,False
+872,63782,train2017,429902,[9],"[""boat""]",False,outside_four_categories,False
+873,63826,train2017,561006,"[1, 6, 16]","[""person"", ""bus"", ""bird""]",False,multiple_native_categories,False
+874,63923,train2017,482858,"[1, 28, 84]","[""person"", ""umbrella"", ""book""]",False,multiple_native_categories,False
+875,63932,train2017,482912,"[9, 18]","[""boat"", ""dog""]",False,multiple_native_categories,False
+876,63945,train2017,342639,"[1, 15, 18, 40, 43]","[""person"", ""bench"", ""dog"", ""baseball glove"", ""tennis racket""]",False,multiple_native_categories,False
+877,64005,train2017,167908,"[1, 37, 43]","[""person"", ""sports ball"", ""tennis racket""]",False,multiple_native_categories,False
+878,64097,train2017,221441,"[1, 2, 28, 31, 62, 67]","[""person"", ""bicycle"", ""umbrella"", ""handbag"", ""chair"", ""dining table""]",False,multiple_native_categories,False
+879,64296,train2017,484300,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+880,64484,train2017,222921,[24],"[""zebra""]",True,included,True
+881,64499,train2017,485113,[11],"[""fire hydrant""]",False,outside_four_categories,False
+882,64616,train2017,223447,"[1, 19]","[""person"", ""horse""]",False,multiple_native_categories,False
+883,64622,train2017,485605,"[70, 81, 90]","[""toilet"", ""sink"", ""toothbrush""]",False,multiple_native_categories,False
+884,64688,train2017,223718,"[1, 37, 39, 40]","[""person"", ""sports ball"", ""baseball bat"", ""baseball glove""]",False,multiple_native_categories,False
+885,64772,train2017,386856,"[1, 15, 37, 39]","[""person"", ""bench"", ""sports ball"", ""baseball bat""]",False,multiple_native_categories,False
+886,64868,train2017,561677,"[64, 65, 70]","[""potted plant"", ""bed"", ""toilet""]",False,multiple_native_categories,False
+887,64881,train2017,486503,"[1, 39]","[""person"", ""baseball bat""]",False,multiple_native_categories,False
+888,64894,train2017,224396,"[44, 47, 49, 50, 51, 55, 78, 79, 81, 84]","[""bottle"", ""cup"", ""knife"", ""spoon"", ""bowl"", ""orange"", ""microwave"", ""oven"", ""sink"", ""book""]",False,multiple_native_categories,False
+889,64980,train2017,224759,"[56, 57]","[""broccoli"", ""carrot""]",False,multiple_native_categories,False
+890,65011,train2017,224869,"[1, 3, 4, 18, 85]","[""person"", ""car"", ""motorcycle"", ""dog"", ""clock""]",False,multiple_native_categories,False
+891,65070,train2017,225113,"[1, 35, 36]","[""person"", ""skis"", ""snowboard""]",False,multiple_native_categories,False
+892,65149,train2017,225383,"[1, 7, 31]","[""person"", ""train"", ""handbag""]",False,multiple_native_categories,False
+893,65188,train2017,225533,[22],"[""elephant""]",False,outside_four_categories,False
+894,65233,train2017,487825,"[62, 72, 74, 76]","[""chair"", ""tv"", ""mouse"", ""keyboard""]",False,multiple_native_categories,False
+895,65254,train2017,225750,[15],"[""bench""]",False,outside_four_categories,False
+896,65268,train2017,430850,[86],"[""vase""]",False,outside_four_categories,False
+897,65377,train2017,488406,"[3, 11]","[""car"", ""fire hydrant""]",False,multiple_native_categories,False
+898,65415,train2017,168803,"[15, 17]","[""bench"", ""cat""]",False,multiple_native_categories,False
+899,65446,train2017,488658,[25],"[""giraffe""]",True,included,False
+900,65640,train2017,7567,[5],"[""airplane""]",False,outside_four_categories,False
+901,65655,train2017,227307,"[3, 5]","[""car"", ""airplane""]",False,multiple_native_categories,False
+902,65687,train2017,227451,[79],"[""oven""]",False,outside_four_categories,False
+903,65770,train2017,227733,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+904,65800,train2017,227843,"[44, 51, 62, 67, 79, 81, 82]","[""bottle"", ""bowl"", ""chair"", ""dining table"", ""oven"", ""sink"", ""refrigerator""]",False,multiple_native_categories,False
+905,65822,train2017,227928,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+906,65873,train2017,228133,[60],"[""donut""]",False,outside_four_categories,False
+907,65921,train2017,228316,[16],"[""bird""]",False,outside_four_categories,False
+908,65944,train2017,228380,"[1, 7, 15]","[""person"", ""train"", ""bench""]",False,multiple_native_categories,False
+909,66005,train2017,228565,[24],"[""zebra""]",True,included,True
+910,66215,train2017,229456,[24],"[""zebra""]",True,included,True
+911,66217,train2017,491611,[24],"[""zebra""]",True,included,True
+912,66279,train2017,356810,[5],"[""airplane""]",False,outside_four_categories,False
+913,66331,train2017,492037,[23],"[""bear""]",False,outside_four_categories,False
+914,66343,train2017,229947,"[1, 60, 61]","[""person"", ""donut"", ""cake""]",False,multiple_native_categories,False
+915,66422,train2017,38370,"[1, 47, 48, 58, 62, 67]","[""person"", ""cup"", ""fork"", ""hot dog"", ""chair"", ""dining table""]",False,multiple_native_categories,False
+916,66465,train2017,354185,"[1, 37, 43]","[""person"", ""sports ball"", ""tennis racket""]",False,multiple_native_categories,False
+917,66480,train2017,230422,"[18, 34]","[""dog"", ""frisbee""]",False,multiple_native_categories,False
+918,66490,train2017,492627,"[44, 46, 62, 64, 67, 79, 84]","[""bottle"", ""wine glass"", ""chair"", ""potted plant"", ""dining table"", ""oven"", ""book""]",False,multiple_native_categories,False
+919,66581,train2017,300622,"[1, 32]","[""person"", ""tie""]",False,multiple_native_categories,False
+920,66644,train2017,231102,"[72, 73, 74, 84]","[""tv"", ""laptop"", ""mouse"", ""book""]",False,multiple_native_categories,False
+921,66774,train2017,235479,"[1, 34]","[""person"", ""frisbee""]",False,multiple_native_categories,False
+922,66837,train2017,231851,"[9, 16]","[""boat"", ""bird""]",False,multiple_native_categories,False
+923,66947,train2017,232277,[5],"[""airplane""]",False,outside_four_categories,False
+924,66977,train2017,494552,"[1, 16, 28, 47, 51, 62, 67]","[""person"", ""bird"", ""umbrella"", ""cup"", ""bowl"", ""chair"", ""dining table""]",False,multiple_native_categories,False
+925,67046,train2017,232648,"[44, 47, 70, 81]","[""bottle"", ""cup"", ""toilet"", ""sink""]",False,multiple_native_categories,False
+926,67114,train2017,495040,[6],"[""bus""]",False,outside_four_categories,False
+927,67169,train2017,233104,"[16, 19]","[""bird"", ""horse""]",False,multiple_native_categories,False
+928,67205,train2017,495387,"[62, 64, 67]","[""chair"", ""potted plant"", ""dining table""]",False,multiple_native_categories,False
+929,67238,train2017,344729,"[1, 47, 60, 61, 62, 67, 77]","[""person"", ""cup"", ""donut"", ""cake"", ""chair"", ""dining table"", ""cell phone""]",False,multiple_native_categories,False
+930,67253,train2017,495568,"[1, 3, 27, 28, 31, 62, 77]","[""person"", ""car"", ""backpack"", ""umbrella"", ""handbag"", ""chair"", ""cell phone""]",False,multiple_native_categories,False
+931,67296,train2017,233580,"[1, 37, 43]","[""person"", ""sports ball"", ""tennis racket""]",False,multiple_native_categories,False
+932,67364,train2017,233873,[36],"[""snowboard""]",False,outside_four_categories,False
+933,67743,train2017,497464,"[1, 42, 44]","[""person"", ""surfboard"", ""bottle""]",False,multiple_native_categories,False
+934,67803,train2017,82945,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+935,67830,train2017,497797,"[1, 36]","[""person"", ""snowboard""]",False,multiple_native_categories,False
+936,68024,train2017,498615,"[8, 16]","[""truck"", ""bird""]",False,multiple_native_categories,False
+937,68169,train2017,237093,[21],"[""cow""]",False,outside_four_categories,False
+938,68279,train2017,499627,"[64, 85]","[""potted plant"", ""clock""]",False,multiple_native_categories,False
+939,68312,train2017,499730,[13],"[""stop sign""]",False,outside_four_categories,False
+940,68340,train2017,237697,[65],"[""bed""]",False,outside_four_categories,False
+941,68419,train2017,238001,"[1, 27, 31, 33]","[""person"", ""backpack"", ""handbag"", ""suitcase""]",False,multiple_native_categories,False
+942,68472,train2017,238201,[24],"[""zebra""]",True,included,True
+943,68742,train2017,239337,"[1, 16]","[""person"", ""bird""]",False,multiple_native_categories,False
+944,68815,train2017,501739,"[51, 53, 55, 67]","[""bowl"", ""apple"", ""orange"", ""dining table""]",False,multiple_native_categories,False
+945,68843,train2017,501867,"[1, 2, 4, 6, 8, 10]","[""person"", ""bicycle"", ""motorcycle"", ""bus"", ""truck"", ""traffic light""]",False,multiple_native_categories,False
+946,68859,train2017,501926,"[1, 36]","[""person"", ""snowboard""]",False,multiple_native_categories,False
+947,68898,train2017,502058,"[1, 20]","[""person"", ""sheep""]",False,multiple_native_categories,False
+948,69008,train2017,240278,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+949,69026,train2017,502470,[16],"[""bird""]",False,outside_four_categories,False
+950,69031,train2017,214821,"[1, 39]","[""person"", ""baseball bat""]",False,multiple_native_categories,False
+951,69131,train2017,502860,"[47, 50, 51, 67, 75, 84]","[""cup"", ""spoon"", ""bowl"", ""dining table"", ""remote"", ""book""]",False,multiple_native_categories,False
+952,69215,train2017,241026,[7],"[""train""]",True,included,True
+953,69241,train2017,40187,"[44, 46, 63, 67, 78, 79, 81, 82]","[""bottle"", ""wine glass"", ""couch"", ""dining table"", ""microwave"", ""oven"", ""sink"", ""refrigerator""]",False,multiple_native_categories,False
+954,69443,train2017,112805,[15],"[""bench""]",False,outside_four_categories,False
+955,69503,train2017,242133,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+956,69615,train2017,242631,"[1, 34]","[""person"", ""frisbee""]",False,multiple_native_categories,False
+957,69617,train2017,433657,"[20, 21]","[""sheep"", ""cow""]",False,multiple_native_categories,False
+958,69786,train2017,505486,[24],"[""zebra""]",True,included,False
+959,69814,train2017,505592,[22],"[""elephant""]",False,outside_four_categories,False
+960,69832,train2017,505643,"[1, 43]","[""person"", ""tennis racket""]",False,multiple_native_categories,False
+961,69840,train2017,505661,"[78, 84]","[""microwave"", ""book""]",False,multiple_native_categories,False
+962,69855,train2017,505738,"[1, 3, 4, 10]","[""person"", ""car"", ""motorcycle"", ""traffic light""]",False,multiple_native_categories,False
+963,69919,train2017,243839,"[1, 15, 31, 73]","[""person"", ""bench"", ""handbag"", ""laptop""]",False,multiple_native_categories,False
+964,70039,train2017,244334,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+965,70076,train2017,244476,"[1, 61, 62, 67]","[""person"", ""cake"", ""chair"", ""dining table""]",False,multiple_native_categories,False
+966,70096,train2017,244578,"[1, 42]","[""person"", ""surfboard""]",False,multiple_native_categories,False
+967,70194,train2017,244967,"[1, 32, 47]","[""person"", ""tie"", ""cup""]",False,multiple_native_categories,False
+968,70233,train2017,434069,"[1, 3, 27, 28, 31, 77]","[""person"", ""car"", ""backpack"", ""umbrella"", ""handbag"", ""cell phone""]",False,multiple_native_categories,False
+969,70336,train2017,507642,[25],"[""giraffe""]",True,included,False
+970,70361,train2017,507789,"[44, 70, 81]","[""bottle"", ""toilet"", ""sink""]",False,multiple_native_categories,False
+971,70369,train2017,477852,"[1, 4]","[""person"", ""motorcycle""]",False,multiple_native_categories,False
+972,70428,train2017,245895,"[1, 40]","[""person"", ""baseball glove""]",False,multiple_native_categories,False
+973,70506,train2017,246166,"[1, 77]","[""person"", ""cell phone""]",False,multiple_native_categories,False
+974,70586,train2017,246453,"[47, 73]","[""cup"", ""laptop""]",False,multiple_native_categories,False
+975,70590,train2017,508612,[24],"[""zebra""]",True,included,False
+976,70672,train2017,246759,"[1, 6]","[""person"", ""bus""]",False,multiple_native_categories,False
+977,70759,train2017,247121,"[62, 65, 77]","[""chair"", ""bed"", ""cell phone""]",False,multiple_native_categories,False
+978,70765,train2017,509292,"[1, 38]","[""person"", ""kite""]",False,multiple_native_categories,False
+979,70948,train2017,247893,"[1, 35, 36]","[""person"", ""skis"", ""snowboard""]",False,multiple_native_categories,False
+980,71026,train2017,510334,"[20, 21]","[""sheep"", ""cow""]",False,multiple_native_categories,False
+981,71187,train2017,510900,"[1, 58]","[""person"", ""hot dog""]",False,multiple_native_categories,False
+982,71230,train2017,303637,"[1, 5]","[""person"", ""airplane""]",False,multiple_native_categories,False
+983,71233,train2017,511127,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+984,71242,train2017,511165,"[78, 82]","[""microwave"", ""refrigerator""]",False,multiple_native_categories,False
+985,71411,train2017,216378,[4],"[""motorcycle""]",False,outside_four_categories,False
+986,71451,train2017,249905,"[1, 35]","[""person"", ""skis""]",False,multiple_native_categories,False
+987,71754,train2017,251084,"[3, 6]","[""car"", ""bus""]",False,multiple_native_categories,False
+988,71895,train2017,304092,[22],"[""elephant""]",False,outside_four_categories,False
+989,71929,train2017,251818,"[1, 41]","[""person"", ""skateboard""]",False,multiple_native_categories,False
+990,72016,train2017,252160,[9],"[""boat""]",False,outside_four_categories,False
+991,72081,train2017,514563,"[1, 2, 3, 8, 10]","[""person"", ""bicycle"", ""car"", ""truck"", ""traffic light""]",False,multiple_native_categories,False
+992,72171,train2017,514955,[16],"[""bird""]",False,outside_four_categories,False
+993,72210,train2017,515102,"[1, 90]","[""person"", ""toothbrush""]",False,multiple_native_categories,False
+994,72258,train2017,515296,[21],"[""cow""]",False,outside_four_categories,False
+995,72313,train2017,515508,"[1, 27, 35]","[""person"", ""backpack"", ""skis""]",False,multiple_native_categories,False
+996,72511,train2017,254130,[7],"[""train""]",True,included,False
+997,72606,train2017,516634,[25],"[""giraffe""]",True,included,False
+998,72720,train2017,304627,"[2, 42, 62]","[""bicycle"", ""surfboard"", ""chair""]",False,multiple_native_categories,False
+999,72949,train2017,517878,"[62, 63, 72, 73, 75, 84, 86]","[""chair"", ""couch"", ""tv"", ""laptop"", ""remote"", ""book"", ""vase""]",False,multiple_native_categories,False

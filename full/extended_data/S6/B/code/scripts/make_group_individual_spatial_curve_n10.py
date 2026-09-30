@@ -1,0 +1,1 @@
+../../../_source/date/scripts/make_group_individual_spatial_curve_n10.py

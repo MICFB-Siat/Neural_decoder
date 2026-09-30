@@ -1,0 +1,19 @@
+{
+  "train_idx": [
+    0,
+    1,
+    3,
+    4,
+    5,
+    6,
+    8
+  ],
+  "test_idx": [
+    2,
+    7
+  ],
+  "n_train": 7,
+  "n_test": 2,
+  "subject": "sub-043",
+  "fold": 0
+}
